@@ -1,0 +1,3 @@
+/home/jakub-staudt/Documents/Industrial-Telemetry-Replay-And-Failure-Detection-System/industrial-telemetry-replay-cpp/build/CMakeFiles/industrial_monitor.dir
+/home/jakub-staudt/Documents/Industrial-Telemetry-Replay-And-Failure-Detection-System/industrial-telemetry-replay-cpp/build/CMakeFiles/edit_cache.dir
+/home/jakub-staudt/Documents/Industrial-Telemetry-Replay-And-Failure-Detection-System/industrial-telemetry-replay-cpp/build/CMakeFiles/rebuild_cache.dir
