@@ -77,8 +77,8 @@ std::string CsvParser::trim(const std::string& s) {
 }
 
 TelemetryRecord CsvParser::parseRecord(const std::vector<std::string>& fields) {
-    if (fields.size() != 13) {
-        throw std::runtime_error("Expected 13 fields, got " + std::to_string(fields.size()));
+    if (fields.size() < 13 || fields.size() > 14) {
+        throw std::runtime_error("Expected 13-14 fields, got " + std::to_string(fields.size()));
     }
 
     TelemetryRecord record;
