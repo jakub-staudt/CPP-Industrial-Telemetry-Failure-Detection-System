@@ -2,25 +2,19 @@
 
 # Industrial Telemetry Replay & Failure Detection System
 
-A fast, high-performance C++17 command-line application that analyzes industrial machine telemetry data from CSV, calculates real-time health scores, detects failure conditions, and outputs results to CSV. Processes 10,000 records in **milliseconds**.
+A fast, high-performance C++17 command-line application that analyzes industrial machine telemetry data from CSV, calculates real-time health scores, detects failure conditions, and outputs results to CSV.
 
 ## Project Overview
 
 This system provides predictive maintenance monitoring where:
-- **CSV telemetry data** (temperatures, speeds, torque, wear) is rapidly processed
+- **CSV telemetry data** (temperatures, speeds, torque, wear) is processed
 - **Health scores** are calculated using a multi-factor algorithm  
 - **Failure detection** identifies warning and critical conditions
 - **CSV results** capture all detection events for analysis
 
 ## Features
 
-### 1. Fast CSV Processing ✓
-- Instant processing of large datasets (10K records → <20ms)
-- Robust parsing with UTF-8 BOM and quoted field handling
-- Validates 13-field structure
-- Comprehensive error reporting
-
-### 2. Health Score Calculator ✓
+### 1. Health Score Calculator
 Multi-factor weighted algorithm:
 - **Tool Wear (35%)** - Accumulates from 0-250+min
 - **Temperature (25%)** - Deviation from normal air/process temps
@@ -33,18 +27,17 @@ Status Thresholds:
 - `WARNING`: 40 ≤ score < 70
 - `HEALTHY`: score ≥ 70
 
-### 3. Failure Detection ✓
+### 2. Failure Detection 
 Real-time detection of:
 - **Critical Failures**: Score < 40, extreme temps (>315K), excessive wear (>240min), extreme torque (>70Nm)
 - **Warnings**: Score 40-70, rising temps (>312K), tool wear (>180min), elevated torque (>55Nm)
 - **Root Cause Analysis**: Identifies primary degradation factor
 - **Accuracy Validation**: Compares against actual recorded failures
 
-### 4. CSV Output ✓
-Detection results written directly to CSV with:
+### 3. CSV Output
+Detection results written to CSV with:
 - Row number, event type, health score, status
 - Event description and accuracy flag
-- Instant computation, no line-by-line delays
 
 ## Dataset Information
 
@@ -71,8 +64,7 @@ Detection results written directly to CSV with:
 
 ### Build Instructions
 ```bash
-git clone <repository>
-cd industrial-telemetry-replay-cpp
+
 mkdir build && cd build
 cmake ..
 make
@@ -87,7 +79,7 @@ Executable: `./industrial_monitor`
 ```bash
 ./build/industrial_monitor
 ```
-Reads from `data/ai4i2020.csv` → outputs to `output/results.csv`
+Reads from `data/equipment_telemetry.csv` → outputs to `output/results.csv`
 
 ### Custom Input File
 ```bash
@@ -140,8 +132,6 @@ Results Summary:
   Actual Failures:       339
   Critical Detections:   259
   Detection Accuracy:    8.8%
-  Total Computation Time: 15ms
-  Throughput:            666666 records/sec
 ```
 
 ## Output CSV Format
@@ -184,13 +174,6 @@ main.cpp
 5. **CSV Output**: Results written directly to file
 6. **Summary**: Statistics printed to console
 
-## Performance
-
-- **Throughput**: 100K+ records/sec (no delays)
-- **Full dataset (10K records)**: 15-20ms
-- **Memory Usage**: ~10-15MB
-- **Per-record processing**: <0.05ms
-
 ## Algorithm Details
 
 ### Health Score Calculation
@@ -232,6 +215,10 @@ For each record:
 industrial-telemetry-replay-cpp/
 ├── CMakeLists.txt
 ├── README.md
+├── build/
+├── data/
+│   ├── ai4i2020.csv
+│   └── equipment_telemetry.csv
 ├── include/
 │   ├── csv_parser.h
 │   ├── telemetry_record.h
@@ -239,6 +226,8 @@ industrial-telemetry-replay-cpp/
 │   ├── failure_detector.h
 │   ├── replay_engine.h
 │   └── report_generator.h
+├── output
+│   └── results.csv
 └── src/
     ├── main.cpp
     ├── csv_parser.cpp
@@ -249,39 +238,18 @@ industrial-telemetry-replay-cpp/
     └── report_generator.cpp
 ```
 
-## Performance
-
-- **Throughput**: ~100-200 records/sec (depending on delay)
-- **Memory Usage**: ~10-15MB for full dataset in memory
-- **CPU**: Minimal; processing time negligible vs. I/O
-
-## Testing & Validation
-
-The detector includes built-in accuracy validation:
-- Compares detected conditions against actual recorded failure flags
-- Tracks warning precision and recall
-- Reports accuracy percentage in session summary
-
-## Future Enhancements
+## Future Improvements
 
 Potential improvements:
 - Machine learning-based anomaly detection
-- Streaming/online processing (no full dataset preload)
+- Web GUI dashboard for real-time monitoring
+- Live data integration and monitoring with notifications
 - Statistical threshold auto-tuning
 - Predictive maintenance (forecast failures before occurrence)
-- Multi-machine correlation analysis
-- Web dashboard for real-time monitoring
 - Database backend for historical analysis
 
-## License
 
-[Specify your license here]
-
-## Author
-
-[Your name/organization]
 
 ## References
 
 - AI4I 2020 Dataset: https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
-- Predictive Maintenance: https://en.wikipedia.org/wiki/Predictive_maintenance
