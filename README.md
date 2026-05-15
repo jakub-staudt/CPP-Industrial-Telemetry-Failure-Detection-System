@@ -1,8 +1,8 @@
+<img src="images/cover.jpg" alt="Project" width="100%">
+
 # Industrial Telemetry Replay & Failure Detection System
 
 A fast, high-performance C++17 command-line application that analyzes industrial machine telemetry data from CSV, calculates real-time health scores, detects failure conditions, and outputs results to CSV. Processes 10,000 records in **milliseconds**.
-
-<img src="images/cover.jpg" alt="Project" width="100%">
 
 ## Project Overview
 
