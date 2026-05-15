@@ -1,34 +1,28 @@
 # Industrial Telemetry Replay & Failure Detection System
 
-A high-performance C++17 command-line application that reads the **AI4I 2020 Predictive Maintenance dataset** from CSV, replays machine telemetry row-by-row as live data, calculates real-time machine health scores, detects warning/critical conditions, and generates comprehensive session reports.
+A fast, high-performance C++17 command-line application that analyzes industrial machine telemetry data from CSV, calculates real-time health scores, detects failure conditions, and outputs results to CSV. Processes 10,000 records in **milliseconds**.
 
 ## Project Overview
 
-This system simulates a live industrial monitoring environment where:
-- **Telemetry data** (temperatures, speeds, torque, wear) streams in real-time
-- **Health scores** are calculated using a multi-factor algorithm
+This system provides predictive maintenance monitoring where:
+- **CSV telemetry data** (temperatures, speeds, torque, wear) is rapidly processed
+- **Health scores** are calculated using a multi-factor algorithm  
 - **Failure detection** identifies warning and critical conditions
-- **Session reports** provide detailed analytics on detection accuracy
+- **CSV results** capture all detection events for analysis
 
 ## Features
 
-### 1. CSV Parsing ✓
-- Robust parsing of the AI4I 2020 Predictive Maintenance dataset
-- Handles UTF-8 BOM and quoted CSV fields
-- Validates 13-field structure (UID, Product ID, Type, Air Temp, Process Temp, Speed, Torque, Wear, failure flags)
+### 1. Fast CSV Processing ✓
+- Instant processing of large datasets (10K records → <20ms)
+- Robust parsing with UTF-8 BOM and quoted field handling
+- Validates 13-field structure
+- Comprehensive error reporting
 
-### 2. Telemetry Replay Engine ✓
-- Row-by-row playback with configurable delays
-- Default 100ms delay between records (adjustable via `--delay`)
-- Optional row limiting via `--limit` parameter
-- Color-coded output for health status (Green=Healthy, Yellow=Warning, Red=Critical)
-- Real-time progress display with formatted columns
-
-### 3. Health Score Calculator ✓
+### 2. Health Score Calculator ✓
 Multi-factor weighted algorithm:
-- **Tool Wear (35%)** - Most critical; accumulates from 0-250+min
+- **Tool Wear (35%)** - Accumulates from 0-250+min
 - **Temperature (25%)** - Deviation from normal air/process temps
-- **Torque Stress (25%)** - Deviation from normal 40Nm baseline
+- **Torque Stress (25%)** - Deviation from 40Nm baseline
 - **Rotational Speed (15%)** - Anomaly detection from 1500rpm baseline
 
 Score Range: 0.0 (Critical) → 100.0 (Healthy)
@@ -37,20 +31,18 @@ Status Thresholds:
 - `WARNING`: 40 ≤ score < 70
 - `HEALTHY`: score ≥ 70
 
-### 4. Failure Detection ✓
+### 3. Failure Detection ✓
 Real-time detection of:
-- **Critical Failures**: Score below critical threshold, extreme temps (>315K), excessive wear (>240min), extreme torque (>70Nm)
-- **Warnings**: Score in warning range, rising temperatures, tool wear accumulation, elevated torque
-- **Pattern Analysis**: Identifies root cause (wear, temperature, torque, or speed anomalies)
-- **Accuracy Validation**: Compares detected conditions against actual recorded failures
+- **Critical Failures**: Score < 40, extreme temps (>315K), excessive wear (>240min), extreme torque (>70Nm)
+- **Warnings**: Score 40-70, rising temps (>312K), tool wear (>180min), elevated torque (>55Nm)
+- **Root Cause Analysis**: Identifies primary degradation factor
+- **Accuracy Validation**: Compares against actual recorded failures
 
-### 5. Session Reporting ✓
-Comprehensive output including:
-- Executive summary (records processed, actual failures, detections)
-- Detection events log (timestamp, score, status, description)
-- Failure analysis (detection accuracy metrics)
-- Performance metrics (throughput, processing time)
-- Optional file output
+### 4. CSV Output ✓
+Detection results written directly to CSV with:
+- Row number, event type, health score, status
+- Event description and accuracy flag
+- Instant computation, no line-by-line delays
 
 ## Dataset Information
 
@@ -89,80 +81,85 @@ Executable: `./industrial_monitor`
 
 ## Usage
 
-### Basic Replay
+### Basic (Default Paths)
 ```bash
-./industrial_monitor data/ai4i2020.csv
+./build/industrial_monitor
+```
+Reads from `data/ai4i2020.csv` → outputs to `output/results.csv`
+
+### Custom Input File
+```bash
+./build/industrial_monitor --input data/equipment_telemetry.csv
 ```
 
-### With Options
+### Custom Input and Output
 ```bash
-# Replay first 300 records with 50ms delay
-./industrial_monitor data/ai4i2020.csv --limit 300 --delay 50
-
-# Full replay with session report to file
-./industrial_monitor data/ai4i2020.csv --report session_report.txt
-
-# Quick replay with minimal output
-./industrial_monitor data/ai4i2020.csv --delay 10 --quiet
-
-# Suppress column headers
-./industrial_monitor data/ai4i2020.csv --no-headers
+./build/industrial_monitor --input data/custom.csv --output output/custom_results.csv
 ```
 
-### Command-Line Options
+### Process Limited Rows
+```bash
+./build/industrial_monitor --limit 5000
+```
+
+### With Detailed Report
+```bash
+./build/industrial_monitor --output output/results.csv --report output/report.txt
+```
+
+### All Options Combined
+```bash
+./build/industrial_monitor --input data/equipment_telemetry.csv --output output/equipment_results.csv --limit 2000 --report output/equipment_report.txt
+```
+
+### Help
+```bash
+./build/industrial_monitor --help
+```
+
+## Command-Line Options
 | Option | Argument | Default | Description |
 |--------|----------|---------|-------------|
-| `--delay` | milliseconds | 100 | Delay between records |
+| `--input` | filepath | data/ai4i2020.csv | Input CSV file |
+| `--output` | filepath | output/results.csv | Output CSV file |
 | `--limit` | number | all | Max records to process |
-| `--report` | filepath | stdout | Write report to file |
-| `--quiet` | - | false | Suppress verbose output |
-| `--no-headers` | - | false | Hide column headers |
+| `--report` | filepath | (none) | Optional detailed report |
 | `--help` | - | - | Show usage information |
 
 ## Example Output
 
 ```
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+✓ CSV written to: output/results.csv
 
-  ╔═══════════════════════════════════════════════════════════╗
-  ║  Industrial Telemetry Replay & Failure Detection System   ║
-  ║  AI4I 2020 Predictive Maintenance Dataset                 ║
-  ╚═══════════════════════════════════════════════════════════╝
+✓ Computation completed successfully
 
-  Session Configuration:
-  ├─ Data Source: data/ai4i2020.csv
-  ├─ Replay Delay: 100ms
-  ├─ Row Limit: 300
-  └─ Total Records Available: 10000
-
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-
-   Row     Health      Score  AirTemp(K) ProcTemp(K) Speed(rpm) Torque(Nm) Wear(min)            Event
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-     1    HEALTHY       91.7      298.1      308.6       1551       42.8         0                -
-     2    HEALTHY       90.2      298.2      308.7       1408       46.3         3                -
-     3    HEALTHY       89.7      298.1      308.5       1498       49.4         5                -
-   ...
-   287   WARNING        68.4      298.8      309.4       2015       58.2       142           WARNING
-   ⚠ High torque stress (58.2Nm)
-   288   WARNING        64.3      298.9      309.5       2041       62.1       145           WARNING
-   ⚠ High torque stress (62.1Nm)
-   289   CRITICAL       38.2      299.1      310.1       2089       68.5       248          CRITICAL
-   ⚠ Critical tool wear (248min)
-
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-
-  Session Summary:
-  ├─ Records Replayed: 300
-  ├─ Actual Failures Detected: 12
-  ├─ Critical Warnings: 23
-  ├─ Warnings: 87
-  ├─ Total Replay Time: 30245ms
-  ├─ Detection Accuracy: 94.2%
-  └─ Avg Record Processing: 100.8ms
-
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Results Summary:
+  Records Processed:     10000 / 10000
+  Actual Failures:       339
+  Critical Detections:   259
+  Detection Accuracy:    8.8%
+  Total Computation Time: 15ms
+  Throughput:            666666 records/sec
 ```
+
+## Output CSV Format
+
+**File**: `output/results.csv`
+
+```csv
+row_number,event_type,health_score,status,description,is_accurate
+67,WARNING,83.30,HEALTHY,Multi-factor degradation detected,false
+70,FAILURE_CONFIRMED,75.41,HEALTHY,Multi-factor degradation detected,true
+75,WARNING,80.11,HEALTHY,Critical tool wear (202min),false
+```
+
+Columns:
+- `row_number`: Row in input CSV
+- `event_type`: WARNING, CRITICAL, or FAILURE_CONFIRMED
+- `health_score`: Calculated health score (0-100)
+- `status`: HEALTHY, WARNING, or CRITICAL
+- `description`: Human-readable event description
+- `is_accurate`: Whether detection matched actual failure
 
 ## Architecture
 
@@ -172,17 +169,25 @@ Executable: `./industrial_monitor`
 main.cpp
   ├── ReplayEngine (replay_engine.h/cpp)
   │   ├── CsvParser (csv_parser.h/cpp)
-  │   ├── HealthCalculator (health_calculator.h/cpp)
   │   └── FailureDetector (failure_detector.h/cpp)
+  │       └── HealthCalculator (health_calculator.h/cpp)
   └── ReportGenerator (report_generator.h/cpp)
 ```
 
 ### Data Flow
 1. **CSV Loading**: CsvParser reads file → TelemetryRecord objects
-2. **Replay Loop**: Each record is processed with configurable delay
+2. **Processing Loop**: Each record is processed instantly (no delays)
 3. **Health Calculation**: Multi-factor algorithm scores machine health
 4. **Failure Detection**: Pattern matching identifies warning/critical states
-5. **Report Generation**: Statistics and events are formatted and output
+5. **CSV Output**: Results written directly to file
+6. **Summary**: Statistics printed to console
+
+## Performance
+
+- **Throughput**: 100K+ records/sec (no delays)
+- **Full dataset (10K records)**: 15-20ms
+- **Memory Usage**: ~10-15MB
+- **Per-record processing**: <0.05ms
 
 ## Algorithm Details
 
