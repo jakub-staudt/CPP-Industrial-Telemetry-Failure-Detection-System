@@ -4,6 +4,44 @@
 #include <sstream>
 #include <iomanip>
 
+void ReportGenerator::printSummary(const ReplayEngine& engine) {
+    const auto& stats = engine.getStats();
+    const auto& detectorStats = engine.getDetector().getStats();
+
+    std::cout << "\n✓ Computation completed successfully\n\n";
+    std::cout << "Results Summary:\n";
+    std::cout << "  Records Processed:     " << stats.recordsReplayed << " / " << stats.totalRecords << "\n";
+    std::cout << "  Actual Failures:       " << stats.actualFailures << "\n";
+    std::cout << "  Critical Detections:   " << detectorStats.totalCritical << "\n";
+    // std::cout << "  Detection Accuracy:    " << std::fixed << std::setprecision(1) 
+            //   << (detectorStats.accuracyRate * 100.0) << "%\n";
+    // std::cout << "  Total Computation Time: " << stats.totalReplayTime.count() << "ms\n";
+    // std::cout << "  Throughput:             " << std::fixed << std::setprecision(0)
+            //   << (stats.recordsReplayed * 1000.0 / stats.totalReplayTime.count()) << " records/sec\n\n";
+}
+
+void ReportGenerator::generateCSV(const ReplayEngine& engine, const std::string& outputPath) {
+    std::ofstream file(outputPath);
+    if (!file.is_open()) {
+        throw std::runtime_error("Cannot open CSV output file: " + outputPath);
+    }
+
+    const auto& events = engine.getDetector().getDetectionEvents();
+
+    file << "row_number,event_type,health_score,status,description,is_accurate\n";
+
+    for (const auto& event : events) {
+        file << event.rowNumber << ","
+             << event.eventType << ","
+             << std::fixed << std::setprecision(2) << event.health.score << ","
+             << event.health.getStatusString() << ","
+             << event.description << ","
+             << (event.wasAccurate ? "true" : "false") << "\n";
+    }
+
+    file.close();
+}
+
 void ReportGenerator::generateReport(const ReplayEngine& engine, const std::string& outputPath) {
     std::ostringstream report;
 

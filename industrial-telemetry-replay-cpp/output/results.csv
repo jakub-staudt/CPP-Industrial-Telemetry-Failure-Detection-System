@@ -1,0 +1,2875 @@
+row_number,event_type,health_score,status,description,is_accurate
+67,WARNING,83.30,HEALTHY,Multi-factor degradation detected,false
+68,WARNING,84.86,HEALTHY,Multi-factor degradation detected,false
+69,WARNING,82.41,HEALTHY,Multi-factor degradation detected,false
+70,FAILURE_CONFIRMED,75.41,HEALTHY,Multi-factor degradation detected,true
+71,WARNING,74.85,HEALTHY,Multi-factor degradation detected,false
+72,WARNING,81.40,HEALTHY,Multi-factor degradation detected,false
+73,WARNING,82.36,HEALTHY,Multi-factor degradation detected,false
+74,WARNING,80.71,HEALTHY,Multi-factor degradation detected,false
+75,WARNING,80.11,HEALTHY,Critical tool wear (202min),false
+76,WARNING,79.90,HEALTHY,Critical tool wear (204min),false
+77,WARNING,79.40,HEALTHY,Critical tool wear (206min),false
+78,FAILURE_CONFIRMED,80.66,HEALTHY,Critical tool wear (208min),true
+127,WARNING,79.54,HEALTHY,Multi-factor degradation detected,false
+138,WARNING,74.59,HEALTHY,Multi-factor degradation detected,false
+140,WARNING,81.98,HEALTHY,Multi-factor degradation detected,false
+149,WARNING,83.79,HEALTHY,Multi-factor degradation detected,false
+150,WARNING,84.84,HEALTHY,Multi-factor degradation detected,false
+151,WARNING,84.49,HEALTHY,Multi-factor degradation detected,false
+152,WARNING,84.10,HEALTHY,Multi-factor degradation detected,false
+153,WARNING,83.58,HEALTHY,Multi-factor degradation detected,false
+154,WARNING,78.85,HEALTHY,Multi-factor degradation detected,false
+155,WARNING,82.70,HEALTHY,Multi-factor degradation detected,false
+156,WARNING,73.74,HEALTHY,Multi-factor degradation detected,false
+157,WARNING,80.06,HEALTHY,Critical tool wear (203min),false
+158,WARNING,80.95,HEALTHY,Critical tool wear (206min),false
+159,WARNING,80.08,HEALTHY,Critical tool wear (211min),false
+160,WARNING,78.05,HEALTHY,Critical tool wear (214min),false
+161,FAILURE_CONFIRMED,70.06,HEALTHY,Critical tool wear (216min),true
+162,FAILURE_CONFIRMED,76.70,HEALTHY,Critical tool wear (218min),true
+169,FAILURE_CONFIRMED,91.75,HEALTHY,Multi-factor degradation detected,true
+170,WARNING,93.29,HEALTHY,Multi-factor degradation detected,false
+175,WARNING,93.31,HEALTHY,Multi-factor degradation detected,false
+187,WARNING,91.16,HEALTHY,Multi-factor degradation detected,false
+208,FAILURE_CONFIRMED,80.03,HEALTHY,Multi-factor degradation detected,true
+234,WARNING,84.24,HEALTHY,Multi-factor degradation detected,false
+235,WARNING,85.15,HEALTHY,Multi-factor degradation detected,false
+236,WARNING,83.40,HEALTHY,Multi-factor degradation detected,false
+237,WARNING,84.29,HEALTHY,Multi-factor degradation detected,false
+238,WARNING,83.91,HEALTHY,Multi-factor degradation detected,false
+239,WARNING,81.42,HEALTHY,Multi-factor degradation detected,false
+240,WARNING,81.27,HEALTHY,Multi-factor degradation detected,false
+241,WARNING,80.61,HEALTHY,Multi-factor degradation detected,false
+242,WARNING,74.18,HEALTHY,Multi-factor degradation detected,false
+243,FAILURE_CONFIRMED,75.60,HEALTHY,Critical tool wear (202min),true
+244,WARNING,81.50,HEALTHY,Critical tool wear (204min),false
+245,WARNING,79.39,HEALTHY,Critical tool wear (206min),false
+246,WARNING,78.84,HEALTHY,Critical tool wear (209min),false
+247,WARNING,78.57,HEALTHY,Critical tool wear (212min),false
+248,WARNING,78.44,HEALTHY,Critical tool wear (214min),false
+249,FAILURE_CONFIRMED,73.19,HEALTHY,Critical tool wear (216min),true
+250,FAILURE_CONFIRMED,72.84,HEALTHY,Critical tool wear (218min),true
+257,WARNING,91.81,HEALTHY,Multi-factor degradation detected,false
+260,FAILURE_CONFIRMED,91.66,HEALTHY,Multi-factor degradation detected,true
+319,WARNING,85.50,HEALTHY,Multi-factor degradation detected,false
+320,WARNING,83.54,HEALTHY,Multi-factor degradation detected,false
+321,WARNING,84.80,HEALTHY,Multi-factor degradation detected,false
+322,WARNING,82.36,HEALTHY,Multi-factor degradation detected,false
+323,WARNING,83.61,HEALTHY,Multi-factor degradation detected,false
+324,WARNING,81.85,HEALTHY,Multi-factor degradation detected,false
+325,WARNING,82.91,HEALTHY,Multi-factor degradation detected,false
+326,WARNING,80.24,HEALTHY,Multi-factor degradation detected,false
+327,WARNING,81.99,HEALTHY,Critical tool wear (201min),false
+328,FAILURE_CONFIRMED,75.39,HEALTHY,Critical tool wear (203min),true
+329,WARNING,77.99,HEALTHY,Critical tool wear (205min),false
+330,WARNING,76.96,HEALTHY,Critical tool wear (210min),false
+331,WARNING,79.45,HEALTHY,Critical tool wear (215min),false
+332,WARNING,76.81,HEALTHY,Critical tool wear (218min),false
+365,WARNING,87.03,HEALTHY,Multi-factor degradation detected,false
+366,WARNING,86.67,HEALTHY,Multi-factor degradation detected,false
+388,WARNING,74.26,HEALTHY,Multi-factor degradation detected,false
+404,WARNING,77.32,HEALTHY,Multi-factor degradation detected,false
+405,WARNING,81.93,HEALTHY,Multi-factor degradation detected,false
+406,WARNING,78.16,HEALTHY,Multi-factor degradation detected,false
+407,WARNING,82.04,HEALTHY,Multi-factor degradation detected,false
+408,WARNING,83.76,HEALTHY,Multi-factor degradation detected,false
+409,WARNING,83.27,HEALTHY,Multi-factor degradation detected,false
+410,WARNING,82.75,HEALTHY,Multi-factor degradation detected,false
+411,WARNING,82.45,HEALTHY,Multi-factor degradation detected,false
+412,WARNING,81.96,HEALTHY,Critical tool wear (201min),false
+413,WARNING,79.93,HEALTHY,Critical tool wear (203min),false
+414,WARNING,79.79,HEALTHY,Critical tool wear (205min),false
+415,WARNING,79.19,HEALTHY,Critical tool wear (207min),false
+416,WARNING,80.45,HEALTHY,Critical tool wear (209min),false
+417,WARNING,80.09,HEALTHY,Critical tool wear (211min),false
+418,WARNING,77.81,HEALTHY,Critical tool wear (213min),false
+423,WARNING,93.14,HEALTHY,Multi-factor degradation detected,false
+430,WARNING,90.04,HEALTHY,Multi-factor degradation detected,false
+443,FAILURE_CONFIRMED,89.90,HEALTHY,Multi-factor degradation detected,true
+448,WARNING,89.24,HEALTHY,Multi-factor degradation detected,false
+456,WARNING,85.29,HEALTHY,Multi-factor degradation detected,false
+480,WARNING,82.39,HEALTHY,Multi-factor degradation detected,false
+484,WARNING,80.67,HEALTHY,Multi-factor degradation detected,false
+488,WARNING,83.89,HEALTHY,Multi-factor degradation detected,false
+489,WARNING,84.57,HEALTHY,Multi-factor degradation detected,false
+490,WARNING,78.03,HEALTHY,Multi-factor degradation detected,false
+491,WARNING,83.70,HEALTHY,Multi-factor degradation detected,false
+492,WARNING,82.02,HEALTHY,Multi-factor degradation detected,false
+493,WARNING,83.01,HEALTHY,Multi-factor degradation detected,false
+494,WARNING,82.66,HEALTHY,Multi-factor degradation detected,false
+495,WARNING,80.48,HEALTHY,Multi-factor degradation detected,false
+496,WARNING,80.12,HEALTHY,Critical tool wear (201min),false
+497,WARNING,81.12,HEALTHY,Critical tool wear (206min),false
+498,WARNING,80.62,HEALTHY,Critical tool wear (209min),false
+499,WARNING,78.44,HEALTHY,Critical tool wear (211min),false
+500,WARNING,79.94,HEALTHY,Critical tool wear (213min),false
+501,WARNING,75.54,HEALTHY,Critical tool wear (215min),false
+502,WARNING,77.64,HEALTHY,Critical tool wear (218min),false
+503,WARNING,78.55,HEALTHY,Critical tool wear (221min),false
+518,WARNING,93.35,HEALTHY,Multi-factor degradation detected,false
+561,WARNING,76.55,HEALTHY,Multi-factor degradation detected,false
+573,WARNING,83.64,HEALTHY,Multi-factor degradation detected,false
+574,WARNING,83.84,HEALTHY,Multi-factor degradation detected,false
+575,WARNING,84.70,HEALTHY,Multi-factor degradation detected,false
+576,WARNING,77.96,HEALTHY,Multi-factor degradation detected,false
+577,WARNING,81.65,HEALTHY,Multi-factor degradation detected,false
+578,WARNING,82.79,HEALTHY,Multi-factor degradation detected,false
+579,WARNING,82.45,HEALTHY,Multi-factor degradation detected,false
+580,WARNING,78.93,HEALTHY,Multi-factor degradation detected,false
+581,WARNING,77.34,HEALTHY,Critical tool wear (203min),false
+582,WARNING,81.09,HEALTHY,Critical tool wear (206min),false
+583,WARNING,78.96,HEALTHY,Critical tool wear (208min),false
+584,WARNING,78.77,HEALTHY,Critical tool wear (210min),false
+585,WARNING,77.80,HEALTHY,Critical tool wear (215min),false
+586,WARNING,67.86,WARNING,Critical tool wear (220min),false
+587,FAILURE_CONFIRMED,76.38,HEALTHY,Critical tool wear (222min),true
+588,WARNING,76.43,HEALTHY,Critical tool wear (224min),false
+589,WARNING,75.63,HEALTHY,Critical tool wear (229min),false
+590,WARNING,76.73,HEALTHY,Critical tool wear (231min),false
+591,WARNING,76.33,HEALTHY,Critical tool wear (233min),false
+592,WARNING,76.01,HEALTHY,Critical tool wear (235min),false
+593,WARNING,72.92,HEALTHY,Critical tool wear (240min),false
+604,FAILURE_CONFIRMED,90.70,HEALTHY,Multi-factor degradation detected,true
+629,WARNING,85.09,HEALTHY,Multi-factor degradation detected,false
+643,WARNING,77.95,HEALTHY,Multi-factor degradation detected,false
+658,WARNING,81.28,HEALTHY,Multi-factor degradation detected,false
+663,WARNING,85.41,HEALTHY,Multi-factor degradation detected,false
+664,WARNING,84.84,HEALTHY,Multi-factor degradation detected,false
+665,WARNING,82.94,HEALTHY,Multi-factor degradation detected,false
+666,WARNING,80.44,HEALTHY,Multi-factor degradation detected,false
+667,WARNING,83.83,HEALTHY,Multi-factor degradation detected,false
+668,WARNING,81.75,HEALTHY,Multi-factor degradation detected,false
+669,WARNING,75.22,HEALTHY,Multi-factor degradation detected,false
+670,WARNING,82.74,HEALTHY,Multi-factor degradation detected,false
+671,WARNING,77.63,HEALTHY,Critical tool wear (202min),false
+672,WARNING,80.24,HEALTHY,Critical tool wear (204min),false
+673,WARNING,81.21,HEALTHY,Critical tool wear (206min),false
+674,WARNING,79.10,HEALTHY,Critical tool wear (209min),false
+679,WARNING,90.66,HEALTHY,Multi-factor degradation detected,false
+690,WARNING,93.55,HEALTHY,Multi-factor degradation detected,false
+716,WARNING,81.40,HEALTHY,Multi-factor degradation detected,false
+720,WARNING,79.55,HEALTHY,Multi-factor degradation detected,false
+739,WARNING,83.43,HEALTHY,Multi-factor degradation detected,false
+740,WARNING,84.52,HEALTHY,Multi-factor degradation detected,false
+741,WARNING,82.69,HEALTHY,Multi-factor degradation detected,false
+742,WARNING,83.61,HEALTHY,Multi-factor degradation detected,false
+743,WARNING,81.89,HEALTHY,Multi-factor degradation detected,false
+744,WARNING,80.47,HEALTHY,Multi-factor degradation detected,false
+745,WARNING,82.39,HEALTHY,Multi-factor degradation detected,false
+746,WARNING,80.04,HEALTHY,Multi-factor degradation detected,false
+747,FAILURE_CONFIRMED,72.45,HEALTHY,Multi-factor degradation detected,true
+748,WARNING,79.73,HEALTHY,Critical tool wear (201min),false
+749,WARNING,79.57,HEALTHY,Critical tool wear (203min),false
+750,WARNING,71.44,HEALTHY,Critical tool wear (208min),false
+751,WARNING,79.72,HEALTHY,Critical tool wear (210min),false
+752,WARNING,71.28,HEALTHY,Critical tool wear (212min),false
+753,WARNING,77.28,HEALTHY,Critical tool wear (215min),false
+754,WARNING,78.55,HEALTHY,Critical tool wear (217min),false
+755,WARNING,78.29,HEALTHY,Critical tool wear (219min),false
+756,WARNING,77.71,HEALTHY,Critical tool wear (222min),false
+757,WARNING,76.80,HEALTHY,Critical tool wear (227min),false
+758,WARNING,75.12,HEALTHY,Critical tool wear (229min),false
+759,WARNING,76.10,HEALTHY,Critical tool wear (231min),false
+760,WARNING,75.62,HEALTHY,Critical tool wear (233min),false
+761,WARNING,75.10,HEALTHY,Critical tool wear (236min),false
+762,WARNING,73.45,HEALTHY,Critical tool wear (238min),false
+763,WARNING,89.80,HEALTHY,Multi-factor degradation detected,false
+765,WARNING,92.74,HEALTHY,Multi-factor degradation detected,false
+772,WARNING,92.78,HEALTHY,Multi-factor degradation detected,false
+836,WARNING,82.84,HEALTHY,Multi-factor degradation detected,false
+837,WARNING,82.56,HEALTHY,Multi-factor degradation detected,false
+838,WARNING,81.88,HEALTHY,Multi-factor degradation detected,false
+839,WARNING,83.12,HEALTHY,Multi-factor degradation detected,false
+840,WARNING,82.20,HEALTHY,Multi-factor degradation detected,false
+841,WARNING,81.76,HEALTHY,Multi-factor degradation detected,false
+842,WARNING,80.10,HEALTHY,Multi-factor degradation detected,false
+843,WARNING,79.81,HEALTHY,Critical tool wear (201min),false
+844,WARNING,80.54,HEALTHY,Critical tool wear (204min),false
+845,WARNING,80.14,HEALTHY,Critical tool wear (206min),false
+846,WARNING,79.61,HEALTHY,Critical tool wear (208min),false
+847,WARNING,77.47,HEALTHY,Critical tool wear (210min),false
+848,FAILURE_CONFIRMED,66.83,WARNING,Critical tool wear (213min),true
+849,WARNING,76.91,HEALTHY,Critical tool wear (215min),false
+871,WARNING,89.05,HEALTHY,Multi-factor degradation detected,false
+881,FAILURE_CONFIRMED,79.84,HEALTHY,Multi-factor degradation detected,true
+900,WARNING,76.62,HEALTHY,Multi-factor degradation detected,false
+902,WARNING,72.19,HEALTHY,Multi-factor degradation detected,false
+904,FAILURE_CONFIRMED,69.32,WARNING,Rotational speed anomaly (2270rpm),true
+916,WARNING,83.32,HEALTHY,Multi-factor degradation detected,false
+917,WARNING,82.75,HEALTHY,Multi-factor degradation detected,false
+918,WARNING,80.19,HEALTHY,Multi-factor degradation detected,false
+919,WARNING,81.84,HEALTHY,Multi-factor degradation detected,false
+920,WARNING,79.44,HEALTHY,Multi-factor degradation detected,false
+921,WARNING,81.14,HEALTHY,Multi-factor degradation detected,false
+922,WARNING,80.61,HEALTHY,Multi-factor degradation detected,false
+923,WARNING,77.56,HEALTHY,Critical tool wear (202min),false
+924,WARNING,77.96,HEALTHY,Critical tool wear (205min),false
+925,WARNING,74.75,HEALTHY,Critical tool wear (208min),false
+926,WARNING,76.70,HEALTHY,Critical tool wear (210min),false
+927,FAILURE_CONFIRMED,71.34,HEALTHY,Critical tool wear (215min),true
+938,WARNING,88.41,HEALTHY,Multi-factor degradation detected,false
+995,WARNING,76.00,HEALTHY,Multi-factor degradation detected,false
+999,WARNING,73.14,HEALTHY,Rotational speed anomaly (2071rpm),false
+1000,WARNING,81.91,HEALTHY,Multi-factor degradation detected,false
+1001,WARNING,81.11,HEALTHY,Multi-factor degradation detected,false
+1002,WARNING,81.18,HEALTHY,Multi-factor degradation detected,false
+1003,WARNING,81.12,HEALTHY,Multi-factor degradation detected,false
+1004,WARNING,80.47,HEALTHY,Multi-factor degradation detected,false
+1005,WARNING,81.67,HEALTHY,Multi-factor degradation detected,false
+1006,WARNING,78.62,HEALTHY,Critical tool wear (201min),false
+1007,WARNING,78.06,HEALTHY,Critical tool wear (203min),false
+1017,FAILURE_CONFIRMED,89.94,HEALTHY,Multi-factor degradation detected,true
+1019,WARNING,90.70,HEALTHY,Multi-factor degradation detected,false
+1021,WARNING,92.26,HEALTHY,Multi-factor degradation detected,false
+1079,WARNING,83.01,HEALTHY,Multi-factor degradation detected,false
+1080,WARNING,80.31,HEALTHY,Multi-factor degradation detected,false
+1081,WARNING,79.80,HEALTHY,Multi-factor degradation detected,false
+1082,WARNING,83.30,HEALTHY,Multi-factor degradation detected,false
+1083,WARNING,83.04,HEALTHY,Multi-factor degradation detected,false
+1084,WARNING,80.49,HEALTHY,Multi-factor degradation detected,false
+1085,WARNING,80.17,HEALTHY,Multi-factor degradation detected,false
+1086,FAILURE_CONFIRMED,74.95,HEALTHY,Critical tool wear (202min),true
+1087,WARNING,79.14,HEALTHY,Critical tool wear (204min),false
+1088,FAILURE_CONFIRMED,80.45,HEALTHY,Critical tool wear (206min),true
+1113,WARNING,89.07,HEALTHY,Multi-factor degradation detected,false
+1120,WARNING,85.61,HEALTHY,Multi-factor degradation detected,false
+1124,FAILURE_CONFIRMED,82.28,HEALTHY,Multi-factor degradation detected,true
+1125,FAILURE_CONFIRMED,79.02,HEALTHY,Multi-factor degradation detected,true
+1133,WARNING,76.60,HEALTHY,Multi-factor degradation detected,false
+1145,FAILURE_CONFIRMED,79.66,HEALTHY,Multi-factor degradation detected,true
+1149,WARNING,82.08,HEALTHY,Multi-factor degradation detected,false
+1157,WARNING,84.35,HEALTHY,Multi-factor degradation detected,false
+1158,WARNING,83.47,HEALTHY,Multi-factor degradation detected,false
+1159,WARNING,81.57,HEALTHY,Multi-factor degradation detected,false
+1160,WARNING,82.78,HEALTHY,Multi-factor degradation detected,false
+1161,WARNING,74.24,HEALTHY,Multi-factor degradation detected,false
+1162,FAILURE_CONFIRMED,73.90,HEALTHY,Multi-factor degradation detected,true
+1163,FAILURE_CONFIRMED,74.90,HEALTHY,Critical tool wear (202min),true
+1164,WARNING,79.32,HEALTHY,Critical tool wear (204min),false
+1165,WARNING,77.16,HEALTHY,Critical tool wear (206min),false
+1166,WARNING,79.01,HEALTHY,Critical tool wear (208min),false
+1167,WARNING,79.96,HEALTHY,Critical tool wear (210min),false
+1168,FAILURE_CONFIRMED,77.20,HEALTHY,Critical tool wear (213min),true
+1169,WARNING,79.09,HEALTHY,Critical tool wear (215min),false
+1170,WARNING,78.69,HEALTHY,Critical tool wear (217min),false
+1171,WARNING,70.27,HEALTHY,Critical tool wear (219min),false
+1172,WARNING,77.81,HEALTHY,Critical tool wear (222min),false
+1173,WARNING,76.99,HEALTHY,Critical tool wear (227min),false
+1174,WARNING,76.60,HEALTHY,Critical tool wear (229min),false
+1179,WARNING,91.91,HEALTHY,Multi-factor degradation detected,false
+1201,WARNING,89.15,HEALTHY,Multi-factor degradation detected,false
+1213,WARNING,82.29,HEALTHY,Multi-factor degradation detected,false
+1223,WARNING,78.11,HEALTHY,Multi-factor degradation detected,false
+1234,WARNING,82.14,HEALTHY,Multi-factor degradation detected,false
+1238,WARNING,85.15,HEALTHY,Multi-factor degradation detected,false
+1239,WARNING,83.08,HEALTHY,Multi-factor degradation detected,false
+1240,WARNING,84.19,HEALTHY,Multi-factor degradation detected,false
+1241,WARNING,81.64,HEALTHY,Multi-factor degradation detected,false
+1242,WARNING,81.34,HEALTHY,Multi-factor degradation detected,false
+1243,WARNING,82.35,HEALTHY,Multi-factor degradation detected,false
+1244,WARNING,79.70,HEALTHY,Multi-factor degradation detected,false
+1245,WARNING,77.82,HEALTHY,Critical tool wear (202min),false
+1246,WARNING,79.67,HEALTHY,Critical tool wear (204min),false
+1247,WARNING,79.22,HEALTHY,Critical tool wear (207min),false
+1248,WARNING,79.81,HEALTHY,Critical tool wear (212min),false
+1249,WARNING,79.50,HEALTHY,Critical tool wear (214min),false
+1250,WARNING,79.24,HEALTHY,Critical tool wear (216min),false
+1251,WARNING,78.89,HEALTHY,Critical tool wear (218min),false
+1252,WARNING,76.91,HEALTHY,Critical tool wear (220min),false
+1253,WARNING,78.15,HEALTHY,Critical tool wear (223min),false
+1254,WARNING,93.43,HEALTHY,Multi-factor degradation detected,false
+1264,WARNING,93.58,HEALTHY,Multi-factor degradation detected,false
+1271,WARNING,90.04,HEALTHY,Multi-factor degradation detected,false
+1301,WARNING,77.35,HEALTHY,Multi-factor degradation detected,false
+1314,WARNING,81.30,HEALTHY,Multi-factor degradation detected,false
+1321,WARNING,84.66,HEALTHY,Multi-factor degradation detected,false
+1322,WARNING,81.98,HEALTHY,Multi-factor degradation detected,false
+1323,WARNING,82.05,HEALTHY,Multi-factor degradation detected,false
+1324,WARNING,80.95,HEALTHY,Multi-factor degradation detected,false
+1325,FAILURE_CONFIRMED,71.75,HEALTHY,Multi-factor degradation detected,true
+1326,WARNING,82.21,HEALTHY,Multi-factor degradation detected,false
+1327,WARNING,79.81,HEALTHY,Critical tool wear (202min),false
+1328,WARNING,76.83,HEALTHY,Critical tool wear (204min),false
+1329,WARNING,77.06,HEALTHY,Critical tool wear (206min),false
+1330,WARNING,78.25,HEALTHY,Critical tool wear (209min),false
+1331,WARNING,77.30,HEALTHY,Critical tool wear (214min),false
+1332,WARNING,74.81,HEALTHY,Critical tool wear (216min),false
+1333,WARNING,69.58,WARNING,Critical tool wear (221min),false
+1334,WARNING,77.49,HEALTHY,Critical tool wear (223min),false
+1335,FAILURE_CONFIRMED,75.16,HEALTHY,Critical tool wear (226min),true
+1336,FAILURE_CONFIRMED,74.23,HEALTHY,Critical tool wear (228min),true
+1337,WARNING,74.76,HEALTHY,Critical tool wear (230min),false
+1367,WARNING,89.14,HEALTHY,Multi-factor degradation detected,false
+1374,WARNING,85.16,HEALTHY,Multi-factor degradation detected,false
+1401,WARNING,80.62,HEALTHY,Multi-factor degradation detected,false
+1403,WARNING,80.46,HEALTHY,Multi-factor degradation detected,false
+1407,WARNING,83.34,HEALTHY,Multi-factor degradation detected,false
+1408,WARNING,83.25,HEALTHY,Multi-factor degradation detected,false
+1409,WARNING,82.56,HEALTHY,Multi-factor degradation detected,false
+1410,WARNING,83.91,HEALTHY,Multi-factor degradation detected,false
+1411,WARNING,81.29,HEALTHY,Multi-factor degradation detected,false
+1412,WARNING,74.56,HEALTHY,Multi-factor degradation detected,false
+1413,WARNING,80.54,HEALTHY,Multi-factor degradation detected,false
+1414,WARNING,82.38,HEALTHY,Multi-factor degradation detected,false
+1415,WARNING,81.85,HEALTHY,Multi-factor degradation detected,false
+1416,WARNING,79.79,HEALTHY,Critical tool wear (203min),false
+1417,WARNING,70.06,HEALTHY,Critical tool wear (205min),false
+1418,WARNING,80.41,HEALTHY,Critical tool wear (208min),false
+1419,WARNING,78.46,HEALTHY,Critical tool wear (210min),false
+1420,FAILURE_CONFIRMED,77.46,HEALTHY,Critical tool wear (212min),true
+1421,WARNING,79.31,HEALTHY,Critical tool wear (214min),false
+1422,WARNING,77.22,HEALTHY,Critical tool wear (217min),false
+1475,WARNING,77.83,HEALTHY,Multi-factor degradation detected,false
+1482,WARNING,75.33,HEALTHY,Multi-factor degradation detected,false
+1493,FAILURE_CONFIRMED,80.34,HEALTHY,Multi-factor degradation detected,true
+1495,WARNING,84.02,HEALTHY,Multi-factor degradation detected,false
+1496,WARNING,85.06,HEALTHY,Multi-factor degradation detected,false
+1497,FAILURE_CONFIRMED,74.04,HEALTHY,Multi-factor degradation detected,true
+1498,WARNING,82.62,HEALTHY,Multi-factor degradation detected,false
+1499,WARNING,79.66,HEALTHY,Multi-factor degradation detected,false
+1500,WARNING,72.19,HEALTHY,Rotational speed anomaly (2206rpm),false
+1501,WARNING,71.84,HEALTHY,Rotational speed anomaly (2101rpm),false
+1502,WARNING,80.56,HEALTHY,Critical tool wear (201min),false
+1503,WARNING,80.04,HEALTHY,Critical tool wear (204min),false
+1504,WARNING,77.27,HEALTHY,Critical tool wear (206min),false
+1505,WARNING,79.49,HEALTHY,Critical tool wear (208min),false
+1506,WARNING,80.64,HEALTHY,Critical tool wear (210min),false
+1507,WARNING,78.91,HEALTHY,Critical tool wear (212min),false
+1508,WARNING,73.65,HEALTHY,Critical tool wear (214min),false
+1509,WARNING,79.38,HEALTHY,Critical tool wear (217min),false
+1510,FAILURE_CONFIRMED,78.81,HEALTHY,Critical tool wear (220min),true
+1519,WARNING,93.65,HEALTHY,Multi-factor degradation detected,false
+1548,WARNING,84.46,HEALTHY,Multi-factor degradation detected,false
+1554,WARNING,82.05,HEALTHY,Multi-factor degradation detected,false
+1573,WARNING,80.83,HEALTHY,Multi-factor degradation detected,false
+1582,WARNING,83.96,HEALTHY,Multi-factor degradation detected,false
+1583,WARNING,84.99,HEALTHY,Multi-factor degradation detected,false
+1584,FAILURE_CONFIRMED,76.47,HEALTHY,Multi-factor degradation detected,true
+1585,WARNING,82.25,HEALTHY,Multi-factor degradation detected,false
+1586,WARNING,81.48,HEALTHY,Multi-factor degradation detected,false
+1587,WARNING,82.82,HEALTHY,Multi-factor degradation detected,false
+1588,WARNING,82.31,HEALTHY,Multi-factor degradation detected,false
+1589,WARNING,80.16,HEALTHY,Critical tool wear (202min),false
+1590,WARNING,81.49,HEALTHY,Critical tool wear (204min),false
+1591,WARNING,80.95,HEALTHY,Critical tool wear (207min),false
+1592,WARNING,78.80,HEALTHY,Critical tool wear (209min),false
+1593,WARNING,80.30,HEALTHY,Critical tool wear (211min),false
+1594,WARNING,78.68,HEALTHY,Critical tool wear (213min),false
+1595,WARNING,77.55,HEALTHY,Critical tool wear (215min),false
+1596,FAILURE_CONFIRMED,76.81,HEALTHY,Critical tool wear (218min),true
+1614,WARNING,90.20,HEALTHY,Multi-factor degradation detected,false
+1619,WARNING,90.83,HEALTHY,Multi-factor degradation detected,false
+1625,WARNING,89.70,HEALTHY,Multi-factor degradation detected,false
+1627,WARNING,88.87,HEALTHY,Multi-factor degradation detected,false
+1635,WARNING,85.76,HEALTHY,Multi-factor degradation detected,false
+1636,WARNING,84.80,HEALTHY,Multi-factor degradation detected,false
+1654,WARNING,76.33,HEALTHY,Multi-factor degradation detected,false
+1655,WARNING,74.45,HEALTHY,Multi-factor degradation detected,false
+1666,WARNING,85.31,HEALTHY,Multi-factor degradation detected,false
+1667,WARNING,84.44,HEALTHY,Multi-factor degradation detected,false
+1668,WARNING,80.16,HEALTHY,Multi-factor degradation detected,false
+1669,WARNING,82.38,HEALTHY,Multi-factor degradation detected,false
+1670,WARNING,81.69,HEALTHY,Multi-factor degradation detected,false
+1671,WARNING,81.26,HEALTHY,Multi-factor degradation detected,false
+1672,WARNING,82.74,HEALTHY,Multi-factor degradation detected,false
+1673,WARNING,80.50,HEALTHY,Multi-factor degradation detected,false
+1674,WARNING,82.00,HEALTHY,Multi-factor degradation detected,false
+1675,WARNING,81.47,HEALTHY,Critical tool wear (203min),false
+1676,WARNING,81.14,HEALTHY,Critical tool wear (205min),false
+1677,WARNING,80.70,HEALTHY,Critical tool wear (207min),false
+1678,WARNING,78.01,HEALTHY,Critical tool wear (212min),false
+1679,WARNING,77.79,HEALTHY,Critical tool wear (215min),false
+1680,WARNING,75.05,HEALTHY,Critical tool wear (217min),false
+1681,WARNING,77.22,HEALTHY,Critical tool wear (219min),false
+1682,WARNING,73.73,HEALTHY,Critical tool wear (222min),false
+1683,FAILURE_CONFIRMED,77.47,HEALTHY,Critical tool wear (225min),true
+1731,WARNING,81.95,HEALTHY,Multi-factor degradation detected,false
+1755,WARNING,83.61,HEALTHY,Multi-factor degradation detected,false
+1756,WARNING,83.05,HEALTHY,Multi-factor degradation detected,false
+1757,WARNING,76.61,HEALTHY,Multi-factor degradation detected,false
+1758,WARNING,77.35,HEALTHY,Multi-factor degradation detected,false
+1759,WARNING,81.69,HEALTHY,Multi-factor degradation detected,false
+1760,WARNING,82.77,HEALTHY,Multi-factor degradation detected,false
+1761,WARNING,80.40,HEALTHY,Multi-factor degradation detected,false
+1762,WARNING,73.07,HEALTHY,Critical tool wear (202min),false
+1763,WARNING,79.48,HEALTHY,Critical tool wear (204min),false
+1764,FAILURE_CONFIRMED,78.55,HEALTHY,Critical tool wear (209min),true
+1765,WARNING,93.13,HEALTHY,Multi-factor degradation detected,false
+1774,WARNING,93.12,HEALTHY,Multi-factor degradation detected,false
+1790,FAILURE_CONFIRMED,88.10,HEALTHY,Multi-factor degradation detected,true
+1806,WARNING,82.19,HEALTHY,Multi-factor degradation detected,false
+1825,WARNING,82.46,HEALTHY,Multi-factor degradation detected,false
+1829,WARNING,80.03,HEALTHY,Multi-factor degradation detected,false
+1833,WARNING,82.69,HEALTHY,Multi-factor degradation detected,false
+1834,FAILURE_CONFIRMED,76.59,HEALTHY,Multi-factor degradation detected,true
+1835,WARNING,83.83,HEALTHY,Multi-factor degradation detected,false
+1836,WARNING,83.51,HEALTHY,Multi-factor degradation detected,false
+1837,WARNING,82.55,HEALTHY,Multi-factor degradation detected,false
+1838,WARNING,82.20,HEALTHY,Multi-factor degradation detected,false
+1839,WARNING,81.90,HEALTHY,Multi-factor degradation detected,false
+1856,WARNING,89.71,HEALTHY,Multi-factor degradation detected,false
+1869,WARNING,87.80,HEALTHY,Multi-factor degradation detected,false
+1873,WARNING,86.26,HEALTHY,Multi-factor degradation detected,false
+1874,WARNING,85.86,HEALTHY,Multi-factor degradation detected,false
+1877,WARNING,81.65,HEALTHY,Multi-factor degradation detected,false
+1909,WARNING,76.49,HEALTHY,Multi-factor degradation detected,false
+1910,WARNING,83.49,HEALTHY,Multi-factor degradation detected,false
+1911,WARNING,84.46,HEALTHY,Multi-factor degradation detected,false
+1912,WARNING,77.32,HEALTHY,Multi-factor degradation detected,false
+1913,WARNING,81.80,HEALTHY,Multi-factor degradation detected,false
+1914,WARNING,82.58,HEALTHY,Multi-factor degradation detected,false
+1915,WARNING,80.42,HEALTHY,Multi-factor degradation detected,false
+1916,WARNING,81.66,HEALTHY,Critical tool wear (202min),false
+1917,WARNING,79.34,HEALTHY,Critical tool wear (204min),false
+1918,WARNING,79.45,HEALTHY,Critical tool wear (206min),false
+1936,WARNING,93.29,HEALTHY,Multi-factor degradation detected,false
+1942,WARNING,92.06,HEALTHY,Multi-factor degradation detected,false
+1953,WARNING,84.96,HEALTHY,Multi-factor degradation detected,false
+1956,WARNING,86.74,HEALTHY,Multi-factor degradation detected,false
+1971,WARNING,75.43,HEALTHY,Multi-factor degradation detected,false
+1981,WARNING,83.60,HEALTHY,Multi-factor degradation detected,false
+1990,WARNING,77.31,HEALTHY,Multi-factor degradation detected,false
+1991,WARNING,83.29,HEALTHY,Multi-factor degradation detected,false
+1992,WARNING,84.58,HEALTHY,Multi-factor degradation detected,false
+1993,WARNING,82.60,HEALTHY,Multi-factor degradation detected,false
+1994,WARNING,83.72,HEALTHY,Multi-factor degradation detected,false
+1995,WARNING,81.95,HEALTHY,Multi-factor degradation detected,false
+1996,WARNING,81.16,HEALTHY,Multi-factor degradation detected,false
+1997,FAILURE_CONFIRMED,82.28,HEALTHY,Multi-factor degradation detected,true
+2011,WARNING,90.31,HEALTHY,Multi-factor degradation detected,false
+2015,WARNING,93.22,HEALTHY,Multi-factor degradation detected,false
+2016,FAILURE_CONFIRMED,91.16,HEALTHY,Multi-factor degradation detected,true
+2032,WARNING,86.18,HEALTHY,Multi-factor degradation detected,false
+2039,WARNING,83.90,HEALTHY,Multi-factor degradation detected,false
+2054,WARNING,75.76,HEALTHY,Multi-factor degradation detected,false
+2071,WARNING,82.43,HEALTHY,Multi-factor degradation detected,false
+2072,WARNING,77.62,HEALTHY,Multi-factor degradation detected,false
+2073,FAILURE_CONFIRMED,83.44,HEALTHY,Multi-factor degradation detected,true
+2074,WARNING,81.39,HEALTHY,Multi-factor degradation detected,false
+2075,WARNING,81.14,HEALTHY,Multi-factor degradation detected,false
+2076,FAILURE_CONFIRMED,76.23,HEALTHY,Multi-factor degradation detected,true
+2077,WARNING,82.21,HEALTHY,Multi-factor degradation detected,false
+2078,WARNING,78.60,HEALTHY,Multi-factor degradation detected,false
+2079,WARNING,79.44,HEALTHY,Critical tool wear (201min),false
+2080,WARNING,81.04,HEALTHY,Critical tool wear (204min),false
+2081,WARNING,69.38,WARNING,Critical tool wear (207min),false
+2082,WARNING,78.60,HEALTHY,Critical tool wear (209min),false
+2083,WARNING,79.63,HEALTHY,Critical tool wear (212min),false
+2097,WARNING,92.85,HEALTHY,Multi-factor degradation detected,false
+2099,WARNING,92.94,HEALTHY,Multi-factor degradation detected,false
+2103,WARNING,91.49,HEALTHY,Multi-factor degradation detected,false
+2126,FAILURE_CONFIRMED,76.94,HEALTHY,Multi-factor degradation detected,true
+2131,WARNING,78.18,HEALTHY,Multi-factor degradation detected,false
+2143,WARNING,80.75,HEALTHY,Multi-factor degradation detected,false
+2152,WARNING,80.77,HEALTHY,Multi-factor degradation detected,false
+2153,WARNING,81.80,HEALTHY,Multi-factor degradation detected,false
+2154,WARNING,82.05,HEALTHY,Multi-factor degradation detected,false
+2155,WARNING,74.56,HEALTHY,Multi-factor degradation detected,false
+2156,WARNING,80.36,HEALTHY,Multi-factor degradation detected,false
+2157,WARNING,81.59,HEALTHY,Critical tool wear (201min),false
+2158,WARNING,72.63,HEALTHY,Critical tool wear (204min),false
+2159,WARNING,78.69,HEALTHY,Critical tool wear (207min),false
+2160,WARNING,78.29,HEALTHY,Critical tool wear (210min),false
+2161,WARNING,79.53,HEALTHY,Critical tool wear (213min),false
+2162,WARNING,79.14,HEALTHY,Critical tool wear (215min),false
+2163,WARNING,78.74,HEALTHY,Critical tool wear (217min),false
+2164,WARNING,78.30,HEALTHY,Critical tool wear (219min),false
+2165,WARNING,77.95,HEALTHY,Critical tool wear (221min),false
+2166,WARNING,76.09,HEALTHY,Critical tool wear (223min),false
+2167,FAILURE_CONFIRMED,69.00,WARNING,Critical tool wear (225min),true
+2183,WARNING,91.45,HEALTHY,Multi-factor degradation detected,false
+2200,WARNING,84.22,HEALTHY,Multi-factor degradation detected,false
+2212,WARNING,77.28,HEALTHY,Multi-factor degradation detected,false
+2218,WARNING,77.29,HEALTHY,Multi-factor degradation detected,false
+2222,WARNING,74.32,HEALTHY,Multi-factor degradation detected,false
+2232,WARNING,79.78,HEALTHY,Multi-factor degradation detected,false
+2235,WARNING,84.98,HEALTHY,Multi-factor degradation detected,false
+2236,WARNING,84.63,HEALTHY,Multi-factor degradation detected,false
+2237,WARNING,84.11,HEALTHY,Multi-factor degradation detected,false
+2238,WARNING,81.67,HEALTHY,Multi-factor degradation detected,false
+2239,WARNING,81.45,HEALTHY,Multi-factor degradation detected,false
+2240,WARNING,81.10,HEALTHY,Multi-factor degradation detected,false
+2241,WARNING,82.59,HEALTHY,Multi-factor degradation detected,false
+2242,WARNING,78.65,HEALTHY,Multi-factor degradation detected,false
+2243,WARNING,79.85,HEALTHY,Multi-factor degradation detected,false
+2244,WARNING,80.25,HEALTHY,Critical tool wear (201min),false
+2245,FAILURE_CONFIRMED,81.10,HEALTHY,Critical tool wear (203min),true
+2249,WARNING,91.59,HEALTHY,Multi-factor degradation detected,false
+2259,WARNING,91.61,HEALTHY,Multi-factor degradation detected,false
+2267,WARNING,90.06,HEALTHY,Multi-factor degradation detected,false
+2281,WARNING,85.63,HEALTHY,Multi-factor degradation detected,false
+2286,WARNING,83.84,HEALTHY,Multi-factor degradation detected,false
+2287,WARNING,80.64,HEALTHY,Multi-factor degradation detected,false
+2300,FAILURE_CONFIRMED,76.62,HEALTHY,Multi-factor degradation detected,true
+2307,WARNING,82.33,HEALTHY,Multi-factor degradation detected,false
+2309,WARNING,82.69,HEALTHY,Multi-factor degradation detected,false
+2318,WARNING,83.41,HEALTHY,Multi-factor degradation detected,false
+2319,WARNING,82.75,HEALTHY,Multi-factor degradation detected,false
+2320,WARNING,81.51,HEALTHY,Multi-factor degradation detected,false
+2321,WARNING,83.93,HEALTHY,Multi-factor degradation detected,false
+2322,WARNING,80.86,HEALTHY,Multi-factor degradation detected,false
+2323,WARNING,82.49,HEALTHY,Multi-factor degradation detected,false
+2324,WARNING,80.64,HEALTHY,Multi-factor degradation detected,false
+2325,WARNING,79.71,HEALTHY,Critical tool wear (201min),false
+2326,WARNING,79.86,HEALTHY,Critical tool wear (203min),false
+2327,WARNING,78.61,HEALTHY,Critical tool wear (205min),false
+2328,WARNING,78.42,HEALTHY,Critical tool wear (208min),false
+2329,WARNING,79.81,HEALTHY,Critical tool wear (211min),false
+2330,WARNING,79.46,HEALTHY,Critical tool wear (213min),false
+2331,WARNING,77.32,HEALTHY,Critical tool wear (215min),false
+2332,FAILURE_CONFIRMED,76.23,HEALTHY,Critical tool wear (218min),true
+2333,FAILURE_CONFIRMED,76.29,HEALTHY,Critical tool wear (220min),true
+2334,WARNING,76.59,HEALTHY,Critical tool wear (222min),false
+2335,WARNING,77.47,HEALTHY,Critical tool wear (224min),false
+2344,WARNING,91.51,HEALTHY,Multi-factor degradation detected,false
+2356,WARNING,91.59,HEALTHY,Multi-factor degradation detected,false
+2379,WARNING,82.40,HEALTHY,Multi-factor degradation detected,false
+2381,WARNING,78.15,HEALTHY,Multi-factor degradation detected,false
+2406,WARNING,85.16,HEALTHY,Multi-factor degradation detected,false
+2407,WARNING,84.77,HEALTHY,Multi-factor degradation detected,false
+2408,WARNING,83.16,HEALTHY,Multi-factor degradation detected,false
+2409,WARNING,81.67,HEALTHY,Multi-factor degradation detected,false
+2410,WARNING,82.04,HEALTHY,Multi-factor degradation detected,false
+2411,WARNING,81.55,HEALTHY,Multi-factor degradation detected,false
+2412,WARNING,82.86,HEALTHY,Multi-factor degradation detected,false
+2413,WARNING,81.04,HEALTHY,Multi-factor degradation detected,false
+2414,WARNING,73.85,HEALTHY,Multi-factor degradation detected,false
+2427,FAILURE_CONFIRMED,91.30,HEALTHY,Multi-factor degradation detected,true
+2445,FAILURE_CONFIRMED,84.58,HEALTHY,Multi-factor degradation detected,true
+2446,WARNING,88.14,HEALTHY,Multi-factor degradation detected,false
+2473,WARNING,77.36,HEALTHY,Multi-factor degradation detected,false
+2478,WARNING,83.66,HEALTHY,Multi-factor degradation detected,false
+2489,WARNING,82.60,HEALTHY,Multi-factor degradation detected,false
+2490,WARNING,84.21,HEALTHY,Multi-factor degradation detected,false
+2491,WARNING,81.82,HEALTHY,Multi-factor degradation detected,false
+2492,WARNING,82.44,HEALTHY,Multi-factor degradation detected,false
+2493,WARNING,75.85,HEALTHY,Multi-factor degradation detected,false
+2494,WARNING,79.89,HEALTHY,Critical tool wear (204min),false
+2495,FAILURE_CONFIRMED,78.32,HEALTHY,Critical tool wear (207min),true
+2496,WARNING,80.30,HEALTHY,Critical tool wear (209min),false
+2497,WARNING,79.76,HEALTHY,Critical tool wear (212min),false
+2498,WARNING,79.24,HEALTHY,Critical tool wear (215min),false
+2499,WARNING,77.24,HEALTHY,Critical tool wear (218min),false
+2500,WARNING,76.74,HEALTHY,Critical tool wear (220min),false
+2501,WARNING,76.30,HEALTHY,Critical tool wear (223min),false
+2502,WARNING,77.54,HEALTHY,Critical tool wear (225min),false
+2503,FAILURE_CONFIRMED,75.26,HEALTHY,Critical tool wear (228min),true
+2561,WARNING,75.41,HEALTHY,Multi-factor degradation detected,false
+2577,WARNING,84.96,HEALTHY,Multi-factor degradation detected,false
+2578,WARNING,84.58,HEALTHY,Multi-factor degradation detected,false
+2579,WARNING,82.86,HEALTHY,Multi-factor degradation detected,false
+2580,WARNING,76.05,HEALTHY,Multi-factor degradation detected,false
+2581,WARNING,79.88,HEALTHY,Multi-factor degradation detected,false
+2582,FAILURE_CONFIRMED,75.85,HEALTHY,Multi-factor degradation detected,true
+2583,WARNING,81.71,HEALTHY,Multi-factor degradation detected,false
+2584,WARNING,80.76,HEALTHY,Multi-factor degradation detected,false
+2585,WARNING,80.94,HEALTHY,Multi-factor degradation detected,false
+2586,WARNING,82.06,HEALTHY,Multi-factor degradation detected,false
+2587,WARNING,81.54,HEALTHY,Critical tool wear (202min),false
+2588,WARNING,70.07,HEALTHY,Critical tool wear (204min),false
+2589,WARNING,77.27,HEALTHY,Critical tool wear (206min),false
+2590,WARNING,69.36,WARNING,Critical tool wear (208min),false
+2599,FAILURE_CONFIRMED,90.94,HEALTHY,Multi-factor degradation detected,true
+2617,WARNING,86.37,HEALTHY,Multi-factor degradation detected,false
+2624,WARNING,83.96,HEALTHY,Multi-factor degradation detected,false
+2637,WARNING,76.57,HEALTHY,Multi-factor degradation detected,false
+2641,WARNING,78.09,HEALTHY,Multi-factor degradation detected,false
+2651,WARNING,79.99,HEALTHY,Multi-factor degradation detected,false
+2659,WARNING,84.68,HEALTHY,Multi-factor degradation detected,false
+2660,WARNING,82.85,HEALTHY,Multi-factor degradation detected,false
+2661,WARNING,75.81,HEALTHY,Multi-factor degradation detected,false
+2662,WARNING,83.15,HEALTHY,Multi-factor degradation detected,false
+2663,WARNING,82.63,HEALTHY,Multi-factor degradation detected,false
+2664,WARNING,80.40,HEALTHY,Multi-factor degradation detected,false
+2665,WARNING,81.75,HEALTHY,Multi-factor degradation detected,false
+2666,WARNING,70.14,HEALTHY,Critical tool wear (201min),false
+2667,WARNING,78.89,HEALTHY,Critical tool wear (203min),false
+2668,WARNING,80.09,HEALTHY,Critical tool wear (208min),false
+2669,WARNING,77.82,HEALTHY,Critical tool wear (211min),false
+2670,WARNING,79.09,HEALTHY,Critical tool wear (214min),false
+2671,WARNING,76.72,HEALTHY,Critical tool wear (219min),false
+2672,FAILURE_CONFIRMED,77.86,HEALTHY,Critical tool wear (221min),true
+2700,WARNING,90.06,HEALTHY,Multi-factor degradation detected,false
+2704,WARNING,90.15,HEALTHY,Multi-factor degradation detected,false
+2706,WARNING,87.30,HEALTHY,Multi-factor degradation detected,false
+2713,WARNING,86.35,HEALTHY,Multi-factor degradation detected,false
+2715,WARNING,85.04,HEALTHY,Multi-factor degradation detected,false
+2733,WARNING,77.43,HEALTHY,Multi-factor degradation detected,false
+2751,WARNING,84.73,HEALTHY,Multi-factor degradation detected,false
+2752,WARNING,82.00,HEALTHY,Multi-factor degradation detected,false
+2753,WARNING,75.33,HEALTHY,Multi-factor degradation detected,false
+2754,WARNING,79.32,HEALTHY,Multi-factor degradation detected,false
+2755,WARNING,81.12,HEALTHY,Multi-factor degradation detected,false
+2756,WARNING,81.75,HEALTHY,Multi-factor degradation detected,false
+2757,WARNING,77.73,HEALTHY,Critical tool wear (201min),false
+2758,WARNING,81.00,HEALTHY,Critical tool wear (203min),false
+2759,WARNING,79.41,HEALTHY,Critical tool wear (205min),false
+2760,WARNING,80.21,HEALTHY,Critical tool wear (208min),false
+2761,WARNING,79.78,HEALTHY,Critical tool wear (210min),false
+2762,FAILURE_CONFIRMED,69.75,WARNING,Critical tool wear (212min),true
+2763,WARNING,79.07,HEALTHY,Critical tool wear (214min),false
+2764,WARNING,77.16,HEALTHY,Critical tool wear (216min),false
+2815,WARNING,80.04,HEALTHY,Multi-factor degradation detected,false
+2824,WARNING,74.79,HEALTHY,Multi-factor degradation detected,false
+2840,WARNING,84.30,HEALTHY,Multi-factor degradation detected,false
+2841,WARNING,83.78,HEALTHY,Multi-factor degradation detected,false
+2842,WARNING,79.48,HEALTHY,Multi-factor degradation detected,false
+2843,WARNING,80.32,HEALTHY,Multi-factor degradation detected,false
+2844,WARNING,82.32,HEALTHY,Multi-factor degradation detected,false
+2845,WARNING,81.97,HEALTHY,Multi-factor degradation detected,false
+2846,WARNING,79.20,HEALTHY,Multi-factor degradation detected,false
+2847,WARNING,81.28,HEALTHY,Multi-factor degradation detected,false
+2848,WARNING,80.84,HEALTHY,Critical tool wear (202min),false
+2849,WARNING,74.29,HEALTHY,Critical tool wear (204min),false
+2850,WARNING,76.16,HEALTHY,Critical tool wear (207min),false
+2851,WARNING,78.36,HEALTHY,Critical tool wear (209min),false
+2852,WARNING,77.49,HEALTHY,Critical tool wear (211min),false
+2853,WARNING,76.94,HEALTHY,Critical tool wear (213min),false
+2854,WARNING,78.34,HEALTHY,Critical tool wear (216min),false
+2855,WARNING,77.81,HEALTHY,Critical tool wear (219min),false
+2856,WARNING,77.46,HEALTHY,Critical tool wear (221min),false
+2857,WARNING,75.84,HEALTHY,Critical tool wear (223min),false
+2858,WARNING,76.33,HEALTHY,Critical tool wear (228min),false
+2859,FAILURE_CONFIRMED,73.65,HEALTHY,Critical tool wear (231min),true
+2860,WARNING,75.28,HEALTHY,Critical tool wear (233min),false
+2861,WARNING,73.15,HEALTHY,Critical tool wear (235min),false
+2862,WARNING,73.96,HEALTHY,Critical tool wear (240min),false
+2863,CRITICAL,65.41,WARNING,Critical tool wear (242min),false
+2864,CRITICAL,73.35,HEALTHY,Critical tool wear (244min),false
+2865,FAILURE_CONFIRMED,71.42,HEALTHY,Critical tool wear (246min),true
+2880,FAILURE_CONFIRMED,90.65,HEALTHY,Multi-factor degradation detected,true
+2909,WARNING,78.32,HEALTHY,Multi-factor degradation detected,false
+2916,WARNING,73.76,HEALTHY,Multi-factor degradation detected,false
+2933,WARNING,84.11,HEALTHY,Multi-factor degradation detected,false
+2934,WARNING,80.02,HEALTHY,Multi-factor degradation detected,false
+2935,WARNING,83.32,HEALTHY,Multi-factor degradation detected,false
+2936,WARNING,80.66,HEALTHY,Multi-factor degradation detected,false
+2937,WARNING,80.46,HEALTHY,Multi-factor degradation detected,false
+2938,WARNING,77.59,HEALTHY,Multi-factor degradation detected,false
+2939,WARNING,80.18,HEALTHY,Multi-factor degradation detected,false
+2940,WARNING,80.96,HEALTHY,Multi-factor degradation detected,false
+2941,WARNING,69.33,WARNING,Critical tool wear (201min),false
+2942,FAILURE_CONFIRMED,71.76,HEALTHY,Critical tool wear (203min),true
+2984,WARNING,78.62,HEALTHY,Multi-factor degradation detected,false
+2994,WARNING,75.92,HEALTHY,Multi-factor degradation detected,false
+2998,WARNING,81.34,HEALTHY,Multi-factor degradation detected,false
+3000,WARNING,80.89,HEALTHY,Multi-factor degradation detected,false
+3001,FAILURE_CONFIRMED,79.02,HEALTHY,Multi-factor degradation detected,true
+3009,WARNING,84.36,HEALTHY,Multi-factor degradation detected,false
+3010,WARNING,83.84,HEALTHY,Multi-factor degradation detected,false
+3011,WARNING,83.40,HEALTHY,Multi-factor degradation detected,false
+3012,WARNING,81.08,HEALTHY,Multi-factor degradation detected,false
+3013,WARNING,82.47,HEALTHY,Multi-factor degradation detected,false
+3014,WARNING,80.40,HEALTHY,Multi-factor degradation detected,false
+3015,WARNING,81.69,HEALTHY,Multi-factor degradation detected,false
+3016,WARNING,79.53,HEALTHY,Multi-factor degradation detected,false
+3017,WARNING,79.22,HEALTHY,Multi-factor degradation detected,false
+3018,WARNING,78.51,HEALTHY,Critical tool wear (202min),false
+3019,WARNING,80.25,HEALTHY,Critical tool wear (204min),false
+3020,FAILURE_CONFIRMED,77.32,HEALTHY,Critical tool wear (207min),true
+3021,WARNING,79.50,HEALTHY,Critical tool wear (209min),false
+3022,WARNING,77.20,HEALTHY,Critical tool wear (211min),false
+3023,WARNING,75.27,HEALTHY,Critical tool wear (213min),false
+3024,WARNING,74.98,HEALTHY,Critical tool wear (215min),false
+3025,WARNING,78.05,HEALTHY,Critical tool wear (217min),false
+3026,WARNING,75.80,HEALTHY,Critical tool wear (219min),false
+3027,WARNING,69.12,WARNING,Critical tool wear (221min),false
+3029,WARNING,92.31,HEALTHY,Multi-factor degradation detected,false
+3050,WARNING,91.75,HEALTHY,Multi-factor degradation detected,false
+3062,WARNING,86.36,HEALTHY,Multi-factor degradation detected,false
+3073,WARNING,81.50,HEALTHY,Multi-factor degradation detected,false
+3079,WARNING,79.07,HEALTHY,Multi-factor degradation detected,false
+3080,WARNING,78.59,HEALTHY,Multi-factor degradation detected,false
+3085,WARNING,76.27,HEALTHY,Multi-factor degradation detected,false
+3098,WARNING,82.78,HEALTHY,Multi-factor degradation detected,false
+3099,WARNING,82.08,HEALTHY,Multi-factor degradation detected,false
+3100,WARNING,83.61,HEALTHY,Multi-factor degradation detected,false
+3101,WARNING,83.14,HEALTHY,Multi-factor degradation detected,false
+3102,WARNING,82.82,HEALTHY,Multi-factor degradation detected,false
+3103,WARNING,80.20,HEALTHY,Multi-factor degradation detected,false
+3104,WARNING,79.72,HEALTHY,Multi-factor degradation detected,false
+3105,WARNING,79.28,HEALTHY,Critical tool wear (202min),false
+3106,WARNING,80.69,HEALTHY,Critical tool wear (205min),false
+3107,WARNING,80.34,HEALTHY,Critical tool wear (207min),false
+3108,WARNING,79.99,HEALTHY,Critical tool wear (209min),false
+3109,WARNING,79.42,HEALTHY,Critical tool wear (212min),false
+3110,WARNING,79.03,HEALTHY,Critical tool wear (214min),false
+3113,WARNING,92.81,HEALTHY,Multi-factor degradation detected,false
+3114,WARNING,92.76,HEALTHY,Multi-factor degradation detected,false
+3162,WARNING,73.81,HEALTHY,Multi-factor degradation detected,false
+3172,WARNING,80.08,HEALTHY,Multi-factor degradation detected,false
+3177,WARNING,83.15,HEALTHY,Multi-factor degradation detected,false
+3178,WARNING,82.74,HEALTHY,Multi-factor degradation detected,false
+3179,WARNING,81.38,HEALTHY,Multi-factor degradation detected,false
+3180,WARNING,83.26,HEALTHY,Multi-factor degradation detected,false
+3181,WARNING,81.10,HEALTHY,Multi-factor degradation detected,false
+3182,WARNING,82.30,HEALTHY,Multi-factor degradation detected,false
+3183,WARNING,80.12,HEALTHY,Multi-factor degradation detected,false
+3184,WARNING,79.89,HEALTHY,Multi-factor degradation detected,false
+3185,WARNING,79.41,HEALTHY,Critical tool wear (201min),false
+3186,WARNING,78.57,HEALTHY,Critical tool wear (203min),false
+3187,WARNING,78.65,HEALTHY,Critical tool wear (205min),false
+3188,WARNING,76.04,HEALTHY,Critical tool wear (208min),false
+3189,WARNING,77.45,HEALTHY,Critical tool wear (211min),false
+3190,WARNING,77.55,HEALTHY,Critical tool wear (214min),false
+3191,WARNING,76.71,HEALTHY,Critical tool wear (216min),false
+3192,WARNING,75.22,HEALTHY,Critical tool wear (218min),false
+3193,WARNING,77.70,HEALTHY,Critical tool wear (221min),false
+3237,FAILURE_CONFIRMED,79.62,HEALTHY,Multi-factor degradation detected,true
+3255,WARNING,79.60,HEALTHY,Multi-factor degradation detected,false
+3263,WARNING,83.24,HEALTHY,Multi-factor degradation detected,false
+3264,WARNING,80.45,HEALTHY,Multi-factor degradation detected,false
+3265,WARNING,82.54,HEALTHY,Multi-factor degradation detected,false
+3266,WARNING,79.34,HEALTHY,Multi-factor degradation detected,false
+3267,FAILURE_CONFIRMED,73.47,HEALTHY,Multi-factor degradation detected,true
+3268,WARNING,81.00,HEALTHY,Multi-factor degradation detected,false
+3269,WARNING,80.61,HEALTHY,Multi-factor degradation detected,false
+3270,WARNING,78.55,HEALTHY,Critical tool wear (202min),false
+3271,WARNING,71.05,HEALTHY,Critical tool wear (205min),false
+3272,WARNING,77.59,HEALTHY,Critical tool wear (207min),false
+3273,WARNING,76.95,HEALTHY,Critical tool wear (210min),false
+3274,WARNING,78.24,HEALTHY,Critical tool wear (213min),false
+3290,WARNING,90.22,HEALTHY,Multi-factor degradation detected,false
+3317,WARNING,79.14,HEALTHY,Multi-factor degradation detected,false
+3350,WARNING,81.34,HEALTHY,Multi-factor degradation detected,false
+3351,FAILURE_CONFIRMED,73.73,HEALTHY,Multi-factor degradation detected,true
+3352,WARNING,81.05,HEALTHY,Multi-factor degradation detected,false
+3353,WARNING,81.10,HEALTHY,Multi-factor degradation detected,false
+3354,WARNING,80.24,HEALTHY,Multi-factor degradation detected,false
+3355,WARNING,81.56,HEALTHY,Multi-factor degradation detected,false
+3356,WARNING,79.55,HEALTHY,Multi-factor degradation detected,false
+3357,FAILURE_CONFIRMED,74.65,HEALTHY,Multi-factor degradation detected,true
+3358,WARNING,78.50,HEALTHY,Multi-factor degradation detected,false
+3359,WARNING,79.80,HEALTHY,Critical tool wear (202min),false
+3360,WARNING,79.45,HEALTHY,Critical tool wear (204min),false
+3361,WARNING,77.66,HEALTHY,Critical tool wear (206min),false
+3362,WARNING,78.75,HEALTHY,Critical tool wear (208min),false
+3363,WARNING,78.45,HEALTHY,Critical tool wear (210min),false
+3364,WARNING,78.10,HEALTHY,Critical tool wear (212min),false
+3369,WARNING,91.32,HEALTHY,Multi-factor degradation detected,false
+3388,WARNING,85.56,HEALTHY,Multi-factor degradation detected,false
+3412,WARNING,78.49,HEALTHY,Multi-factor degradation detected,false
+3413,WARNING,78.14,HEALTHY,Multi-factor degradation detected,false
+3434,WARNING,75.00,HEALTHY,Multi-factor degradation detected,false
+3435,WARNING,82.99,HEALTHY,Multi-factor degradation detected,false
+3436,WARNING,79.97,HEALTHY,Multi-factor degradation detected,false
+3437,WARNING,80.47,HEALTHY,Multi-factor degradation detected,false
+3438,WARNING,70.57,HEALTHY,Rotational speed anomaly (2297rpm),false
+3439,WARNING,81.50,HEALTHY,Multi-factor degradation detected,false
+3440,WARNING,81.19,HEALTHY,Multi-factor degradation detected,false
+3441,WARNING,80.89,HEALTHY,Multi-factor degradation detected,false
+3442,WARNING,80.45,HEALTHY,Multi-factor degradation detected,false
+3443,WARNING,77.88,HEALTHY,Critical tool wear (201min),false
+3444,WARNING,79.49,HEALTHY,Critical tool wear (204min),false
+3445,WARNING,77.14,HEALTHY,Critical tool wear (206min),false
+3446,WARNING,78.70,HEALTHY,Critical tool wear (208min),false
+3447,WARNING,76.36,HEALTHY,Critical tool wear (211min),false
+3448,WARNING,75.94,HEALTHY,Critical tool wear (216min),false
+3449,WARNING,76.95,HEALTHY,Critical tool wear (218min),false
+3450,WARNING,75.05,HEALTHY,Critical tool wear (220min),false
+3451,WARNING,76.25,HEALTHY,Critical tool wear (222min),false
+3465,WARNING,91.30,HEALTHY,Multi-factor degradation detected,false
+3467,WARNING,91.30,HEALTHY,Multi-factor degradation detected,false
+3481,WARNING,86.05,HEALTHY,Multi-factor degradation detected,false
+3493,WARNING,78.68,HEALTHY,Multi-factor degradation detected,false
+3502,WARNING,72.60,HEALTHY,Multi-factor degradation detected,false
+3517,WARNING,81.26,HEALTHY,Multi-factor degradation detected,false
+3518,WARNING,82.55,HEALTHY,Multi-factor degradation detected,false
+3519,WARNING,82.25,HEALTHY,Multi-factor degradation detected,false
+3520,WARNING,80.38,HEALTHY,Multi-factor degradation detected,false
+3521,WARNING,79.78,HEALTHY,Multi-factor degradation detected,false
+3522,WARNING,81.03,HEALTHY,Multi-factor degradation detected,false
+3523,WARNING,79.16,HEALTHY,Multi-factor degradation detected,false
+3524,WARNING,80.41,HEALTHY,Multi-factor degradation detected,false
+3525,WARNING,78.45,HEALTHY,Multi-factor degradation detected,false
+3526,WARNING,77.88,HEALTHY,Critical tool wear (202min),false
+3527,WARNING,79.22,HEALTHY,Critical tool wear (204min),false
+3528,WARNING,78.26,HEALTHY,Critical tool wear (209min),false
+3529,FAILURE_CONFIRMED,75.43,HEALTHY,Critical tool wear (212min),true
+3530,FAILURE_CONFIRMED,77.39,HEALTHY,Critical tool wear (214min),true
+3550,WARNING,88.33,HEALTHY,Multi-factor degradation detected,false
+3567,WARNING,81.02,HEALTHY,Multi-factor degradation detected,false
+3585,WARNING,72.19,HEALTHY,Multi-factor degradation detected,false
+3590,WARNING,68.81,WARNING,Rotational speed anomaly (2465rpm),false
+3601,WARNING,82.12,HEALTHY,Multi-factor degradation detected,false
+3602,WARNING,83.06,HEALTHY,Multi-factor degradation detected,false
+3603,WARNING,81.40,HEALTHY,Multi-factor degradation detected,false
+3604,WARNING,82.11,HEALTHY,Multi-factor degradation detected,false
+3605,WARNING,80.21,HEALTHY,Multi-factor degradation detected,false
+3606,WARNING,79.78,HEALTHY,Multi-factor degradation detected,false
+3607,WARNING,74.81,HEALTHY,Multi-factor degradation detected,false
+3608,WARNING,79.36,HEALTHY,Multi-factor degradation detected,false
+3609,WARNING,71.81,HEALTHY,Multi-factor degradation detected,false
+3610,WARNING,78.20,HEALTHY,Critical tool wear (201min),false
+3611,WARNING,77.70,HEALTHY,Critical tool wear (204min),false
+3612,FAILURE_CONFIRMED,77.29,HEALTHY,Critical tool wear (207min),true
+3643,WARNING,85.90,HEALTHY,Multi-factor degradation detected,false
+3685,FAILURE_CONFIRMED,73.07,HEALTHY,Multi-factor degradation detected,true
+3686,WARNING,80.49,HEALTHY,Multi-factor degradation detected,false
+3687,WARNING,80.05,HEALTHY,Multi-factor degradation detected,false
+3688,WARNING,79.81,HEALTHY,Multi-factor degradation detected,false
+3689,WARNING,79.72,HEALTHY,Multi-factor degradation detected,false
+3690,WARNING,72.28,HEALTHY,Multi-factor degradation detected,false
+3691,WARNING,80.29,HEALTHY,Multi-factor degradation detected,false
+3692,WARNING,78.49,HEALTHY,Multi-factor degradation detected,false
+3693,WARNING,71.66,HEALTHY,Multi-factor degradation detected,false
+3694,WARNING,77.55,HEALTHY,Critical tool wear (202min),false
+3695,WARNING,77.64,HEALTHY,Critical tool wear (204min),false
+3696,FAILURE_CONFIRMED,78.31,HEALTHY,Critical tool wear (207min),true
+3730,WARNING,83.12,HEALTHY,Multi-factor degradation detected,false
+3736,WARNING,81.76,HEALTHY,Multi-factor degradation detected,false
+3767,WARNING,80.64,HEALTHY,Multi-factor degradation detected,false
+3768,WARNING,82.54,HEALTHY,Multi-factor degradation detected,false
+3769,WARNING,80.93,HEALTHY,Multi-factor degradation detected,false
+3770,WARNING,80.43,HEALTHY,Multi-factor degradation detected,false
+3771,WARNING,79.60,HEALTHY,Multi-factor degradation detected,false
+3772,WARNING,79.16,HEALTHY,Multi-factor degradation detected,false
+3773,WARNING,80.39,HEALTHY,Multi-factor degradation detected,false
+3774,WARNING,71.73,HEALTHY,Multi-factor degradation detected,false
+3775,WARNING,78.18,HEALTHY,Multi-factor degradation detected,false
+3776,WARNING,70.74,HEALTHY,Critical tool wear (203min),false
+3777,WARNING,78.06,HEALTHY,Critical tool wear (208min),false
+3778,WARNING,74.34,HEALTHY,Critical tool wear (210min),false
+3810,WARNING,86.42,HEALTHY,Multi-factor degradation detected,false
+3815,FAILURE_CONFIRMED,84.45,HEALTHY,Multi-factor degradation detected,true
+3835,WARNING,72.50,HEALTHY,Multi-factor degradation detected,false
+3844,WARNING,75.97,HEALTHY,Multi-factor degradation detected,false
+3851,WARNING,82.75,HEALTHY,Multi-factor degradation detected,false
+3852,WARNING,80.64,HEALTHY,Multi-factor degradation detected,false
+3853,WARNING,70.59,HEALTHY,Rotational speed anomaly (2034rpm),false
+3854,WARNING,80.95,HEALTHY,Multi-factor degradation detected,false
+3855,FAILURE_CONFIRMED,72.15,HEALTHY,Multi-factor degradation detected,true
+3856,WARNING,78.62,HEALTHY,Multi-factor degradation detected,false
+3857,WARNING,73.05,HEALTHY,Critical tool wear (201min),false
+3858,WARNING,78.78,HEALTHY,Critical tool wear (204min),false
+3859,WARNING,77.78,HEALTHY,Critical tool wear (209min),false
+3860,WARNING,77.34,HEALTHY,Critical tool wear (211min),false
+3861,WARNING,76.99,HEALTHY,Critical tool wear (213min),false
+3862,WARNING,76.69,HEALTHY,Critical tool wear (215min),false
+3863,WARNING,76.16,HEALTHY,Critical tool wear (218min),false
+3864,WARNING,73.08,HEALTHY,Critical tool wear (223min),false
+3865,WARNING,73.31,HEALTHY,Critical tool wear (225min),false
+3866,FAILURE_CONFIRMED,73.04,HEALTHY,Critical tool wear (228min),true
+3907,WARNING,77.38,HEALTHY,Multi-factor degradation detected,false
+3929,FAILURE_CONFIRMED,78.44,HEALTHY,Multi-factor degradation detected,true
+3934,WARNING,81.09,HEALTHY,Multi-factor degradation detected,false
+3935,WARNING,82.02,HEALTHY,Multi-factor degradation detected,false
+3936,FAILURE_CONFIRMED,71.26,HEALTHY,Multi-factor degradation detected,true
+3937,WARNING,72.46,HEALTHY,Multi-factor degradation detected,false
+3938,WARNING,76.58,HEALTHY,Multi-factor degradation detected,false
+3939,WARNING,78.79,HEALTHY,Multi-factor degradation detected,false
+3940,WARNING,77.60,HEALTHY,Multi-factor degradation detected,false
+3941,WARNING,77.36,HEALTHY,Multi-factor degradation detected,false
+3942,WARNING,70.89,HEALTHY,Multi-factor degradation detected,false
+3943,WARNING,77.63,HEALTHY,Critical tool wear (202min),false
+3944,FAILURE_CONFIRMED,70.24,HEALTHY,Critical tool wear (205min),true
+3945,WARNING,76.55,HEALTHY,Critical tool wear (207min),false
+3959,WARNING,90.79,HEALTHY,Multi-factor degradation detected,false
+4003,FAILURE_CONFIRMED,81.60,HEALTHY,Multi-factor degradation detected,true
+4005,WARNING,80.99,HEALTHY,Multi-factor degradation detected,false
+4015,WARNING,79.45,HEALTHY,Multi-factor degradation detected,false
+4016,WARNING,82.54,HEALTHY,Multi-factor degradation detected,false
+4017,WARNING,80.35,HEALTHY,Multi-factor degradation detected,false
+4018,WARNING,73.57,HEALTHY,Multi-factor degradation detected,false
+4019,WARNING,73.58,HEALTHY,Multi-factor degradation detected,false
+4020,WARNING,79.72,HEALTHY,Multi-factor degradation detected,false
+4021,WARNING,78.59,HEALTHY,Multi-factor degradation detected,false
+4022,WARNING,80.09,HEALTHY,Multi-factor degradation detected,false
+4023,WARNING,77.42,HEALTHY,Critical tool wear (203min),false
+4024,WARNING,76.95,HEALTHY,Critical tool wear (205min),false
+4025,FAILURE_CONFIRMED,70.94,HEALTHY,Critical tool wear (207min),true
+4026,WARNING,74.00,HEALTHY,Critical tool wear (210min),false
+4027,WARNING,75.71,HEALTHY,Critical tool wear (215min),false
+4028,WARNING,76.60,HEALTHY,Critical tool wear (218min),false
+4029,WARNING,76.29,HEALTHY,Critical tool wear (220min),false
+4030,WARNING,73.94,HEALTHY,Critical tool wear (222min),false
+4031,WARNING,64.14,WARNING,Critical tool wear (227min),false
+4032,WARNING,74.75,HEALTHY,Critical tool wear (229min),false
+4033,FAILURE_CONFIRMED,72.49,HEALTHY,Critical tool wear (231min),true
+4034,WARNING,70.05,HEALTHY,Critical tool wear (233min),false
+4035,FAILURE_CONFIRMED,71.70,HEALTHY,Critical tool wear (235min),true
+4061,WARNING,89.46,HEALTHY,Multi-factor degradation detected,false
+4071,WARNING,85.34,HEALTHY,Multi-factor degradation detected,false
+4072,FAILURE_CONFIRMED,82.75,HEALTHY,Multi-factor degradation detected,true
+4079,FAILURE_CONFIRMED,79.07,HEALTHY,Multi-factor degradation detected,true
+4081,FAILURE_CONFIRMED,81.08,HEALTHY,Multi-factor degradation detected,true
+4082,FAILURE_CONFIRMED,80.73,HEALTHY,Multi-factor degradation detected,true
+4111,WARNING,81.59,HEALTHY,Multi-factor degradation detected,false
+4112,WARNING,82.70,HEALTHY,Multi-factor degradation detected,false
+4113,WARNING,82.26,HEALTHY,Multi-factor degradation detected,false
+4114,WARNING,75.05,HEALTHY,Multi-factor degradation detected,false
+4115,WARNING,78.69,HEALTHY,Multi-factor degradation detected,false
+4116,WARNING,78.14,HEALTHY,Multi-factor degradation detected,false
+4117,WARNING,73.51,HEALTHY,Critical tool wear (201min),false
+4118,FAILURE_CONFIRMED,73.04,HEALTHY,Critical tool wear (204min),true
+4119,WARNING,77.26,HEALTHY,Critical tool wear (206min),false
+4120,FAILURE_CONFIRMED,77.15,HEALTHY,Critical tool wear (208min),true
+4121,FAILURE_CONFIRMED,76.65,HEALTHY,Critical tool wear (210min),true
+4122,FAILURE_CONFIRMED,75.94,HEALTHY,Critical tool wear (213min),true
+4131,FAILURE_CONFIRMED,88.13,HEALTHY,Multi-factor degradation detected,true
+4139,FAILURE_CONFIRMED,91.45,HEALTHY,Multi-factor degradation detected,true
+4141,FAILURE_CONFIRMED,90.05,HEALTHY,Multi-factor degradation detected,true
+4154,FAILURE_CONFIRMED,84.39,HEALTHY,Multi-factor degradation detected,true
+4158,FAILURE_CONFIRMED,81.25,HEALTHY,Multi-factor degradation detected,true
+4192,WARNING,76.98,HEALTHY,Multi-factor degradation detected,false
+4193,WARNING,82.83,HEALTHY,Multi-factor degradation detected,false
+4194,WARNING,80.96,HEALTHY,Multi-factor degradation detected,false
+4195,WARNING,80.60,HEALTHY,Multi-factor degradation detected,false
+4196,WARNING,81.60,HEALTHY,Multi-factor degradation detected,false
+4197,WARNING,81.25,HEALTHY,Multi-factor degradation detected,false
+4198,WARNING,80.78,HEALTHY,Multi-factor degradation detected,false
+4199,WARNING,80.39,HEALTHY,Multi-factor degradation detected,false
+4200,WARNING,78.19,HEALTHY,Multi-factor degradation detected,false
+4201,WARNING,77.94,HEALTHY,Critical tool wear (201min),false
+4202,WARNING,67.96,WARNING,Critical tool wear (203min),false
+4203,WARNING,78.68,HEALTHY,Critical tool wear (205min),false
+4204,WARNING,76.78,HEALTHY,Critical tool wear (207min),false
+4205,WARNING,77.89,HEALTHY,Critical tool wear (210min),false
+4206,WARNING,73.49,HEALTHY,Critical tool wear (213min),false
+4207,WARNING,73.41,HEALTHY,Critical tool wear (215min),false
+4208,FAILURE_CONFIRMED,73.13,HEALTHY,Critical tool wear (218min),true
+4213,WARNING,89.84,HEALTHY,Multi-factor degradation detected,false
+4221,WARNING,87.59,HEALTHY,Multi-factor degradation detected,false
+4248,FAILURE_CONFIRMED,83.17,HEALTHY,Multi-factor degradation detected,true
+4250,FAILURE_CONFIRMED,82.56,HEALTHY,Multi-factor degradation detected,true
+4252,FAILURE_CONFIRMED,81.86,HEALTHY,Multi-factor degradation detected,true
+4255,FAILURE_CONFIRMED,75.70,HEALTHY,Multi-factor degradation detected,true
+4259,FAILURE_CONFIRMED,74.64,HEALTHY,Multi-factor degradation detected,true
+4284,FAILURE_CONFIRMED,75.79,HEALTHY,Multi-factor degradation detected,true
+4285,WARNING,82.85,HEALTHY,Multi-factor degradation detected,false
+4286,FAILURE_CONFIRMED,80.84,HEALTHY,Multi-factor degradation detected,true
+4287,WARNING,80.63,HEALTHY,Multi-factor degradation detected,false
+4288,WARNING,81.71,HEALTHY,Multi-factor degradation detected,false
+4289,WARNING,79.20,HEALTHY,Multi-factor degradation detected,false
+4290,WARNING,72.58,HEALTHY,Multi-factor degradation detected,false
+4291,WARNING,78.50,HEALTHY,Critical tool wear (201min),false
+4292,WARNING,68.90,WARNING,Critical tool wear (203min),false
+4293,FAILURE_CONFIRMED,68.00,WARNING,Critical tool wear (205min),true
+4294,WARNING,78.82,HEALTHY,Critical tool wear (208min),false
+4295,WARNING,74.65,HEALTHY,Critical tool wear (210min),false
+4296,WARNING,77.88,HEALTHY,Critical tool wear (213min),false
+4297,FAILURE_CONFIRMED,65.54,WARNING,Critical tool wear (215min),true
+4298,WARNING,75.82,HEALTHY,Critical tool wear (217min),false
+4308,FAILURE_CONFIRMED,88.35,HEALTHY,Multi-factor degradation detected,true
+4326,WARNING,88.35,HEALTHY,Multi-factor degradation detected,false
+4327,FAILURE_CONFIRMED,88.04,HEALTHY,Multi-factor degradation detected,true
+4343,FAILURE_CONFIRMED,77.10,HEALTHY,Multi-factor degradation detected,true
+4354,FAILURE_CONFIRMED,73.80,HEALTHY,Multi-factor degradation detected,true
+4355,WARNING,74.82,HEALTHY,Multi-factor degradation detected,false
+4356,FAILURE_CONFIRMED,72.91,HEALTHY,Multi-factor degradation detected,true
+4366,WARNING,81.72,HEALTHY,Multi-factor degradation detected,false
+4367,WARNING,81.09,HEALTHY,Multi-factor degradation detected,false
+4368,WARNING,82.79,HEALTHY,Multi-factor degradation detected,false
+4369,WARNING,79.83,HEALTHY,Multi-factor degradation detected,false
+4370,WARNING,77.73,HEALTHY,Multi-factor degradation detected,false
+4371,FAILURE_CONFIRMED,74.44,HEALTHY,Multi-factor degradation detected,true
+4372,WARNING,80.38,HEALTHY,Multi-factor degradation detected,false
+4373,WARNING,80.15,HEALTHY,Critical tool wear (201min),false
+4374,WARNING,79.59,HEALTHY,Critical tool wear (204min),false
+4375,WARNING,77.74,HEALTHY,Critical tool wear (207min),false
+4376,WARNING,78.66,HEALTHY,Critical tool wear (209min),false
+4377,WARNING,77.10,HEALTHY,Critical tool wear (211min),false
+4378,WARNING,76.17,HEALTHY,Critical tool wear (214min),false
+4379,WARNING,76.00,HEALTHY,Critical tool wear (217min),false
+4380,WARNING,73.45,HEALTHY,Critical tool wear (220min),false
+4381,WARNING,74.55,HEALTHY,Critical tool wear (223min),false
+4382,WARNING,75.95,HEALTHY,Critical tool wear (225min),false
+4383,WARNING,75.69,HEALTHY,Critical tool wear (227min),false
+4384,FAILURE_CONFIRMED,65.69,WARNING,Critical tool wear (229min),true
+4385,WARNING,74.95,HEALTHY,Critical tool wear (231min),false
+4386,FAILURE_CONFIRMED,73.28,HEALTHY,Critical tool wear (233min),true
+4407,FAILURE_CONFIRMED,90.14,HEALTHY,Multi-factor degradation detected,true
+4408,WARNING,89.92,HEALTHY,Multi-factor degradation detected,false
+4418,FAILURE_CONFIRMED,83.57,HEALTHY,Multi-factor degradation detected,true
+4422,FAILURE_CONFIRMED,82.10,HEALTHY,Multi-factor degradation detected,true
+4440,WARNING,74.83,HEALTHY,Multi-factor degradation detected,false
+4444,WARNING,81.91,HEALTHY,Multi-factor degradation detected,false
+4457,WARNING,81.36,HEALTHY,Multi-factor degradation detected,false
+4458,WARNING,78.47,HEALTHY,Multi-factor degradation detected,false
+4459,WARNING,80.01,HEALTHY,Multi-factor degradation detected,false
+4460,WARNING,77.28,HEALTHY,Multi-factor degradation detected,false
+4461,WARNING,79.34,HEALTHY,Multi-factor degradation detected,false
+4462,WARNING,78.69,HEALTHY,Multi-factor degradation detected,false
+4463,FAILURE_CONFIRMED,70.03,HEALTHY,Multi-factor degradation detected,true
+4464,WARNING,68.90,WARNING,Rotational speed anomaly (2016rpm),false
+4465,WARNING,77.51,HEALTHY,Critical tool wear (201min),false
+4466,WARNING,78.97,HEALTHY,Critical tool wear (203min),false
+4467,WARNING,78.62,HEALTHY,Critical tool wear (205min),false
+4468,WARNING,78.27,HEALTHY,Critical tool wear (207min),false
+4469,WARNING,74.44,HEALTHY,Critical tool wear (209min),false
+4470,FAILURE_CONFIRMED,77.66,HEALTHY,Critical tool wear (211min),true
+4481,FAILURE_CONFIRMED,90.88,HEALTHY,Multi-factor degradation detected,true
+4493,WARNING,89.66,HEALTHY,Multi-factor degradation detected,false
+4496,FAILURE_CONFIRMED,87.95,HEALTHY,Multi-factor degradation detected,true
+4511,FAILURE_CONFIRMED,79.75,HEALTHY,Multi-factor degradation detected,true
+4543,WARNING,81.51,HEALTHY,Multi-factor degradation detected,false
+4544,WARNING,82.44,HEALTHY,Multi-factor degradation detected,false
+4545,FAILURE_CONFIRMED,75.75,HEALTHY,Multi-factor degradation detected,true
+4546,WARNING,81.61,HEALTHY,Multi-factor degradation detected,false
+4547,WARNING,81.30,HEALTHY,Multi-factor degradation detected,false
+4548,WARNING,78.45,HEALTHY,Multi-factor degradation detected,false
+4549,WARNING,80.16,HEALTHY,Multi-factor degradation detected,false
+4550,WARNING,79.77,HEALTHY,Multi-factor degradation detected,false
+4551,WARNING,79.51,HEALTHY,Critical tool wear (201min),false
+4552,WARNING,77.52,HEALTHY,Critical tool wear (204min),false
+4553,WARNING,70.07,HEALTHY,Critical tool wear (207min),false
+4563,WARNING,90.76,HEALTHY,Multi-factor degradation detected,false
+4600,WARNING,79.39,HEALTHY,Multi-factor degradation detected,false
+4604,WARNING,77.78,HEALTHY,Multi-factor degradation detected,false
+4612,FAILURE_CONFIRMED,73.59,HEALTHY,Multi-factor degradation detected,true
+4613,WARNING,68.45,WARNING,Rotational speed anomaly (2194rpm),false
+4614,WARNING,81.59,HEALTHY,Multi-factor degradation detected,false
+4625,WARNING,82.54,HEALTHY,Multi-factor degradation detected,false
+4626,WARNING,80.64,HEALTHY,Multi-factor degradation detected,false
+4627,WARNING,79.72,HEALTHY,Multi-factor degradation detected,false
+4628,WARNING,81.28,HEALTHY,Multi-factor degradation detected,false
+4629,WARNING,80.79,HEALTHY,Multi-factor degradation detected,false
+4630,WARNING,76.26,HEALTHY,Multi-factor degradation detected,false
+4631,WARNING,72.02,HEALTHY,Multi-factor degradation detected,false
+4632,WARNING,79.53,HEALTHY,Multi-factor degradation detected,false
+4633,FAILURE_CONFIRMED,76.89,HEALTHY,Multi-factor degradation detected,true
+4634,WARNING,76.71,HEALTHY,Critical tool wear (203min),false
+4635,WARNING,74.81,HEALTHY,Critical tool wear (205min),false
+4636,WARNING,77.95,HEALTHY,Critical tool wear (207min),false
+4637,WARNING,77.39,HEALTHY,Critical tool wear (210min),false
+4638,WARNING,68.80,WARNING,Critical tool wear (212min),false
+4639,WARNING,75.19,HEALTHY,Critical tool wear (215min),false
+4640,WARNING,74.46,HEALTHY,Critical tool wear (217min),false
+4641,WARNING,75.80,HEALTHY,Critical tool wear (219min),false
+4642,WARNING,75.41,HEALTHY,Critical tool wear (221min),false
+4643,FAILURE_CONFIRMED,70.31,HEALTHY,Critical tool wear (226min),true
+4644,FAILURE_CONFIRMED,71.70,HEALTHY,Critical tool wear (228min),true
+4645,WARNING,73.75,HEALTHY,Critical tool wear (230min),false
+4646,WARNING,69.33,WARNING,Critical tool wear (232min),false
+4647,FAILURE_CONFIRMED,71.62,HEALTHY,Critical tool wear (234min),true
+4650,WARNING,90.20,HEALTHY,Multi-factor degradation detected,false
+4673,WARNING,87.19,HEALTHY,Multi-factor degradation detected,false
+4703,FAILURE_CONFIRMED,68.92,WARNING,Multi-factor degradation detected,true
+4717,WARNING,78.58,HEALTHY,Multi-factor degradation detected,false
+4718,WARNING,80.33,HEALTHY,Multi-factor degradation detected,false
+4719,FAILURE_CONFIRMED,74.90,HEALTHY,Multi-factor degradation detected,true
+4720,WARNING,79.45,HEALTHY,Multi-factor degradation detected,false
+4721,FAILURE_CONFIRMED,80.19,HEALTHY,Multi-factor degradation detected,true
+4722,WARNING,71.14,HEALTHY,Multi-factor degradation detected,false
+4723,WARNING,79.28,HEALTHY,Multi-factor degradation detected,false
+4724,FAILURE_CONFIRMED,76.76,HEALTHY,Multi-factor degradation detected,true
+4725,WARNING,74.97,HEALTHY,Critical tool wear (202min),false
+4726,WARNING,78.05,HEALTHY,Critical tool wear (204min),false
+4727,WARNING,66.58,WARNING,Critical tool wear (207min),false
+4728,FAILURE_CONFIRMED,75.50,HEALTHY,Critical tool wear (210min),true
+4729,WARNING,75.00,HEALTHY,Critical tool wear (213min),false
+4730,FAILURE_CONFIRMED,68.50,WARNING,Critical tool wear (215min),true
+4731,WARNING,75.86,HEALTHY,Critical tool wear (217min),false
+4732,FAILURE_CONFIRMED,74.29,HEALTHY,Critical tool wear (219min),true
+4733,WARNING,75.16,HEALTHY,Critical tool wear (221min),false
+4734,WARNING,74.85,HEALTHY,Critical tool wear (223min),false
+4735,WARNING,74.59,HEALTHY,Critical tool wear (225min),false
+4736,WARNING,74.24,HEALTHY,Critical tool wear (227min),false
+4738,FAILURE_CONFIRMED,90.21,HEALTHY,Multi-factor degradation detected,true
+4764,WARNING,90.42,HEALTHY,Multi-factor degradation detected,false
+4777,WARNING,86.11,HEALTHY,Multi-factor degradation detected,false
+4778,WARNING,77.62,HEALTHY,Multi-factor degradation detected,false
+4779,FAILURE_CONFIRMED,82.70,HEALTHY,Multi-factor degradation detected,true
+4780,WARNING,84.19,HEALTHY,Multi-factor degradation detected,false
+4781,WARNING,82.35,HEALTHY,Multi-factor degradation detected,false
+4782,WARNING,82.12,HEALTHY,Multi-factor degradation detected,false
+4783,WARNING,80.81,HEALTHY,Multi-factor degradation detected,false
+4784,WARNING,82.71,HEALTHY,Multi-factor degradation detected,false
+4785,WARNING,80.64,HEALTHY,Multi-factor degradation detected,false
+4786,WARNING,79.96,HEALTHY,Multi-factor degradation detected,false
+4787,WARNING,81.05,HEALTHY,Multi-factor degradation detected,false
+4788,WARNING,80.75,HEALTHY,Multi-factor degradation detected,false
+4789,WARNING,80.40,HEALTHY,Multi-factor degradation detected,false
+4790,WARNING,79.40,HEALTHY,Multi-factor degradation detected,false
+4791,WARNING,79.05,HEALTHY,Multi-factor degradation detected,false
+4792,WARNING,77.10,HEALTHY,Multi-factor degradation detected,false
+4793,WARNING,87.01,HEALTHY,Multi-factor degradation detected,false
+4794,WARNING,86.22,HEALTHY,Multi-factor degradation detected,false
+4795,WARNING,83.21,HEALTHY,Multi-factor degradation detected,false
+4796,WARNING,83.29,HEALTHY,Multi-factor degradation detected,false
+4797,WARNING,83.24,HEALTHY,Multi-factor degradation detected,false
+4798,WARNING,83.00,HEALTHY,Multi-factor degradation detected,false
+4799,WARNING,82.61,HEALTHY,Multi-factor degradation detected,false
+4800,WARNING,83.69,HEALTHY,Multi-factor degradation detected,false
+4801,WARNING,81.34,HEALTHY,Multi-factor degradation detected,false
+4802,WARNING,81.31,HEALTHY,Multi-factor degradation detected,false
+4803,WARNING,80.10,HEALTHY,Multi-factor degradation detected,false
+4804,WARNING,78.66,HEALTHY,Multi-factor degradation detected,false
+4805,WARNING,81.45,HEALTHY,Multi-factor degradation detected,false
+4806,WARNING,79.72,HEALTHY,Multi-factor degradation detected,false
+4807,WARNING,78.46,HEALTHY,Multi-factor degradation detected,false
+4808,WARNING,80.05,HEALTHY,Multi-factor degradation detected,false
+4809,WARNING,78.04,HEALTHY,Multi-factor degradation detected,false
+4810,WARNING,77.94,HEALTHY,Multi-factor degradation detected,false
+4811,WARNING,79.16,HEALTHY,Multi-factor degradation detected,false
+4812,WARNING,74.96,HEALTHY,Multi-factor degradation detected,false
+4813,WARNING,78.19,HEALTHY,Critical tool wear (203min),false
+4814,WARNING,77.92,HEALTHY,Critical tool wear (205min),false
+4815,FAILURE_CONFIRMED,75.10,HEALTHY,Critical tool wear (208min),true
+4816,WARNING,75.49,HEALTHY,Critical tool wear (210min),false
+4817,FAILURE_CONFIRMED,76.05,HEALTHY,Critical tool wear (215min),true
+4818,WARNING,94.31,HEALTHY,Multi-factor degradation detected,false
+4819,WARNING,87.49,HEALTHY,Multi-factor degradation detected,false
+4820,WARNING,94.21,HEALTHY,Multi-factor degradation detected,false
+4821,WARNING,94.47,HEALTHY,Multi-factor degradation detected,false
+4828,WARNING,90.00,HEALTHY,Multi-factor degradation detected,false
+4837,FAILURE_CONFIRMED,88.55,HEALTHY,Multi-factor degradation detected,true
+4841,FAILURE_CONFIRMED,85.14,HEALTHY,Multi-factor degradation detected,true
+4851,WARNING,83.22,HEALTHY,Multi-factor degradation detected,false
+4852,FAILURE_CONFIRMED,86.89,HEALTHY,Multi-factor degradation detected,true
+4853,WARNING,87.34,HEALTHY,Multi-factor degradation detected,false
+4854,WARNING,86.88,HEALTHY,Multi-factor degradation detected,false
+4855,WARNING,86.50,HEALTHY,Multi-factor degradation detected,false
+4856,WARNING,86.11,HEALTHY,Multi-factor degradation detected,false
+4857,WARNING,85.50,HEALTHY,Multi-factor degradation detected,false
+4858,WARNING,86.64,HEALTHY,Multi-factor degradation detected,false
+4859,WARNING,84.29,HEALTHY,Multi-factor degradation detected,false
+4860,WARNING,85.90,HEALTHY,Multi-factor degradation detected,false
+4861,WARNING,83.79,HEALTHY,Multi-factor degradation detected,false
+4862,WARNING,76.67,HEALTHY,Multi-factor degradation detected,false
+4863,WARNING,78.64,HEALTHY,Multi-factor degradation detected,false
+4864,WARNING,76.02,HEALTHY,Multi-factor degradation detected,false
+4865,WARNING,83.89,HEALTHY,Multi-factor degradation detected,false
+4866,WARNING,82.31,HEALTHY,Multi-factor degradation detected,false
+4867,WARNING,79.19,HEALTHY,Multi-factor degradation detected,false
+4868,WARNING,80.20,HEALTHY,Multi-factor degradation detected,false
+4869,WARNING,80.90,HEALTHY,Multi-factor degradation detected,false
+4870,WARNING,78.01,HEALTHY,Multi-factor degradation detected,false
+4871,WARNING,79.46,HEALTHY,Multi-factor degradation detected,false
+4872,WARNING,81.00,HEALTHY,Multi-factor degradation detected,false
+4873,WARNING,74.40,HEALTHY,Multi-factor degradation detected,false
+4874,WARNING,80.30,HEALTHY,Multi-factor degradation detected,false
+4875,WARNING,77.92,HEALTHY,Multi-factor degradation detected,false
+4876,WARNING,76.19,HEALTHY,Multi-factor degradation detected,false
+4877,WARNING,79.08,HEALTHY,Multi-factor degradation detected,false
+4878,WARNING,77.14,HEALTHY,Multi-factor degradation detected,false
+4879,WARNING,84.78,HEALTHY,Multi-factor degradation detected,false
+4880,WARNING,86.39,HEALTHY,Multi-factor degradation detected,false
+4881,WARNING,85.42,HEALTHY,Multi-factor degradation detected,false
+4882,WARNING,83.39,HEALTHY,Multi-factor degradation detected,false
+4883,WARNING,83.06,HEALTHY,Multi-factor degradation detected,false
+4884,WARNING,82.06,HEALTHY,Multi-factor degradation detected,false
+4885,WARNING,81.41,HEALTHY,Multi-factor degradation detected,false
+4886,WARNING,78.53,HEALTHY,Multi-factor degradation detected,false
+4887,WARNING,80.45,HEALTHY,Multi-factor degradation detected,false
+4888,WARNING,80.03,HEALTHY,Multi-factor degradation detected,false
+4889,WARNING,81.18,HEALTHY,Multi-factor degradation detected,false
+4890,WARNING,80.79,HEALTHY,Multi-factor degradation detected,false
+4891,WARNING,80.48,HEALTHY,Multi-factor degradation detected,false
+4892,WARNING,76.17,HEALTHY,Multi-factor degradation detected,false
+4893,WARNING,71.22,HEALTHY,Multi-factor degradation detected,false
+4894,WARNING,79.16,HEALTHY,Multi-factor degradation detected,false
+4895,WARNING,77.19,HEALTHY,Multi-factor degradation detected,false
+4896,WARNING,76.35,HEALTHY,Critical tool wear (203min),false
+4897,WARNING,75.74,HEALTHY,Critical tool wear (206min),false
+4898,WARNING,76.71,HEALTHY,Critical tool wear (209min),false
+4899,WARNING,73.64,HEALTHY,Critical tool wear (214min),false
+4900,WARNING,64.14,WARNING,Critical tool wear (219min),false
+4901,WARNING,74.75,HEALTHY,Critical tool wear (221min),false
+4902,WARNING,72.86,HEALTHY,Critical tool wear (223min),false
+4903,WARNING,71.95,HEALTHY,Critical tool wear (226min),false
+4904,WARNING,84.83,HEALTHY,Rotational speed anomaly (2232rpm),false
+4905,WARNING,93.96,HEALTHY,Multi-factor degradation detected,false
+4906,WARNING,93.66,HEALTHY,Multi-factor degradation detected,false
+4907,WARNING,94.60,HEALTHY,Multi-factor degradation detected,false
+4908,WARNING,94.47,HEALTHY,Multi-factor degradation detected,false
+4909,WARNING,94.24,HEALTHY,Multi-factor degradation detected,false
+4910,WARNING,95.98,HEALTHY,Multi-factor degradation detected,false
+4911,WARNING,94.31,HEALTHY,Multi-factor degradation detected,false
+4912,WARNING,94.11,HEALTHY,Multi-factor degradation detected,false
+4913,WARNING,96.05,HEALTHY,Multi-factor degradation detected,false
+4914,WARNING,96.01,HEALTHY,Multi-factor degradation detected,false
+4915,WARNING,96.01,HEALTHY,Multi-factor degradation detected,false
+4916,WARNING,94.26,HEALTHY,Multi-factor degradation detected,false
+4917,WARNING,92.22,HEALTHY,Multi-factor degradation detected,false
+4918,WARNING,96.10,HEALTHY,Multi-factor degradation detected,false
+4919,WARNING,96.15,HEALTHY,Multi-factor degradation detected,false
+4920,WARNING,96.15,HEALTHY,Multi-factor degradation detected,false
+4921,FAILURE_CONFIRMED,87.08,HEALTHY,Multi-factor degradation detected,true
+4922,WARNING,91.35,HEALTHY,Multi-factor degradation detected,false
+4923,WARNING,95.05,HEALTHY,Multi-factor degradation detected,false
+4924,WARNING,85.96,HEALTHY,Multi-factor degradation detected,false
+4925,WARNING,93.96,HEALTHY,Multi-factor degradation detected,false
+4926,WARNING,91.29,HEALTHY,Multi-factor degradation detected,false
+4927,WARNING,92.74,HEALTHY,Multi-factor degradation detected,false
+4928,WARNING,90.88,HEALTHY,Multi-factor degradation detected,false
+4929,WARNING,91.81,HEALTHY,Multi-factor degradation detected,false
+4930,WARNING,91.43,HEALTHY,Multi-factor degradation detected,false
+4931,WARNING,89.78,HEALTHY,Multi-factor degradation detected,false
+4932,WARNING,89.06,HEALTHY,Multi-factor degradation detected,false
+4933,WARNING,90.41,HEALTHY,Multi-factor degradation detected,false
+4934,WARNING,89.98,HEALTHY,Multi-factor degradation detected,false
+4935,WARNING,89.10,HEALTHY,Multi-factor degradation detected,false
+4936,WARNING,88.71,HEALTHY,Multi-factor degradation detected,false
+4937,FAILURE_CONFIRMED,77.90,HEALTHY,Multi-factor degradation detected,true
+4938,WARNING,88.01,HEALTHY,Multi-factor degradation detected,false
+4939,WARNING,85.71,HEALTHY,Multi-factor degradation detected,false
+4940,WARNING,77.62,HEALTHY,Multi-factor degradation detected,false
+4941,WARNING,86.57,HEALTHY,Multi-factor degradation detected,false
+4942,WARNING,84.50,HEALTHY,Multi-factor degradation detected,false
+4943,WARNING,84.40,HEALTHY,Multi-factor degradation detected,false
+4944,WARNING,85.35,HEALTHY,Multi-factor degradation detected,false
+4945,WARNING,80.56,HEALTHY,Multi-factor degradation detected,false
+4946,WARNING,83.91,HEALTHY,Multi-factor degradation detected,false
+4947,WARNING,81.85,HEALTHY,Multi-factor degradation detected,false
+4948,WARNING,80.63,HEALTHY,Multi-factor degradation detected,false
+4949,WARNING,82.59,HEALTHY,Multi-factor degradation detected,false
+4950,WARNING,80.61,HEALTHY,Multi-factor degradation detected,false
+4951,WARNING,73.13,HEALTHY,Multi-factor degradation detected,false
+4952,WARNING,81.01,HEALTHY,Multi-factor degradation detected,false
+4953,WARNING,78.34,HEALTHY,Multi-factor degradation detected,false
+4954,WARNING,77.90,HEALTHY,Multi-factor degradation detected,false
+4955,WARNING,76.38,HEALTHY,Multi-factor degradation detected,false
+4956,WARNING,78.25,HEALTHY,Multi-factor degradation detected,false
+4957,WARNING,67.72,WARNING,Rotational speed anomaly (2344rpm),false
+4958,WARNING,70.47,HEALTHY,Multi-factor degradation detected,false
+4959,WARNING,85.19,HEALTHY,Multi-factor degradation detected,false
+4960,WARNING,82.31,HEALTHY,Multi-factor degradation detected,false
+4961,WARNING,78.08,HEALTHY,Multi-factor degradation detected,false
+4962,WARNING,77.46,HEALTHY,Multi-factor degradation detected,false
+4963,WARNING,83.09,HEALTHY,Multi-factor degradation detected,false
+4964,WARNING,76.62,HEALTHY,Multi-factor degradation detected,false
+4965,WARNING,82.90,HEALTHY,Multi-factor degradation detected,false
+4966,WARNING,82.20,HEALTHY,Multi-factor degradation detected,false
+4967,WARNING,79.61,HEALTHY,Multi-factor degradation detected,false
+4968,WARNING,80.80,HEALTHY,Multi-factor degradation detected,false
+4969,WARNING,82.71,HEALTHY,Multi-factor degradation detected,false
+4970,WARNING,82.19,HEALTHY,Multi-factor degradation detected,false
+4971,WARNING,81.92,HEALTHY,Multi-factor degradation detected,false
+4972,WARNING,77.47,HEALTHY,Multi-factor degradation detected,false
+4973,WARNING,73.14,HEALTHY,Multi-factor degradation detected,false
+4974,WARNING,80.31,HEALTHY,Multi-factor degradation detected,false
+4975,WARNING,79.96,HEALTHY,Multi-factor degradation detected,false
+4976,WARNING,78.35,HEALTHY,Multi-factor degradation detected,false
+4977,FAILURE_CONFIRMED,73.06,HEALTHY,Multi-factor degradation detected,true
+4978,WARNING,78.96,HEALTHY,Multi-factor degradation detected,false
+4979,WARNING,77.07,HEALTHY,Multi-factor degradation detected,false
+4980,WARNING,78.26,HEALTHY,Multi-factor degradation detected,false
+4981,WARNING,76.05,HEALTHY,Critical tool wear (203min),false
+4982,WARNING,77.17,HEALTHY,Critical tool wear (206min),false
+4983,WARNING,68.49,WARNING,Critical tool wear (209min),false
+4984,WARNING,71.73,HEALTHY,Critical tool wear (211min),false
+4985,FAILURE_CONFIRMED,67.91,WARNING,Critical tool wear (213min),true
+4986,WARNING,67.46,WARNING,Critical tool wear (215min),false
+4987,WARNING,95.69,HEALTHY,Multi-factor degradation detected,false
+4988,WARNING,93.23,HEALTHY,Multi-factor degradation detected,false
+4989,FAILURE_CONFIRMED,84.07,HEALTHY,Rotational speed anomaly (2497rpm),true
+4990,WARNING,95.48,HEALTHY,Multi-factor degradation detected,false
+4991,WARNING,94.04,HEALTHY,Multi-factor degradation detected,false
+4992,WARNING,95.55,HEALTHY,Multi-factor degradation detected,false
+4993,WARNING,94.34,HEALTHY,Multi-factor degradation detected,false
+4994,WARNING,87.53,HEALTHY,Multi-factor degradation detected,false
+4995,WARNING,93.95,HEALTHY,Multi-factor degradation detected,false
+4996,WARNING,95.85,HEALTHY,Multi-factor degradation detected,false
+4997,WARNING,95.77,HEALTHY,Multi-factor degradation detected,false
+4998,FAILURE_CONFIRMED,84.04,HEALTHY,Rotational speed anomaly (2659rpm),true
+4999,WARNING,91.42,HEALTHY,Multi-factor degradation detected,false
+5000,WARNING,95.69,HEALTHY,Multi-factor degradation detected,false
+5001,WARNING,87.58,HEALTHY,Multi-factor degradation detected,false
+5002,WARNING,84.80,HEALTHY,Rotational speed anomaly (2174rpm),false
+5003,WARNING,94.06,HEALTHY,Multi-factor degradation detected,false
+5004,WARNING,93.69,HEALTHY,Multi-factor degradation detected,false
+5005,WARNING,94.31,HEALTHY,Multi-factor degradation detected,false
+5006,WARNING,93.48,HEALTHY,Multi-factor degradation detected,false
+5007,WARNING,94.19,HEALTHY,Multi-factor degradation detected,false
+5008,WARNING,93.62,HEALTHY,Multi-factor degradation detected,false
+5009,WARNING,95.03,HEALTHY,Multi-factor degradation detected,false
+5010,WARNING,94.15,HEALTHY,Multi-factor degradation detected,false
+5011,WARNING,93.80,HEALTHY,Multi-factor degradation detected,false
+5012,WARNING,92.05,HEALTHY,Multi-factor degradation detected,false
+5013,WARNING,88.84,HEALTHY,Multi-factor degradation detected,false
+5014,WARNING,92.31,HEALTHY,Multi-factor degradation detected,false
+5015,WARNING,91.75,HEALTHY,Multi-factor degradation detected,false
+5016,WARNING,87.60,HEALTHY,Multi-factor degradation detected,false
+5017,WARNING,89.44,HEALTHY,Multi-factor degradation detected,false
+5018,WARNING,89.40,HEALTHY,Multi-factor degradation detected,false
+5019,WARNING,90.30,HEALTHY,Multi-factor degradation detected,false
+5020,WARNING,89.69,HEALTHY,Multi-factor degradation detected,false
+5021,WARNING,89.11,HEALTHY,Multi-factor degradation detected,false
+5022,WARNING,81.21,HEALTHY,Multi-factor degradation detected,false
+5023,WARNING,86.95,HEALTHY,Multi-factor degradation detected,false
+5024,WARNING,86.84,HEALTHY,Multi-factor degradation detected,false
+5025,WARNING,85.64,HEALTHY,Multi-factor degradation detected,false
+5026,WARNING,87.29,HEALTHY,Multi-factor degradation detected,false
+5027,WARNING,86.73,HEALTHY,Multi-factor degradation detected,false
+5028,WARNING,82.32,HEALTHY,Multi-factor degradation detected,false
+5029,WARNING,84.06,HEALTHY,Multi-factor degradation detected,false
+5030,WARNING,85.50,HEALTHY,Multi-factor degradation detected,false
+5031,WARNING,83.35,HEALTHY,Multi-factor degradation detected,false
+5032,WARNING,83.32,HEALTHY,Multi-factor degradation detected,false
+5033,WARNING,82.21,HEALTHY,Multi-factor degradation detected,false
+5034,WARNING,81.40,HEALTHY,Multi-factor degradation detected,false
+5035,WARNING,83.09,HEALTHY,Multi-factor degradation detected,false
+5036,WARNING,82.47,HEALTHY,Multi-factor degradation detected,false
+5037,WARNING,81.95,HEALTHY,Multi-factor degradation detected,false
+5038,WARNING,81.55,HEALTHY,Multi-factor degradation detected,false
+5039,WARNING,77.33,HEALTHY,Multi-factor degradation detected,false
+5040,WARNING,79.07,HEALTHY,Multi-factor degradation detected,false
+5041,WARNING,78.50,HEALTHY,Multi-factor degradation detected,false
+5042,WARNING,77.46,HEALTHY,Multi-factor degradation detected,false
+5043,WARNING,78.57,HEALTHY,Multi-factor degradation detected,false
+5044,WARNING,78.22,HEALTHY,Multi-factor degradation detected,false
+5045,WARNING,85.06,HEALTHY,Multi-factor degradation detected,false
+5046,WARNING,84.79,HEALTHY,Multi-factor degradation detected,false
+5047,WARNING,85.75,HEALTHY,Multi-factor degradation detected,false
+5048,WARNING,83.22,HEALTHY,Multi-factor degradation detected,false
+5049,FAILURE_CONFIRMED,74.59,HEALTHY,Multi-factor degradation detected,true
+5050,WARNING,82.60,HEALTHY,Multi-factor degradation detected,false
+5051,WARNING,79.75,HEALTHY,Multi-factor degradation detected,false
+5052,WARNING,82.25,HEALTHY,Multi-factor degradation detected,false
+5053,WARNING,80.23,HEALTHY,Multi-factor degradation detected,false
+5054,WARNING,80.30,HEALTHY,Multi-factor degradation detected,false
+5055,WARNING,81.29,HEALTHY,Multi-factor degradation detected,false
+5056,WARNING,79.61,HEALTHY,Multi-factor degradation detected,false
+5057,WARNING,77.70,HEALTHY,Multi-factor degradation detected,false
+5058,WARNING,77.67,HEALTHY,Multi-factor degradation detected,false
+5059,WARNING,79.14,HEALTHY,Multi-factor degradation detected,false
+5060,WARNING,77.21,HEALTHY,Multi-factor degradation detected,false
+5061,WARNING,78.42,HEALTHY,Multi-factor degradation detected,false
+5062,FAILURE_CONFIRMED,70.23,HEALTHY,Multi-factor degradation detected,true
+5063,WARNING,75.33,HEALTHY,Critical tool wear (202min),false
+5064,WARNING,94.09,HEALTHY,Multi-factor degradation detected,false
+5065,WARNING,95.50,HEALTHY,Multi-factor degradation detected,false
+5066,WARNING,95.45,HEALTHY,Multi-factor degradation detected,false
+5067,WARNING,93.65,HEALTHY,Multi-factor degradation detected,false
+5068,WARNING,93.39,HEALTHY,Multi-factor degradation detected,false
+5069,WARNING,95.24,HEALTHY,Multi-factor degradation detected,false
+5070,WARNING,93.61,HEALTHY,Multi-factor degradation detected,false
+5071,WARNING,93.62,HEALTHY,Multi-factor degradation detected,false
+5072,WARNING,95.40,HEALTHY,Multi-factor degradation detected,false
+5073,WARNING,94.16,HEALTHY,Multi-factor degradation detected,false
+5074,WARNING,94.03,HEALTHY,Multi-factor degradation detected,false
+5075,WARNING,94.11,HEALTHY,Multi-factor degradation detected,false
+5076,WARNING,93.92,HEALTHY,Multi-factor degradation detected,false
+5077,WARNING,95.33,HEALTHY,Multi-factor degradation detected,false
+5078,WARNING,87.26,HEALTHY,Multi-factor degradation detected,false
+5079,WARNING,95.20,HEALTHY,Multi-factor degradation detected,false
+5080,WARNING,92.78,HEALTHY,Multi-factor degradation detected,false
+5081,WARNING,93.21,HEALTHY,Multi-factor degradation detected,false
+5082,WARNING,95.34,HEALTHY,Multi-factor degradation detected,false
+5083,WARNING,95.02,HEALTHY,Multi-factor degradation detected,false
+5084,WARNING,91.80,HEALTHY,Multi-factor degradation detected,false
+5085,WARNING,85.28,HEALTHY,Multi-factor degradation detected,false
+5086,WARNING,87.32,HEALTHY,Multi-factor degradation detected,false
+5087,WARNING,91.69,HEALTHY,Multi-factor degradation detected,false
+5088,WARNING,90.60,HEALTHY,Multi-factor degradation detected,false
+5089,WARNING,92.14,HEALTHY,Multi-factor degradation detected,false
+5090,WARNING,90.31,HEALTHY,Multi-factor degradation detected,false
+5091,WARNING,91.28,HEALTHY,Multi-factor degradation detected,false
+5092,WARNING,89.10,HEALTHY,Multi-factor degradation detected,false
+5093,WARNING,90.40,HEALTHY,Multi-factor degradation detected,false
+5094,WARNING,87.56,HEALTHY,Multi-factor degradation detected,false
+5095,WARNING,87.79,HEALTHY,Multi-factor degradation detected,false
+5096,WARNING,88.61,HEALTHY,Multi-factor degradation detected,false
+5097,WARNING,86.44,HEALTHY,Multi-factor degradation detected,false
+5098,WARNING,85.40,HEALTHY,Multi-factor degradation detected,false
+5099,WARNING,86.85,HEALTHY,Multi-factor degradation detected,false
+5100,WARNING,84.58,HEALTHY,Multi-factor degradation detected,false
+5101,WARNING,84.59,HEALTHY,Multi-factor degradation detected,false
+5102,WARNING,85.67,HEALTHY,Multi-factor degradation detected,false
+5103,WARNING,83.69,HEALTHY,Multi-factor degradation detected,false
+5104,WARNING,84.62,HEALTHY,Multi-factor degradation detected,false
+5105,WARNING,84.24,HEALTHY,Multi-factor degradation detected,false
+5106,WARNING,77.67,HEALTHY,Multi-factor degradation detected,false
+5107,WARNING,83.66,HEALTHY,Multi-factor degradation detected,false
+5108,WARNING,83.40,HEALTHY,Multi-factor degradation detected,false
+5109,WARNING,80.94,HEALTHY,Multi-factor degradation detected,false
+5110,WARNING,81.22,HEALTHY,Multi-factor degradation detected,false
+5111,WARNING,78.07,HEALTHY,Multi-factor degradation detected,false
+5112,WARNING,81.40,HEALTHY,Multi-factor degradation detected,false
+5113,WARNING,81.05,HEALTHY,Multi-factor degradation detected,false
+5114,WARNING,79.06,HEALTHY,Multi-factor degradation detected,false
+5115,WARNING,80.05,HEALTHY,Multi-factor degradation detected,false
+5116,WARNING,68.64,WARNING,Rotational speed anomaly (2113rpm),false
+5117,WARNING,76.64,HEALTHY,Multi-factor degradation detected,false
+5118,WARNING,77.07,HEALTHY,Multi-factor degradation detected,false
+5119,WARNING,76.92,HEALTHY,Multi-factor degradation detected,false
+5120,WARNING,76.47,HEALTHY,Multi-factor degradation detected,false
+5121,WARNING,86.25,HEALTHY,Multi-factor degradation detected,false
+5122,WARNING,85.72,HEALTHY,Multi-factor degradation detected,false
+5123,WARNING,83.51,HEALTHY,Multi-factor degradation detected,false
+5124,WARNING,84.54,HEALTHY,Multi-factor degradation detected,false
+5125,WARNING,84.01,HEALTHY,Multi-factor degradation detected,false
+5126,WARNING,81.80,HEALTHY,Multi-factor degradation detected,false
+5127,WARNING,78.66,HEALTHY,Multi-factor degradation detected,false
+5128,WARNING,71.44,HEALTHY,Rotational speed anomaly (2245rpm),false
+5129,WARNING,82.13,HEALTHY,Multi-factor degradation detected,false
+5130,WARNING,78.20,HEALTHY,Multi-factor degradation detected,false
+5131,WARNING,81.29,HEALTHY,Multi-factor degradation detected,false
+5132,WARNING,80.99,HEALTHY,Multi-factor degradation detected,false
+5133,WARNING,78.76,HEALTHY,Multi-factor degradation detected,false
+5134,WARNING,76.05,HEALTHY,Multi-factor degradation detected,false
+5135,WARNING,78.62,HEALTHY,Multi-factor degradation detected,false
+5136,WARNING,71.29,HEALTHY,Multi-factor degradation detected,false
+5137,WARNING,75.53,HEALTHY,Multi-factor degradation detected,false
+5138,WARNING,78.71,HEALTHY,Multi-factor degradation detected,false
+5139,WARNING,78.32,HEALTHY,Multi-factor degradation detected,false
+5140,WARNING,77.75,HEALTHY,Multi-factor degradation detected,false
+5141,WARNING,75.66,HEALTHY,Critical tool wear (202min),false
+5142,FAILURE_CONFIRMED,75.41,HEALTHY,Critical tool wear (205min),true
+5143,WARNING,95.08,HEALTHY,Multi-factor degradation detected,false
+5144,WARNING,95.16,HEALTHY,Multi-factor degradation detected,false
+5145,WARNING,93.60,HEALTHY,Multi-factor degradation detected,false
+5146,WARNING,93.48,HEALTHY,Multi-factor degradation detected,false
+5147,WARNING,95.08,HEALTHY,Multi-factor degradation detected,false
+5148,WARNING,95.08,HEALTHY,Multi-factor degradation detected,false
+5149,WARNING,95.08,HEALTHY,Multi-factor degradation detected,false
+5150,WARNING,95.16,HEALTHY,Multi-factor degradation detected,false
+5151,WARNING,93.26,HEALTHY,Multi-factor degradation detected,false
+5152,WARNING,88.87,HEALTHY,Multi-factor degradation detected,false
+5153,WARNING,83.45,HEALTHY,Rotational speed anomaly (2643rpm),false
+5154,WARNING,93.59,HEALTHY,Multi-factor degradation detected,false
+5155,WARNING,95.25,HEALTHY,Multi-factor degradation detected,false
+5156,WARNING,95.29,HEALTHY,Multi-factor degradation detected,false
+5157,WARNING,95.25,HEALTHY,Multi-factor degradation detected,false
+5158,WARNING,93.51,HEALTHY,Multi-factor degradation detected,false
+5159,WARNING,93.42,HEALTHY,Multi-factor degradation detected,false
+5160,WARNING,95.25,HEALTHY,Multi-factor degradation detected,false
+5161,WARNING,93.49,HEALTHY,Multi-factor degradation detected,false
+5162,WARNING,84.58,HEALTHY,Rotational speed anomaly (2028rpm),false
+5163,WARNING,93.92,HEALTHY,Multi-factor degradation detected,false
+5164,WARNING,87.46,HEALTHY,Multi-factor degradation detected,false
+5165,WARNING,93.06,HEALTHY,Multi-factor degradation detected,false
+5166,WARNING,94.20,HEALTHY,Multi-factor degradation detected,false
+5167,WARNING,93.81,HEALTHY,Multi-factor degradation detected,false
+5168,WARNING,91.44,HEALTHY,Multi-factor degradation detected,false
+5169,WARNING,90.75,HEALTHY,Multi-factor degradation detected,false
+5170,WARNING,91.84,HEALTHY,Multi-factor degradation detected,false
+5171,WARNING,91.49,HEALTHY,Multi-factor degradation detected,false
+5172,WARNING,88.44,HEALTHY,Multi-factor degradation detected,false
+5173,WARNING,86.63,HEALTHY,Multi-factor degradation detected,false
+5174,WARNING,86.23,HEALTHY,Multi-factor degradation detected,false
+5175,WARNING,87.84,HEALTHY,Multi-factor degradation detected,false
+5176,WARNING,81.08,HEALTHY,Multi-factor degradation detected,false
+5177,WARNING,84.57,HEALTHY,Multi-factor degradation detected,false
+5178,WARNING,86.01,HEALTHY,Multi-factor degradation detected,false
+5179,WARNING,87.38,HEALTHY,Multi-factor degradation detected,false
+5180,WARNING,86.54,HEALTHY,Multi-factor degradation detected,false
+5181,WARNING,85.97,HEALTHY,Multi-factor degradation detected,false
+5182,WARNING,82.06,HEALTHY,Multi-factor degradation detected,false
+5183,WARNING,83.72,HEALTHY,Multi-factor degradation detected,false
+5184,WARNING,76.70,HEALTHY,Multi-factor degradation detected,false
+5185,WARNING,84.47,HEALTHY,Multi-factor degradation detected,false
+5186,WARNING,73.36,HEALTHY,Rotational speed anomaly (2012rpm),false
+5187,WARNING,72.49,HEALTHY,Rotational speed anomaly (2354rpm),false
+5188,WARNING,83.39,HEALTHY,Multi-factor degradation detected,false
+5189,WARNING,81.20,HEALTHY,Multi-factor degradation detected,false
+5190,WARNING,81.11,HEALTHY,Multi-factor degradation detected,false
+5191,WARNING,80.45,HEALTHY,Multi-factor degradation detected,false
+5192,WARNING,80.40,HEALTHY,Multi-factor degradation detected,false
+5193,WARNING,73.65,HEALTHY,Multi-factor degradation detected,false
+5194,WARNING,81.11,HEALTHY,Multi-factor degradation detected,false
+5195,WARNING,78.96,HEALTHY,Multi-factor degradation detected,false
+5196,WARNING,79.80,HEALTHY,Multi-factor degradation detected,false
+5197,WARNING,79.45,HEALTHY,Multi-factor degradation detected,false
+5198,WARNING,78.66,HEALTHY,Multi-factor degradation detected,false
+5199,WARNING,84.29,HEALTHY,Multi-factor degradation detected,false
+5200,WARNING,86.22,HEALTHY,Multi-factor degradation detected,false
+5201,WARNING,79.62,HEALTHY,Multi-factor degradation detected,false
+5202,WARNING,84.08,HEALTHY,Multi-factor degradation detected,false
+5203,WARNING,83.08,HEALTHY,Multi-factor degradation detected,false
+5204,WARNING,82.96,HEALTHY,Multi-factor degradation detected,false
+5205,WARNING,75.60,HEALTHY,Multi-factor degradation detected,false
+5206,WARNING,83.86,HEALTHY,Multi-factor degradation detected,false
+5207,WARNING,79.84,HEALTHY,Multi-factor degradation detected,false
+5208,WARNING,82.59,HEALTHY,Multi-factor degradation detected,false
+5209,WARNING,80.10,HEALTHY,Multi-factor degradation detected,false
+5210,WARNING,81.71,HEALTHY,Multi-factor degradation detected,false
+5211,WARNING,81.27,HEALTHY,Multi-factor degradation detected,false
+5212,WARNING,78.64,HEALTHY,Multi-factor degradation detected,false
+5213,WARNING,79.28,HEALTHY,Multi-factor degradation detected,false
+5214,WARNING,80.22,HEALTHY,Multi-factor degradation detected,false
+5215,WARNING,79.66,HEALTHY,Multi-factor degradation detected,false
+5216,WARNING,79.31,HEALTHY,Multi-factor degradation detected,false
+5217,WARNING,76.69,HEALTHY,Multi-factor degradation detected,false
+5218,WARNING,76.56,HEALTHY,Multi-factor degradation detected,false
+5219,WARNING,77.61,HEALTHY,Critical tool wear (203min),false
+5220,FAILURE_CONFIRMED,70.97,HEALTHY,Critical tool wear (205min),true
+5221,WARNING,75.36,HEALTHY,Critical tool wear (207min),false
+5222,WARNING,74.78,HEALTHY,Critical tool wear (209min),false
+5223,WARNING,93.59,HEALTHY,Multi-factor degradation detected,false
+5224,WARNING,93.95,HEALTHY,Multi-factor degradation detected,false
+5225,WARNING,93.84,HEALTHY,Multi-factor degradation detected,false
+5226,WARNING,93.06,HEALTHY,Multi-factor degradation detected,false
+5227,WARNING,93.89,HEALTHY,Multi-factor degradation detected,false
+5228,WARNING,95.51,HEALTHY,Multi-factor degradation detected,false
+5229,WARNING,87.84,HEALTHY,Multi-factor degradation detected,false
+5230,WARNING,91.45,HEALTHY,Multi-factor degradation detected,false
+5231,WARNING,84.64,HEALTHY,Rotational speed anomaly (2117rpm),false
+5232,WARNING,95.56,HEALTHY,Multi-factor degradation detected,false
+5233,WARNING,89.49,HEALTHY,Multi-factor degradation detected,false
+5234,WARNING,94.45,HEALTHY,Multi-factor degradation detected,false
+5235,WARNING,93.80,HEALTHY,Multi-factor degradation detected,false
+5236,WARNING,95.69,HEALTHY,Multi-factor degradation detected,false
+5237,WARNING,94.26,HEALTHY,Multi-factor degradation detected,false
+5238,WARNING,95.60,HEALTHY,Multi-factor degradation detected,false
+5239,WARNING,95.65,HEALTHY,Multi-factor degradation detected,false
+5240,WARNING,91.99,HEALTHY,Multi-factor degradation detected,false
+5241,WARNING,93.53,HEALTHY,Multi-factor degradation detected,false
+5242,WARNING,93.54,HEALTHY,Multi-factor degradation detected,false
+5243,WARNING,94.06,HEALTHY,Multi-factor degradation detected,false
+5244,WARNING,92.77,HEALTHY,Multi-factor degradation detected,false
+5245,WARNING,93.67,HEALTHY,Multi-factor degradation detected,false
+5246,WARNING,95.00,HEALTHY,Multi-factor degradation detected,false
+5247,WARNING,94.70,HEALTHY,Multi-factor degradation detected,false
+5248,WARNING,94.26,HEALTHY,Multi-factor degradation detected,false
+5249,WARNING,85.64,HEALTHY,Multi-factor degradation detected,false
+5250,WARNING,93.56,HEALTHY,Multi-factor degradation detected,false
+5251,WARNING,90.75,HEALTHY,Multi-factor degradation detected,false
+5252,WARNING,90.28,HEALTHY,Multi-factor degradation detected,false
+5253,WARNING,85.83,HEALTHY,Multi-factor degradation detected,false
+5254,WARNING,91.72,HEALTHY,Multi-factor degradation detected,false
+5255,WARNING,83.00,HEALTHY,Multi-factor degradation detected,false
+5256,WARNING,88.91,HEALTHY,Multi-factor degradation detected,false
+5257,WARNING,88.42,HEALTHY,Multi-factor degradation detected,false
+5258,WARNING,90.15,HEALTHY,Multi-factor degradation detected,false
+5259,WARNING,89.84,HEALTHY,Multi-factor degradation detected,false
+5260,WARNING,89.31,HEALTHY,Multi-factor degradation detected,false
+5261,WARNING,87.54,HEALTHY,Multi-factor degradation detected,false
+5262,WARNING,88.53,HEALTHY,Multi-factor degradation detected,false
+5263,WARNING,88.18,HEALTHY,Multi-factor degradation detected,false
+5264,WARNING,79.49,HEALTHY,Multi-factor degradation detected,false
+5265,WARNING,85.18,HEALTHY,Multi-factor degradation detected,false
+5266,WARNING,78.74,HEALTHY,Multi-factor degradation detected,false
+5267,WARNING,86.60,HEALTHY,Multi-factor degradation detected,false
+5268,WARNING,85.99,HEALTHY,Multi-factor degradation detected,false
+5269,WARNING,83.13,HEALTHY,Multi-factor degradation detected,false
+5270,WARNING,85.11,HEALTHY,Multi-factor degradation detected,false
+5271,WARNING,75.14,HEALTHY,Multi-factor degradation detected,false
+5272,WARNING,84.32,HEALTHY,Multi-factor degradation detected,false
+5273,WARNING,83.97,HEALTHY,Multi-factor degradation detected,false
+5274,WARNING,83.41,HEALTHY,Multi-factor degradation detected,false
+5275,WARNING,81.34,HEALTHY,Multi-factor degradation detected,false
+5276,WARNING,82.66,HEALTHY,Multi-factor degradation detected,false
+5277,WARNING,81.08,HEALTHY,Multi-factor degradation detected,false
+5278,WARNING,82.14,HEALTHY,Multi-factor degradation detected,false
+5279,WARNING,79.96,HEALTHY,Multi-factor degradation detected,false
+5280,WARNING,81.17,HEALTHY,Multi-factor degradation detected,false
+5281,WARNING,80.86,HEALTHY,Multi-factor degradation detected,false
+5282,WARNING,80.43,HEALTHY,Multi-factor degradation detected,false
+5283,WARNING,77.60,HEALTHY,Multi-factor degradation detected,false
+5284,WARNING,78.90,HEALTHY,Multi-factor degradation detected,false
+5285,WARNING,75.03,HEALTHY,Multi-factor degradation detected,false
+5286,WARNING,86.81,HEALTHY,Multi-factor degradation detected,false
+5287,WARNING,86.46,HEALTHY,Multi-factor degradation detected,false
+5288,WARNING,84.59,HEALTHY,Multi-factor degradation detected,false
+5289,WARNING,85.20,HEALTHY,Multi-factor degradation detected,false
+5290,WARNING,83.43,HEALTHY,Multi-factor degradation detected,false
+5291,WARNING,84.24,HEALTHY,Multi-factor degradation detected,false
+5292,WARNING,81.80,HEALTHY,Multi-factor degradation detected,false
+5293,WARNING,82.29,HEALTHY,Multi-factor degradation detected,false
+5294,WARNING,81.21,HEALTHY,Multi-factor degradation detected,false
+5295,WARNING,80.76,HEALTHY,Multi-factor degradation detected,false
+5296,WARNING,80.62,HEALTHY,Multi-factor degradation detected,false
+5297,WARNING,79.97,HEALTHY,Multi-factor degradation detected,false
+5298,WARNING,79.39,HEALTHY,Multi-factor degradation detected,false
+5299,WARNING,69.79,WARNING,Rotational speed anomaly (2130rpm),false
+5300,WARNING,78.45,HEALTHY,Multi-factor degradation detected,false
+5301,WARNING,75.93,HEALTHY,Multi-factor degradation detected,false
+5302,WARNING,73.04,HEALTHY,Multi-factor degradation detected,false
+5303,WARNING,78.89,HEALTHY,Multi-factor degradation detected,false
+5304,WARNING,78.50,HEALTHY,Multi-factor degradation detected,false
+5305,WARNING,76.40,HEALTHY,Multi-factor degradation detected,false
+5306,WARNING,75.81,HEALTHY,Critical tool wear (201min),false
+5307,WARNING,75.21,HEALTHY,Critical tool wear (206min),false
+5308,WARNING,74.69,HEALTHY,Critical tool wear (211min),false
+5309,WARNING,75.65,HEALTHY,Critical tool wear (213min),false
+5310,FAILURE_CONFIRMED,73.73,HEALTHY,Critical tool wear (215min),true
+5311,WARNING,95.60,HEALTHY,Multi-factor degradation detected,false
+5312,WARNING,93.84,HEALTHY,Multi-factor degradation detected,false
+5313,WARNING,87.47,HEALTHY,Multi-factor degradation detected,false
+5314,WARNING,94.14,HEALTHY,Multi-factor degradation detected,false
+5315,WARNING,92.50,HEALTHY,Multi-factor degradation detected,false
+5316,WARNING,92.02,HEALTHY,Multi-factor degradation detected,false
+5317,WARNING,94.29,HEALTHY,Multi-factor degradation detected,false
+5318,WARNING,94.30,HEALTHY,Multi-factor degradation detected,false
+5319,WARNING,95.90,HEALTHY,Multi-factor degradation detected,false
+5320,WARNING,94.36,HEALTHY,Multi-factor degradation detected,false
+5321,WARNING,94.60,HEALTHY,Multi-factor degradation detected,false
+5322,WARNING,94.05,HEALTHY,Multi-factor degradation detected,false
+5323,WARNING,89.66,HEALTHY,Multi-factor degradation detected,false
+5324,WARNING,94.24,HEALTHY,Multi-factor degradation detected,false
+5325,WARNING,94.10,HEALTHY,Multi-factor degradation detected,false
+5326,WARNING,93.65,HEALTHY,Multi-factor degradation detected,false
+5327,WARNING,94.10,HEALTHY,Multi-factor degradation detected,false
+5328,WARNING,84.94,HEALTHY,Rotational speed anomaly (2116rpm),false
+5329,WARNING,95.69,HEALTHY,Multi-factor degradation detected,false
+5330,WARNING,94.16,HEALTHY,Multi-factor degradation detected,false
+5331,WARNING,93.57,HEALTHY,Multi-factor degradation detected,false
+5332,WARNING,94.85,HEALTHY,Multi-factor degradation detected,false
+5333,WARNING,93.19,HEALTHY,Multi-factor degradation detected,false
+5334,WARNING,91.72,HEALTHY,Multi-factor degradation detected,false
+5335,FAILURE_CONFIRMED,81.52,HEALTHY,Rotational speed anomaly (2706rpm),true
+5336,WARNING,92.92,HEALTHY,Multi-factor degradation detected,false
+5337,WARNING,91.04,HEALTHY,Multi-factor degradation detected,false
+5338,WARNING,91.97,HEALTHY,Multi-factor degradation detected,false
+5339,WARNING,89.95,HEALTHY,Multi-factor degradation detected,false
+5340,WARNING,89.31,HEALTHY,Multi-factor degradation detected,false
+5341,WARNING,88.47,HEALTHY,Multi-factor degradation detected,false
+5342,WARNING,83.62,HEALTHY,Multi-factor degradation detected,false
+5343,WARNING,87.66,HEALTHY,Multi-factor degradation detected,false
+5344,WARNING,88.47,HEALTHY,Multi-factor degradation detected,false
+5345,WARNING,86.20,HEALTHY,Multi-factor degradation detected,false
+5346,WARNING,87.77,HEALTHY,Multi-factor degradation detected,false
+5347,WARNING,87.51,HEALTHY,Multi-factor degradation detected,false
+5348,WARNING,77.62,HEALTHY,Multi-factor degradation detected,false
+5349,WARNING,85.60,HEALTHY,Multi-factor degradation detected,false
+5350,WARNING,85.09,HEALTHY,Multi-factor degradation detected,false
+5351,WARNING,85.90,HEALTHY,Multi-factor degradation detected,false
+5352,WARNING,83.98,HEALTHY,Multi-factor degradation detected,false
+5353,WARNING,84.85,HEALTHY,Multi-factor degradation detected,false
+5354,WARNING,82.99,HEALTHY,Multi-factor degradation detected,false
+5355,WARNING,84.05,HEALTHY,Multi-factor degradation detected,false
+5356,WARNING,81.94,HEALTHY,Multi-factor degradation detected,false
+5357,WARNING,80.87,HEALTHY,Multi-factor degradation detected,false
+5358,WARNING,73.48,HEALTHY,Multi-factor degradation detected,false
+5359,WARNING,73.52,HEALTHY,Multi-factor degradation detected,false
+5360,WARNING,79.26,HEALTHY,Multi-factor degradation detected,false
+5361,WARNING,80.25,HEALTHY,Multi-factor degradation detected,false
+5362,WARNING,78.07,HEALTHY,Multi-factor degradation detected,false
+5363,WARNING,71.79,HEALTHY,Multi-factor degradation detected,false
+5364,WARNING,79.29,HEALTHY,Multi-factor degradation detected,false
+5365,WARNING,78.90,HEALTHY,Multi-factor degradation detected,false
+5366,WARNING,87.35,HEALTHY,Multi-factor degradation detected,false
+5367,WARNING,87.00,HEALTHY,Multi-factor degradation detected,false
+5368,WARNING,82.18,HEALTHY,Multi-factor degradation detected,false
+5369,WARNING,83.76,HEALTHY,Multi-factor degradation detected,false
+5370,WARNING,85.16,HEALTHY,Multi-factor degradation detected,false
+5371,WARNING,84.33,HEALTHY,Multi-factor degradation detected,false
+5372,WARNING,81.95,HEALTHY,Multi-factor degradation detected,false
+5373,WARNING,81.71,HEALTHY,Multi-factor degradation detected,false
+5374,WARNING,74.24,HEALTHY,Multi-factor degradation detected,false
+5375,WARNING,81.79,HEALTHY,Multi-factor degradation detected,false
+5376,WARNING,80.18,HEALTHY,Multi-factor degradation detected,false
+5377,WARNING,74.89,HEALTHY,Multi-factor degradation detected,false
+5378,WARNING,69.38,WARNING,Rotational speed anomaly (2030rpm),false
+5379,WARNING,79.83,HEALTHY,Multi-factor degradation detected,false
+5380,WARNING,79.48,HEALTHY,Multi-factor degradation detected,false
+5381,WARNING,79.21,HEALTHY,Multi-factor degradation detected,false
+5382,WARNING,76.58,HEALTHY,Multi-factor degradation detected,false
+5383,WARNING,77.03,HEALTHY,Critical tool wear (202min),false
+5384,WARNING,78.16,HEALTHY,Critical tool wear (204min),false
+5385,WARNING,76.35,HEALTHY,Critical tool wear (206min),false
+5386,WARNING,73.31,HEALTHY,Critical tool wear (209min),false
+5387,WARNING,76.40,HEALTHY,Critical tool wear (214min),false
+5388,WARNING,74.22,HEALTHY,Critical tool wear (216min),false
+5389,WARNING,73.96,HEALTHY,Critical tool wear (218min),false
+5390,WARNING,73.42,HEALTHY,Critical tool wear (221min),false
+5391,WARNING,73.31,HEALTHY,Critical tool wear (223min),false
+5392,WARNING,72.73,HEALTHY,Critical tool wear (228min),false
+5393,WARNING,73.65,HEALTHY,Critical tool wear (230min),false
+5394,WARNING,73.26,HEALTHY,Critical tool wear (232min),false
+5395,FAILURE_CONFIRMED,62.49,WARNING,Critical tool wear (234min),true
+5396,WARNING,72.35,HEALTHY,Critical tool wear (237min),false
+5397,WARNING,72.00,HEALTHY,Critical tool wear (239min),false
+5398,CRITICAL,71.69,HEALTHY,Critical tool wear (241min),false
+5399,CRITICAL,62.66,WARNING,Critical tool wear (244min),false
+5400,FAILURE_CONFIRMED,68.42,WARNING,Critical tool wear (246min),true
+5401,FAILURE_CONFIRMED,68.68,WARNING,Critical tool wear (251min),true
+5402,FAILURE_CONFIRMED,67.63,WARNING,Critical tool wear (253min),true
+5403,WARNING,94.72,HEALTHY,Multi-factor degradation detected,false
+5404,WARNING,91.99,HEALTHY,Multi-factor degradation detected,false
+5405,WARNING,94.90,HEALTHY,Multi-factor degradation detected,false
+5406,WARNING,94.66,HEALTHY,Multi-factor degradation detected,false
+5407,WARNING,94.78,HEALTHY,Multi-factor degradation detected,false
+5408,WARNING,87.86,HEALTHY,Multi-factor degradation detected,false
+5409,WARNING,94.92,HEALTHY,Multi-factor degradation detected,false
+5410,WARNING,96.38,HEALTHY,Multi-factor degradation detected,false
+5411,WARNING,94.28,HEALTHY,Multi-factor degradation detected,false
+5412,WARNING,96.25,HEALTHY,Multi-factor degradation detected,false
+5413,WARNING,89.95,HEALTHY,Multi-factor degradation detected,false
+5414,WARNING,96.34,HEALTHY,Multi-factor degradation detected,false
+5415,WARNING,95.12,HEALTHY,Multi-factor degradation detected,false
+5416,WARNING,94.51,HEALTHY,Multi-factor degradation detected,false
+5417,WARNING,94.62,HEALTHY,Multi-factor degradation detected,false
+5418,WARNING,95.07,HEALTHY,Multi-factor degradation detected,false
+5419,WARNING,96.42,HEALTHY,Multi-factor degradation detected,false
+5420,WARNING,94.16,HEALTHY,Multi-factor degradation detected,false
+5421,WARNING,95.11,HEALTHY,Multi-factor degradation detected,false
+5422,WARNING,96.46,HEALTHY,Multi-factor degradation detected,false
+5423,WARNING,96.38,HEALTHY,Multi-factor degradation detected,false
+5424,WARNING,94.46,HEALTHY,Multi-factor degradation detected,false
+5425,WARNING,94.49,HEALTHY,Multi-factor degradation detected,false
+5426,WARNING,91.64,HEALTHY,Multi-factor degradation detected,false
+5427,WARNING,95.06,HEALTHY,Multi-factor degradation detected,false
+5428,WARNING,92.51,HEALTHY,Multi-factor degradation detected,false
+5429,WARNING,92.74,HEALTHY,Multi-factor degradation detected,false
+5430,WARNING,92.55,HEALTHY,Multi-factor degradation detected,false
+5431,WARNING,91.41,HEALTHY,Multi-factor degradation detected,false
+5432,WARNING,93.14,HEALTHY,Multi-factor degradation detected,false
+5433,WARNING,91.43,HEALTHY,Multi-factor degradation detected,false
+5434,WARNING,91.08,HEALTHY,Multi-factor degradation detected,false
+5435,WARNING,90.21,HEALTHY,Multi-factor degradation detected,false
+5436,WARNING,91.64,HEALTHY,Multi-factor degradation detected,false
+5437,WARNING,89.40,HEALTHY,Multi-factor degradation detected,false
+5438,WARNING,89.17,HEALTHY,Multi-factor degradation detected,false
+5439,WARNING,88.50,HEALTHY,Multi-factor degradation detected,false
+5440,WARNING,87.90,HEALTHY,Multi-factor degradation detected,false
+5441,WARNING,87.49,HEALTHY,Multi-factor degradation detected,false
+5442,WARNING,88.45,HEALTHY,Multi-factor degradation detected,false
+5443,WARNING,85.74,HEALTHY,Multi-factor degradation detected,false
+5444,WARNING,86.06,HEALTHY,Multi-factor degradation detected,false
+5445,WARNING,76.23,HEALTHY,Rotational speed anomaly (2024rpm),false
+5446,WARNING,85.01,HEALTHY,Multi-factor degradation detected,false
+5447,WARNING,86.01,HEALTHY,Multi-factor degradation detected,false
+5448,WARNING,85.70,HEALTHY,Multi-factor degradation detected,false
+5449,WARNING,85.44,HEALTHY,Multi-factor degradation detected,false
+5450,WARNING,73.76,HEALTHY,Rotational speed anomaly (2329rpm),false
+5451,WARNING,84.65,HEALTHY,Multi-factor degradation detected,false
+5452,WARNING,82.14,HEALTHY,Multi-factor degradation detected,false
+5453,WARNING,83.51,HEALTHY,Multi-factor degradation detected,false
+5454,WARNING,83.02,HEALTHY,Multi-factor degradation detected,false
+5455,WARNING,82.71,HEALTHY,Multi-factor degradation detected,false
+5456,WARNING,73.94,HEALTHY,Multi-factor degradation detected,false
+5457,WARNING,80.24,HEALTHY,Multi-factor degradation detected,false
+5458,WARNING,79.90,HEALTHY,Multi-factor degradation detected,false
+5459,WARNING,80.70,HEALTHY,Multi-factor degradation detected,false
+5460,WARNING,78.62,HEALTHY,Multi-factor degradation detected,false
+5461,WARNING,80.12,HEALTHY,Multi-factor degradation detected,false
+5462,WARNING,77.55,HEALTHY,Multi-factor degradation detected,false
+5463,WARNING,70.85,HEALTHY,Multi-factor degradation detected,false
+5464,WARNING,86.25,HEALTHY,Multi-factor degradation detected,false
+5465,WARNING,85.69,HEALTHY,Multi-factor degradation detected,false
+5466,WARNING,84.84,HEALTHY,Multi-factor degradation detected,false
+5467,WARNING,86.34,HEALTHY,Multi-factor degradation detected,false
+5468,WARNING,83.73,HEALTHY,Multi-factor degradation detected,false
+5469,WARNING,81.93,HEALTHY,Multi-factor degradation detected,false
+5470,WARNING,85.25,HEALTHY,Multi-factor degradation detected,false
+5471,WARNING,84.73,HEALTHY,Multi-factor degradation detected,false
+5472,FAILURE_CONFIRMED,76.51,HEALTHY,Multi-factor degradation detected,true
+5473,WARNING,77.51,HEALTHY,Multi-factor degradation detected,false
+5474,WARNING,81.40,HEALTHY,Multi-factor degradation detected,false
+5475,WARNING,81.70,HEALTHY,Multi-factor degradation detected,false
+5476,WARNING,81.15,HEALTHY,Multi-factor degradation detected,false
+5477,WARNING,82.36,HEALTHY,Multi-factor degradation detected,false
+5478,WARNING,77.79,HEALTHY,Multi-factor degradation detected,false
+5479,WARNING,80.04,HEALTHY,Multi-factor degradation detected,false
+5480,WARNING,79.47,HEALTHY,Multi-factor degradation detected,false
+5481,WARNING,80.56,HEALTHY,Multi-factor degradation detected,false
+5482,WARNING,75.97,HEALTHY,Multi-factor degradation detected,false
+5483,WARNING,75.37,HEALTHY,Multi-factor degradation detected,false
+5484,WARNING,68.29,WARNING,Multi-factor degradation detected,false
+5485,WARNING,74.26,HEALTHY,Critical tool wear (203min),false
+5486,WARNING,75.99,HEALTHY,Critical tool wear (206min),false
+5487,WARNING,77.60,HEALTHY,Critical tool wear (208min),false
+5488,WARNING,77.29,HEALTHY,Critical tool wear (210min),false
+5489,FAILURE_CONFIRMED,74.54,HEALTHY,Critical tool wear (213min),true
+5490,FAILURE_CONFIRMED,75.16,HEALTHY,Critical tool wear (215min),true
+5491,FAILURE_CONFIRMED,86.44,HEALTHY,Multi-factor degradation detected,true
+5492,WARNING,90.20,HEALTHY,Multi-factor degradation detected,false
+5493,WARNING,94.29,HEALTHY,Multi-factor degradation detected,false
+5494,WARNING,90.08,HEALTHY,Multi-factor degradation detected,false
+5495,WARNING,94.51,HEALTHY,Multi-factor degradation detected,false
+5496,FAILURE_CONFIRMED,89.99,HEALTHY,Multi-factor degradation detected,true
+5497,WARNING,87.82,HEALTHY,Multi-factor degradation detected,false
+5498,WARNING,96.24,HEALTHY,Multi-factor degradation detected,false
+5499,WARNING,87.88,HEALTHY,Multi-factor degradation detected,false
+5500,WARNING,94.60,HEALTHY,Multi-factor degradation detected,false
+5501,WARNING,96.49,HEALTHY,Multi-factor degradation detected,false
+5502,WARNING,96.49,HEALTHY,Multi-factor degradation detected,false
+5503,WARNING,94.37,HEALTHY,Multi-factor degradation detected,false
+5505,WARNING,94.40,HEALTHY,Multi-factor degradation detected,false
+5506,WARNING,92.56,HEALTHY,Multi-factor degradation detected,false
+5507,WARNING,94.54,HEALTHY,Multi-factor degradation detected,false
+5508,WARNING,96.44,HEALTHY,Multi-factor degradation detected,false
+5509,WARNING,90.10,HEALTHY,Multi-factor degradation detected,false
+5510,FAILURE_CONFIRMED,96.05,HEALTHY,Multi-factor degradation detected,true
+5511,WARNING,93.69,HEALTHY,Multi-factor degradation detected,false
+5512,WARNING,86.86,HEALTHY,Multi-factor degradation detected,false
+5513,WARNING,93.24,HEALTHY,Multi-factor degradation detected,false
+5514,WARNING,92.74,HEALTHY,Multi-factor degradation detected,false
+5544,WARNING,73.47,HEALTHY,Multi-factor degradation detected,false
+5554,FAILURE_CONFIRMED,77.81,HEALTHY,Multi-factor degradation detected,true
+5558,WARNING,81.92,HEALTHY,Multi-factor degradation detected,false
+5559,WARNING,81.44,HEALTHY,Multi-factor degradation detected,false
+5560,WARNING,81.05,HEALTHY,Multi-factor degradation detected,false
+5561,WARNING,80.61,HEALTHY,Multi-factor degradation detected,false
+5562,WARNING,78.97,HEALTHY,Multi-factor degradation detected,false
+5563,WARNING,78.25,HEALTHY,Multi-factor degradation detected,false
+5564,WARNING,77.82,HEALTHY,Multi-factor degradation detected,false
+5565,WARNING,77.51,HEALTHY,Critical tool wear (202min),false
+5566,WARNING,76.63,HEALTHY,Critical tool wear (204min),false
+5567,WARNING,76.81,HEALTHY,Critical tool wear (206min),false
+5569,WARNING,96.59,HEALTHY,Multi-factor degradation detected,false
+5571,WARNING,95.05,HEALTHY,Multi-factor degradation detected,false
+5574,WARNING,92.47,HEALTHY,Multi-factor degradation detected,false
+5578,WARNING,96.64,HEALTHY,Multi-factor degradation detected,false
+5579,WARNING,96.55,HEALTHY,Multi-factor degradation detected,false
+5580,WARNING,94.26,HEALTHY,Multi-factor degradation detected,false
+5581,WARNING,96.50,HEALTHY,Multi-factor degradation detected,false
+5582,WARNING,95.01,HEALTHY,Multi-factor degradation detected,false
+5590,WARNING,87.68,HEALTHY,Multi-factor degradation detected,false
+5591,WARNING,88.66,HEALTHY,Multi-factor degradation detected,false
+5599,WARNING,89.22,HEALTHY,Multi-factor degradation detected,false
+5601,WARNING,90.49,HEALTHY,Multi-factor degradation detected,false
+5602,WARNING,88.66,HEALTHY,Multi-factor degradation detected,false
+5603,WARNING,87.28,HEALTHY,Multi-factor degradation detected,false
+5604,WARNING,83.10,HEALTHY,Multi-factor degradation detected,false
+5605,WARNING,89.00,HEALTHY,Multi-factor degradation detected,false
+5606,WARNING,88.65,HEALTHY,Multi-factor degradation detected,false
+5607,WARNING,80.46,HEALTHY,Multi-factor degradation detected,false
+5608,WARNING,83.88,HEALTHY,Multi-factor degradation detected,false
+5609,WARNING,85.61,HEALTHY,Multi-factor degradation detected,false
+5610,WARNING,84.84,HEALTHY,Multi-factor degradation detected,false
+5611,WARNING,86.20,HEALTHY,Multi-factor degradation detected,false
+5612,WARNING,84.00,HEALTHY,Multi-factor degradation detected,false
+5613,WARNING,85.41,HEALTHY,Multi-factor degradation detected,false
+5614,WARNING,85.06,HEALTHY,Multi-factor degradation detected,false
+5615,WARNING,82.55,HEALTHY,Multi-factor degradation detected,false
+5616,FAILURE_CONFIRMED,73.16,HEALTHY,Multi-factor degradation detected,true
+5617,WARNING,83.14,HEALTHY,Multi-factor degradation detected,false
+5618,FAILURE_CONFIRMED,75.01,HEALTHY,Multi-factor degradation detected,true
+5619,WARNING,80.48,HEALTHY,Multi-factor degradation detected,false
+5620,WARNING,73.47,HEALTHY,Multi-factor degradation detected,false
+5621,WARNING,81.56,HEALTHY,Multi-factor degradation detected,false
+5622,WARNING,77.35,HEALTHY,Multi-factor degradation detected,false
+5623,WARNING,80.78,HEALTHY,Multi-factor degradation detected,false
+5624,WARNING,80.39,HEALTHY,Multi-factor degradation detected,false
+5625,WARNING,80.12,HEALTHY,Multi-factor degradation detected,false
+5626,WARNING,71.85,HEALTHY,Multi-factor degradation detected,false
+5627,WARNING,77.77,HEALTHY,Multi-factor degradation detected,false
+5628,WARNING,87.21,HEALTHY,Multi-factor degradation detected,false
+5629,WARNING,85.24,HEALTHY,Multi-factor degradation detected,false
+5630,WARNING,84.43,HEALTHY,Multi-factor degradation detected,false
+5631,WARNING,84.56,HEALTHY,Multi-factor degradation detected,false
+5632,WARNING,85.55,HEALTHY,Multi-factor degradation detected,false
+5633,WARNING,83.03,HEALTHY,Multi-factor degradation detected,false
+5634,WARNING,83.34,HEALTHY,Multi-factor degradation detected,false
+5635,WARNING,78.35,HEALTHY,Multi-factor degradation detected,false
+5636,WARNING,82.57,HEALTHY,Multi-factor degradation detected,false
+5639,WARNING,82.89,HEALTHY,Multi-factor degradation detected,false
+5640,FAILURE_CONFIRMED,80.50,HEALTHY,Multi-factor degradation detected,true
+5641,WARNING,80.11,HEALTHY,Multi-factor degradation detected,false
+5642,WARNING,81.84,HEALTHY,Multi-factor degradation detected,false
+5643,WARNING,81.58,HEALTHY,Multi-factor degradation detected,false
+5644,WARNING,81.22,HEALTHY,Multi-factor degradation detected,false
+5645,WARNING,78.84,HEALTHY,Multi-factor degradation detected,false
+5646,WARNING,78.58,HEALTHY,Multi-factor degradation detected,false
+5647,WARNING,80.12,HEALTHY,Multi-factor degradation detected,false
+5648,WARNING,68.24,WARNING,Rotational speed anomaly (2370rpm),false
+5649,WARNING,78.64,HEALTHY,Critical tool wear (203min),false
+5650,WARNING,76.21,HEALTHY,Critical tool wear (205min),false
+5651,WARNING,76.31,HEALTHY,Critical tool wear (208min),false
+5652,WARNING,76.04,HEALTHY,Critical tool wear (210min),false
+5653,WARNING,73.08,HEALTHY,Critical tool wear (213min),false
+5654,WARNING,76.66,HEALTHY,Critical tool wear (215min),false
+5659,WARNING,90.75,HEALTHY,Multi-factor degradation detected,false
+5692,WARNING,81.75,HEALTHY,Multi-factor degradation detected,false
+5693,WARNING,81.36,HEALTHY,Multi-factor degradation detected,false
+5699,WARNING,76.73,HEALTHY,Multi-factor degradation detected,false
+5707,FAILURE_CONFIRMED,70.86,HEALTHY,Multi-factor degradation detected,true
+5725,WARNING,80.36,HEALTHY,Multi-factor degradation detected,false
+5726,WARNING,80.56,HEALTHY,Multi-factor degradation detected,false
+5727,WARNING,79.43,HEALTHY,Multi-factor degradation detected,false
+5728,WARNING,79.55,HEALTHY,Multi-factor degradation detected,false
+5729,WARNING,78.84,HEALTHY,Multi-factor degradation detected,false
+5730,WARNING,79.82,HEALTHY,Multi-factor degradation detected,false
+5731,WARNING,75.10,HEALTHY,Multi-factor degradation detected,false
+5732,WARNING,70.81,HEALTHY,Critical tool wear (202min),false
+5733,WARNING,78.69,HEALTHY,Critical tool wear (204min),false
+5734,WARNING,78.25,HEALTHY,Critical tool wear (206min),false
+5735,FAILURE_CONFIRMED,71.65,HEALTHY,Critical tool wear (208min),true
+5736,WARNING,75.64,HEALTHY,Critical tool wear (210min),false
+5737,WARNING,77.11,HEALTHY,Critical tool wear (212min),false
+5738,WARNING,76.67,HEALTHY,Critical tool wear (215min),false
+5750,WARNING,89.05,HEALTHY,Multi-factor degradation detected,false
+5758,WARNING,89.71,HEALTHY,Multi-factor degradation detected,false
+5797,WARNING,81.31,HEALTHY,Multi-factor degradation detected,false
+5809,WARNING,79.19,HEALTHY,Multi-factor degradation detected,false
+5810,WARNING,82.90,HEALTHY,Multi-factor degradation detected,false
+5811,WARNING,73.81,HEALTHY,Multi-factor degradation detected,false
+5812,WARNING,81.64,HEALTHY,Multi-factor degradation detected,false
+5813,WARNING,81.24,HEALTHY,Multi-factor degradation detected,false
+5814,WARNING,77.35,HEALTHY,Multi-factor degradation detected,false
+5815,WARNING,79.06,HEALTHY,Multi-factor degradation detected,false
+5816,WARNING,78.65,HEALTHY,Multi-factor degradation detected,false
+5817,WARNING,79.75,HEALTHY,Critical tool wear (202min),false
+5818,WARNING,79.40,HEALTHY,Critical tool wear (204min),false
+5819,WARNING,79.05,HEALTHY,Critical tool wear (206min),false
+5820,WARNING,78.70,HEALTHY,Critical tool wear (208min),false
+5821,WARNING,74.57,HEALTHY,Critical tool wear (210min),false
+5822,WARNING,76.19,HEALTHY,Critical tool wear (212min),false
+5823,WARNING,75.75,HEALTHY,Critical tool wear (214min),false
+5824,WARNING,77.18,HEALTHY,Critical tool wear (217min),false
+5825,WARNING,76.83,HEALTHY,Critical tool wear (219min),false
+5826,WARNING,76.39,HEALTHY,Critical tool wear (221min),false
+5827,WARNING,76.04,HEALTHY,Critical tool wear (223min),false
+5890,WARNING,80.50,HEALTHY,Multi-factor degradation detected,false
+5897,WARNING,77.87,HEALTHY,Multi-factor degradation detected,false
+5899,WARNING,77.16,HEALTHY,Multi-factor degradation detected,false
+5901,WARNING,83.74,HEALTHY,Multi-factor degradation detected,false
+5902,WARNING,81.81,HEALTHY,Multi-factor degradation detected,false
+5903,WARNING,82.90,HEALTHY,Multi-factor degradation detected,false
+5904,WARNING,74.26,HEALTHY,Multi-factor degradation detected,false
+5905,WARNING,76.04,HEALTHY,Multi-factor degradation detected,false
+5906,WARNING,80.02,HEALTHY,Multi-factor degradation detected,false
+5907,WARNING,81.01,HEALTHY,Multi-factor degradation detected,false
+5908,WARNING,79.15,HEALTHY,Multi-factor degradation detected,false
+5909,WARNING,79.74,HEALTHY,Critical tool wear (205min),false
+5910,FAILURE_CONFIRMED,71.14,HEALTHY,Critical tool wear (208min),true
+5912,WARNING,88.54,HEALTHY,Multi-factor degradation detected,false
+5922,WARNING,92.01,HEALTHY,Multi-factor degradation detected,false
+5940,WARNING,86.55,HEALTHY,Multi-factor degradation detected,false
+5969,WARNING,75.08,HEALTHY,Multi-factor degradation detected,false
+5982,WARNING,82.05,HEALTHY,Multi-factor degradation detected,false
+5983,WARNING,82.92,HEALTHY,Multi-factor degradation detected,false
+5984,WARNING,81.25,HEALTHY,Multi-factor degradation detected,false
+5985,WARNING,79.58,HEALTHY,Multi-factor degradation detected,false
+5986,WARNING,80.86,HEALTHY,Multi-factor degradation detected,false
+5987,WARNING,78.38,HEALTHY,Multi-factor degradation detected,false
+5988,WARNING,80.12,HEALTHY,Critical tool wear (202min),false
+5989,WARNING,72.01,HEALTHY,Critical tool wear (204min),false
+5990,WARNING,77.55,HEALTHY,Critical tool wear (209min),false
+5991,WARNING,76.51,HEALTHY,Critical tool wear (211min),false
+5992,WARNING,78.06,HEALTHY,Critical tool wear (214min),false
+5993,WARNING,74.69,HEALTHY,Critical tool wear (216min),false
+5994,WARNING,77.40,HEALTHY,Critical tool wear (218min),false
+5995,WARNING,77.00,HEALTHY,Critical tool wear (221min),false
+5996,WARNING,68.28,WARNING,Critical tool wear (223min),false
+5997,WARNING,74.78,HEALTHY,Critical tool wear (225min),false
+5998,WARNING,74.60,HEALTHY,Critical tool wear (228min),false
+5999,WARNING,75.43,HEALTHY,Critical tool wear (231min),false
+6000,FAILURE_CONFIRMED,73.09,HEALTHY,Critical tool wear (234min),true
+6025,FAILURE_CONFIRMED,86.98,HEALTHY,Multi-factor degradation detected,true
+6046,WARNING,79.74,HEALTHY,Multi-factor degradation detected,false
+6047,WARNING,79.30,HEALTHY,Multi-factor degradation detected,false
+6070,WARNING,82.29,HEALTHY,Multi-factor degradation detected,false
+6071,WARNING,81.69,HEALTHY,Multi-factor degradation detected,false
+6072,WARNING,83.00,HEALTHY,Multi-factor degradation detected,false
+6073,WARNING,80.62,HEALTHY,Multi-factor degradation detected,false
+6074,WARNING,77.83,HEALTHY,Multi-factor degradation detected,false
+6075,WARNING,81.38,HEALTHY,Multi-factor degradation detected,false
+6076,WARNING,76.91,HEALTHY,Multi-factor degradation detected,false
+6077,WARNING,80.46,HEALTHY,Multi-factor degradation detected,false
+6078,WARNING,80.24,HEALTHY,Critical tool wear (201min),false
+6079,FAILURE_CONFIRMED,73.69,HEALTHY,Critical tool wear (203min),true
+6080,WARNING,79.59,HEALTHY,Critical tool wear (205min),false
+6081,WARNING,79.01,HEALTHY,Critical tool wear (208min),false
+6082,WARNING,78.66,HEALTHY,Critical tool wear (210min),false
+6083,WARNING,76.89,HEALTHY,Critical tool wear (212min),false
+6084,WARNING,76.09,HEALTHY,Critical tool wear (214min),false
+6092,FAILURE_CONFIRMED,91.66,HEALTHY,Multi-factor degradation detected,true
+6094,WARNING,91.57,HEALTHY,Multi-factor degradation detected,false
+6119,WARNING,83.44,HEALTHY,Multi-factor degradation detected,false
+6123,WARNING,83.10,HEALTHY,Multi-factor degradation detected,false
+6128,WARNING,77.50,HEALTHY,Multi-factor degradation detected,false
+6154,FAILURE_CONFIRMED,74.50,HEALTHY,Multi-factor degradation detected,true
+6156,WARNING,81.67,HEALTHY,Multi-factor degradation detected,false
+6157,WARNING,82.96,HEALTHY,Multi-factor degradation detected,false
+6158,WARNING,78.93,HEALTHY,Multi-factor degradation detected,false
+6159,WARNING,80.31,HEALTHY,Multi-factor degradation detected,false
+6160,FAILURE_CONFIRMED,75.75,HEALTHY,Multi-factor degradation detected,true
+6161,WARNING,80.31,HEALTHY,Multi-factor degradation detected,false
+6162,WARNING,81.34,HEALTHY,Multi-factor degradation detected,false
+6163,WARNING,79.76,HEALTHY,Multi-factor degradation detected,false
+6164,WARNING,79.17,HEALTHY,Multi-factor degradation detected,false
+6165,WARNING,78.63,HEALTHY,Multi-factor degradation detected,false
+6166,WARNING,79.54,HEALTHY,Critical tool wear (205min),false
+6167,WARNING,79.19,HEALTHY,Critical tool wear (207min),false
+6168,WARNING,76.24,HEALTHY,Critical tool wear (212min),false
+6169,WARNING,73.95,HEALTHY,Critical tool wear (215min),false
+6170,WARNING,77.44,HEALTHY,Critical tool wear (218min),false
+6171,WARNING,77.04,HEALTHY,Critical tool wear (220min),false
+6172,WARNING,76.12,HEALTHY,Critical tool wear (225min),false
+6173,FAILURE_CONFIRMED,75.77,HEALTHY,Critical tool wear (227min),true
+6179,FAILURE_CONFIRMED,87.70,HEALTHY,Multi-factor degradation detected,true
+6188,WARNING,91.50,HEALTHY,Multi-factor degradation detected,false
+6227,WARNING,76.65,HEALTHY,Multi-factor degradation detected,false
+6239,WARNING,80.22,HEALTHY,Multi-factor degradation detected,false
+6247,WARNING,82.29,HEALTHY,Multi-factor degradation detected,false
+6248,WARNING,81.51,HEALTHY,Multi-factor degradation detected,false
+6249,FAILURE_CONFIRMED,74.96,HEALTHY,Multi-factor degradation detected,true
+6250,WARNING,82.31,HEALTHY,Multi-factor degradation detected,false
+6251,WARNING,81.88,HEALTHY,Multi-factor degradation detected,false
+6252,WARNING,81.53,HEALTHY,Multi-factor degradation detected,false
+6253,WARNING,80.96,HEALTHY,Multi-factor degradation detected,false
+6254,WARNING,78.76,HEALTHY,Multi-factor degradation detected,false
+6255,WARNING,78.59,HEALTHY,Critical tool wear (202min),false
+6256,FAILURE_CONFIRMED,73.49,HEALTHY,Critical tool wear (204min),true
+6257,FAILURE_CONFIRMED,79.35,HEALTHY,Critical tool wear (206min),true
+6277,WARNING,87.95,HEALTHY,Multi-factor degradation detected,false
+6290,WARNING,83.88,HEALTHY,Multi-factor degradation detected,false
+6298,WARNING,81.55,HEALTHY,Multi-factor degradation detected,false
+6322,WARNING,78.05,HEALTHY,Multi-factor degradation detected,false
+6331,WARNING,84.20,HEALTHY,Multi-factor degradation detected,false
+6332,WARNING,82.12,HEALTHY,Multi-factor degradation detected,false
+6333,WARNING,74.21,HEALTHY,Multi-factor degradation detected,false
+6334,WARNING,80.71,HEALTHY,Multi-factor degradation detected,false
+6335,WARNING,78.48,HEALTHY,Multi-factor degradation detected,false
+6336,WARNING,81.35,HEALTHY,Multi-factor degradation detected,false
+6337,WARNING,79.19,HEALTHY,Critical tool wear (201min),false
+6338,WARNING,80.48,HEALTHY,Critical tool wear (203min),false
+6339,WARNING,77.86,HEALTHY,Critical tool wear (206min),false
+6340,WARNING,77.77,HEALTHY,Critical tool wear (208min),false
+6341,FAILURE_CONFIRMED,77.80,HEALTHY,Critical tool wear (210min),true
+6347,WARNING,89.48,HEALTHY,Multi-factor degradation detected,false
+6360,WARNING,92.40,HEALTHY,Multi-factor degradation detected,false
+6362,WARNING,92.44,HEALTHY,Multi-factor degradation detected,false
+6366,WARNING,91.04,HEALTHY,Multi-factor degradation detected,false
+6399,WARNING,82.81,HEALTHY,Multi-factor degradation detected,false
+6405,WARNING,76.86,HEALTHY,Multi-factor degradation detected,false
+6410,WARNING,84.12,HEALTHY,Multi-factor degradation detected,false
+6411,WARNING,83.69,HEALTHY,Multi-factor degradation detected,false
+6412,WARNING,83.38,HEALTHY,Multi-factor degradation detected,false
+6413,WARNING,82.85,HEALTHY,Multi-factor degradation detected,false
+6414,WARNING,81.03,HEALTHY,Multi-factor degradation detected,false
+6415,WARNING,82.11,HEALTHY,Multi-factor degradation detected,false
+6416,WARNING,81.59,HEALTHY,Multi-factor degradation detected,false
+6417,WARNING,81.24,HEALTHY,Multi-factor degradation detected,false
+6418,WARNING,80.49,HEALTHY,Critical tool wear (203min),false
+6419,WARNING,78.00,HEALTHY,Critical tool wear (205min),false
+6420,FAILURE_CONFIRMED,77.80,HEALTHY,Critical tool wear (210min),true
+6423,WARNING,92.26,HEALTHY,Multi-factor degradation detected,false
+6426,WARNING,92.26,HEALTHY,Multi-factor degradation detected,false
+6432,WARNING,92.35,HEALTHY,Multi-factor degradation detected,false
+6438,WARNING,88.61,HEALTHY,Multi-factor degradation detected,false
+6445,WARNING,88.20,HEALTHY,Multi-factor degradation detected,false
+6459,WARNING,83.99,HEALTHY,Multi-factor degradation detected,false
+6460,WARNING,85.07,HEALTHY,Multi-factor degradation detected,false
+6464,WARNING,81.72,HEALTHY,Multi-factor degradation detected,false
+6494,WARNING,81.56,HEALTHY,Multi-factor degradation detected,false
+6495,WARNING,82.09,HEALTHY,Multi-factor degradation detected,false
+6496,WARNING,81.44,HEALTHY,Multi-factor degradation detected,false
+6497,WARNING,78.47,HEALTHY,Multi-factor degradation detected,false
+6498,FAILURE_CONFIRMED,74.00,HEALTHY,Multi-factor degradation detected,true
+6499,WARNING,71.00,HEALTHY,Rotational speed anomaly (2041rpm),false
+6500,WARNING,78.58,HEALTHY,Multi-factor degradation detected,false
+6501,WARNING,79.05,HEALTHY,Critical tool wear (201min),false
+6502,WARNING,79.98,HEALTHY,Critical tool wear (204min),false
+6503,WARNING,67.81,WARNING,Critical tool wear (207min),false
+6504,WARNING,79.14,HEALTHY,Critical tool wear (209min),false
+6505,WARNING,76.29,HEALTHY,Critical tool wear (212min),false
+6506,WARNING,77.91,HEALTHY,Critical tool wear (215min),false
+6507,WARNING,77.61,HEALTHY,Critical tool wear (217min),false
+6511,WARNING,91.75,HEALTHY,Multi-factor degradation detected,false
+6519,WARNING,87.87,HEALTHY,Multi-factor degradation detected,false
+6526,FAILURE_CONFIRMED,88.72,HEALTHY,Multi-factor degradation detected,true
+6541,FAILURE_CONFIRMED,82.35,HEALTHY,Multi-factor degradation detected,true
+6575,WARNING,82.03,HEALTHY,Multi-factor degradation detected,false
+6576,WARNING,81.93,HEALTHY,Multi-factor degradation detected,false
+6577,WARNING,81.38,HEALTHY,Multi-factor degradation detected,false
+6578,WARNING,81.09,HEALTHY,Multi-factor degradation detected,false
+6579,WARNING,82.03,HEALTHY,Multi-factor degradation detected,false
+6580,WARNING,81.72,HEALTHY,Multi-factor degradation detected,false
+6581,WARNING,81.38,HEALTHY,Multi-factor degradation detected,false
+6582,WARNING,80.98,HEALTHY,Multi-factor degradation detected,false
+6583,WARNING,80.54,HEALTHY,Multi-factor degradation detected,false
+6584,WARNING,80.19,HEALTHY,Multi-factor degradation detected,false
+6585,WARNING,79.66,HEALTHY,Critical tool wear (203min),false
+6586,WARNING,77.79,HEALTHY,Critical tool wear (205min),false
+6587,WARNING,78.75,HEALTHY,Critical tool wear (208min),false
+6588,WARNING,70.22,HEALTHY,Critical tool wear (210min),false
+6589,WARNING,77.79,HEALTHY,Critical tool wear (213min),false
+6613,WARNING,85.02,HEALTHY,Multi-factor degradation detected,false
+6618,WARNING,85.97,HEALTHY,Multi-factor degradation detected,false
+6619,FAILURE_CONFIRMED,85.00,HEALTHY,Multi-factor degradation detected,true
+6632,WARNING,81.15,HEALTHY,Multi-factor degradation detected,false
+6644,WARNING,74.55,HEALTHY,Multi-factor degradation detected,false
+6652,WARNING,79.75,HEALTHY,Multi-factor degradation detected,false
+6661,WARNING,83.39,HEALTHY,Multi-factor degradation detected,false
+6662,WARNING,82.60,HEALTHY,Multi-factor degradation detected,false
+6663,WARNING,71.19,HEALTHY,Rotational speed anomaly (2093rpm),false
+6664,WARNING,80.03,HEALTHY,Multi-factor degradation detected,false
+6665,WARNING,81.20,HEALTHY,Multi-factor degradation detected,false
+6666,WARNING,80.85,HEALTHY,Multi-factor degradation detected,false
+6667,WARNING,78.45,HEALTHY,Multi-factor degradation detected,false
+6668,WARNING,80.06,HEALTHY,Critical tool wear (201min),false
+6669,WARNING,79.19,HEALTHY,Critical tool wear (206min),false
+6670,WARNING,77.45,HEALTHY,Critical tool wear (208min),false
+6671,WARNING,69.76,WARNING,Critical tool wear (210min),false
+6672,WARNING,78.05,HEALTHY,Critical tool wear (212min),false
+6673,WARNING,75.67,HEALTHY,Critical tool wear (214min),false
+6674,FAILURE_CONFIRMED,75.16,HEALTHY,Critical tool wear (216min),true
+6675,WARNING,76.96,HEALTHY,Critical tool wear (218min),false
+6676,WARNING,74.52,HEALTHY,Critical tool wear (220min),false
+6677,WARNING,76.26,HEALTHY,Critical tool wear (222min),false
+6678,WARNING,75.91,HEALTHY,Critical tool wear (224min),false
+6679,FAILURE_CONFIRMED,89.41,HEALTHY,Multi-factor degradation detected,true
+6695,WARNING,88.10,HEALTHY,Multi-factor degradation detected,false
+6696,WARNING,91.15,HEALTHY,Multi-factor degradation detected,false
+6706,WARNING,88.42,HEALTHY,Multi-factor degradation detected,false
+6722,WARNING,78.68,HEALTHY,Multi-factor degradation detected,false
+6741,WARNING,81.22,HEALTHY,Multi-factor degradation detected,false
+6745,WARNING,77.74,HEALTHY,Multi-factor degradation detected,false
+6750,WARNING,82.53,HEALTHY,Multi-factor degradation detected,false
+6751,WARNING,82.18,HEALTHY,Multi-factor degradation detected,false
+6752,WARNING,81.65,HEALTHY,Multi-factor degradation detected,false
+6753,WARNING,77.76,HEALTHY,Multi-factor degradation detected,false
+6754,WARNING,78.90,HEALTHY,Multi-factor degradation detected,false
+6755,WARNING,80.34,HEALTHY,Multi-factor degradation detected,false
+6756,WARNING,78.31,HEALTHY,Multi-factor degradation detected,false
+6757,WARNING,75.20,HEALTHY,Critical tool wear (202min),false
+6758,WARNING,74.86,HEALTHY,Critical tool wear (204min),false
+6759,WARNING,77.29,HEALTHY,Critical tool wear (206min),false
+6760,FAILURE_CONFIRMED,78.50,HEALTHY,Critical tool wear (208min),true
+6788,WARNING,88.45,HEALTHY,Multi-factor degradation detected,false
+6795,WARNING,84.77,HEALTHY,Multi-factor degradation detected,false
+6797,WARNING,82.61,HEALTHY,Multi-factor degradation detected,false
+6824,WARNING,79.39,HEALTHY,Multi-factor degradation detected,false
+6832,WARNING,81.01,HEALTHY,Multi-factor degradation detected,false
+6833,WARNING,82.79,HEALTHY,Multi-factor degradation detected,false
+6834,WARNING,80.00,HEALTHY,Multi-factor degradation detected,false
+6835,WARNING,79.94,HEALTHY,Multi-factor degradation detected,false
+6836,WARNING,77.45,HEALTHY,Multi-factor degradation detected,false
+6837,WARNING,79.02,HEALTHY,Multi-factor degradation detected,false
+6838,WARNING,80.42,HEALTHY,Multi-factor degradation detected,false
+6839,WARNING,79.81,HEALTHY,Critical tool wear (202min),false
+6840,WARNING,78.01,HEALTHY,Critical tool wear (204min),false
+6841,WARNING,71.07,HEALTHY,Critical tool wear (206min),false
+6842,WARNING,77.47,HEALTHY,Critical tool wear (208min),false
+6843,WARNING,76.23,HEALTHY,Critical tool wear (211min),false
+6844,WARNING,77.71,HEALTHY,Critical tool wear (213min),false
+6845,WARNING,69.16,WARNING,Critical tool wear (215min),false
+6865,WARNING,89.22,HEALTHY,Multi-factor degradation detected,false
+6875,WARNING,85.20,HEALTHY,Multi-factor degradation detected,false
+6898,WARNING,73.31,HEALTHY,Multi-factor degradation detected,false
+6914,FAILURE_CONFIRMED,83.60,HEALTHY,Multi-factor degradation detected,true
+6915,WARNING,81.15,HEALTHY,Multi-factor degradation detected,false
+6916,WARNING,82.20,HEALTHY,Multi-factor degradation detected,false
+6917,WARNING,80.29,HEALTHY,Multi-factor degradation detected,false
+6918,WARNING,81.33,HEALTHY,Multi-factor degradation detected,false
+6919,WARNING,79.29,HEALTHY,Multi-factor degradation detected,false
+6920,WARNING,80.59,HEALTHY,Multi-factor degradation detected,false
+6921,WARNING,78.47,HEALTHY,Multi-factor degradation detected,false
+6922,WARNING,77.99,HEALTHY,Critical tool wear (202min),false
+6923,WARNING,77.53,HEALTHY,Critical tool wear (204min),false
+6924,WARNING,77.05,HEALTHY,Critical tool wear (206min),false
+6925,FAILURE_CONFIRMED,76.29,HEALTHY,Critical tool wear (208min),true
+6926,WARNING,70.37,HEALTHY,Critical tool wear (210min),false
+6933,FAILURE_CONFIRMED,89.30,HEALTHY,Multi-factor degradation detected,true
+6942,WARNING,91.45,HEALTHY,Multi-factor degradation detected,false
+6980,WARNING,74.60,HEALTHY,Multi-factor degradation detected,false
+6996,WARNING,80.65,HEALTHY,Multi-factor degradation detected,false
+6997,WARNING,81.82,HEALTHY,Multi-factor degradation detected,false
+6998,WARNING,82.84,HEALTHY,Multi-factor degradation detected,false
+6999,WARNING,82.31,HEALTHY,Multi-factor degradation detected,false
+7000,WARNING,81.79,HEALTHY,Multi-factor degradation detected,false
+7001,WARNING,79.99,HEALTHY,Multi-factor degradation detected,false
+7002,WARNING,80.86,HEALTHY,Multi-factor degradation detected,false
+7003,WARNING,78.95,HEALTHY,Critical tool wear (201min),false
+7004,WARNING,78.14,HEALTHY,Critical tool wear (206min),false
+7005,WARNING,70.75,HEALTHY,Critical tool wear (208min),false
+7013,WARNING,89.09,HEALTHY,Multi-factor degradation detected,false
+7071,WARNING,76.91,HEALTHY,Multi-factor degradation detected,false
+7073,WARNING,83.35,HEALTHY,Multi-factor degradation detected,false
+7074,WARNING,82.82,HEALTHY,Multi-factor degradation detected,false
+7075,WARNING,82.47,HEALTHY,Multi-factor degradation detected,false
+7076,WARNING,80.44,HEALTHY,Multi-factor degradation detected,false
+7077,WARNING,73.11,HEALTHY,Multi-factor degradation detected,false
+7078,WARNING,79.54,HEALTHY,Multi-factor degradation detected,false
+7079,WARNING,78.56,HEALTHY,Multi-factor degradation detected,false
+7080,WARNING,80.41,HEALTHY,Critical tool wear (201min),false
+7081,WARNING,78.56,HEALTHY,Critical tool wear (203min),false
+7082,WARNING,77.55,HEALTHY,Critical tool wear (205min),false
+7083,WARNING,79.44,HEALTHY,Critical tool wear (207min),false
+7084,FAILURE_CONFIRMED,71.33,HEALTHY,Critical tool wear (209min),true
+7085,WARNING,70.76,HEALTHY,Critical tool wear (211min),false
+7086,WARNING,78.44,HEALTHY,Critical tool wear (213min),false
+7087,WARNING,66.53,WARNING,Critical tool wear (215min),false
+7088,FAILURE_CONFIRMED,75.92,HEALTHY,Critical tool wear (217min),true
+7126,WARNING,81.97,HEALTHY,Multi-factor degradation detected,false
+7137,WARNING,77.50,HEALTHY,Multi-factor degradation detected,false
+7158,WARNING,84.18,HEALTHY,Multi-factor degradation detected,false
+7159,WARNING,81.50,HEALTHY,Multi-factor degradation detected,false
+7160,WARNING,83.52,HEALTHY,Multi-factor degradation detected,false
+7161,WARNING,83.09,HEALTHY,Multi-factor degradation detected,false
+7162,WARNING,82.53,HEALTHY,Multi-factor degradation detected,false
+7163,WARNING,82.18,HEALTHY,Multi-factor degradation detected,false
+7164,WARNING,81.91,HEALTHY,Multi-factor degradation detected,false
+7165,WARNING,81.34,HEALTHY,Multi-factor degradation detected,false
+7166,WARNING,79.20,HEALTHY,Critical tool wear (201min),false
+7167,WARNING,80.38,HEALTHY,Critical tool wear (203min),false
+7168,FAILURE_CONFIRMED,72.27,HEALTHY,Critical tool wear (206min),true
+7189,WARNING,90.48,HEALTHY,Multi-factor degradation detected,false
+7194,WARNING,89.22,HEALTHY,Multi-factor degradation detected,false
+7203,WARNING,85.75,HEALTHY,Multi-factor degradation detected,false
+7223,WARNING,76.42,HEALTHY,Multi-factor degradation detected,false
+7241,WARNING,78.56,HEALTHY,Multi-factor degradation detected,false
+7242,WARNING,84.33,HEALTHY,Multi-factor degradation detected,false
+7243,WARNING,81.71,HEALTHY,Multi-factor degradation detected,false
+7244,WARNING,80.78,HEALTHY,Multi-factor degradation detected,false
+7245,WARNING,78.33,HEALTHY,Multi-factor degradation detected,false
+7246,WARNING,80.66,HEALTHY,Multi-factor degradation detected,false
+7247,WARNING,79.67,HEALTHY,Multi-factor degradation detected,false
+7248,WARNING,78.95,HEALTHY,Multi-factor degradation detected,false
+7249,WARNING,76.93,HEALTHY,Critical tool wear (202min),false
+7250,WARNING,80.48,HEALTHY,Critical tool wear (204min),false
+7251,WARNING,79.95,HEALTHY,Critical tool wear (206min),false
+7252,WARNING,79.34,HEALTHY,Critical tool wear (209min),false
+7253,WARNING,78.78,HEALTHY,Critical tool wear (212min),false
+7254,WARNING,77.81,HEALTHY,Critical tool wear (217min),false
+7255,WARNING,77.50,HEALTHY,Critical tool wear (219min),false
+7256,WARNING,73.78,HEALTHY,Critical tool wear (221min),false
+7273,WARNING,90.37,HEALTHY,Multi-factor degradation detected,false
+7281,FAILURE_CONFIRMED,86.26,HEALTHY,Multi-factor degradation detected,true
+7284,WARNING,89.15,HEALTHY,Multi-factor degradation detected,false
+7285,WARNING,88.54,HEALTHY,Multi-factor degradation detected,false
+7286,WARNING,84.67,HEALTHY,Multi-factor degradation detected,false
+7296,WARNING,83.56,HEALTHY,Multi-factor degradation detected,false
+7328,WARNING,83.96,HEALTHY,Multi-factor degradation detected,false
+7329,WARNING,83.39,HEALTHY,Multi-factor degradation detected,false
+7330,WARNING,81.79,HEALTHY,Multi-factor degradation detected,false
+7331,WARNING,82.72,HEALTHY,Multi-factor degradation detected,false
+7332,WARNING,80.46,HEALTHY,Multi-factor degradation detected,false
+7333,WARNING,73.40,HEALTHY,Multi-factor degradation detected,false
+7334,WARNING,78.56,HEALTHY,Critical tool wear (201min),false
+7335,WARNING,78.54,HEALTHY,Critical tool wear (204min),false
+7336,WARNING,78.11,HEALTHY,Critical tool wear (206min),false
+7337,WARNING,79.59,HEALTHY,Critical tool wear (208min),false
+7338,WARNING,77.19,HEALTHY,Critical tool wear (213min),false
+7339,WARNING,78.41,HEALTHY,Critical tool wear (215min),false
+7346,WARNING,91.19,HEALTHY,Multi-factor degradation detected,false
+7368,WARNING,88.22,HEALTHY,Multi-factor degradation detected,false
+7413,WARNING,82.65,HEALTHY,Multi-factor degradation detected,false
+7414,WARNING,83.64,HEALTHY,Multi-factor degradation detected,false
+7415,WARNING,81.66,HEALTHY,Multi-factor degradation detected,false
+7416,WARNING,82.72,HEALTHY,Multi-factor degradation detected,false
+7417,WARNING,82.38,HEALTHY,Multi-factor degradation detected,false
+7418,WARNING,81.81,HEALTHY,Multi-factor degradation detected,false
+7419,WARNING,81.20,HEALTHY,Multi-factor degradation detected,false
+7420,WARNING,80.72,HEALTHY,Multi-factor degradation detected,false
+7421,WARNING,80.41,HEALTHY,Critical tool wear (201min),false
+7422,WARNING,78.34,HEALTHY,Critical tool wear (203min),false
+7423,WARNING,79.62,HEALTHY,Critical tool wear (206min),false
+7424,WARNING,77.70,HEALTHY,Critical tool wear (208min),false
+7425,WARNING,76.90,HEALTHY,Critical tool wear (210min),false
+7426,WARNING,70.30,HEALTHY,Critical tool wear (213min),false
+7427,FAILURE_CONFIRMED,75.80,HEALTHY,Critical tool wear (216min),true
+7432,WARNING,90.38,HEALTHY,Multi-factor degradation detected,false
+7445,WARNING,90.10,HEALTHY,Multi-factor degradation detected,false
+7474,WARNING,78.12,HEALTHY,Multi-factor degradation detected,false
+7492,WARNING,79.60,HEALTHY,Multi-factor degradation detected,false
+7498,WARNING,82.36,HEALTHY,Multi-factor degradation detected,false
+7499,WARNING,79.44,HEALTHY,Multi-factor degradation detected,false
+7500,WARNING,78.60,HEALTHY,Multi-factor degradation detected,false
+7501,WARNING,80.22,HEALTHY,Multi-factor degradation detected,false
+7502,WARNING,80.19,HEALTHY,Multi-factor degradation detected,false
+7503,WARNING,79.67,HEALTHY,Multi-factor degradation detected,false
+7504,WARNING,78.67,HEALTHY,Multi-factor degradation detected,false
+7505,WARNING,80.08,HEALTHY,Critical tool wear (201min),false
+7506,WARNING,79.64,HEALTHY,Critical tool wear (203min),false
+7507,WARNING,79.29,HEALTHY,Critical tool wear (205min),false
+7508,WARNING,75.20,HEALTHY,Critical tool wear (207min),false
+7509,WARNING,74.81,HEALTHY,Critical tool wear (209min),false
+7510,FAILURE_CONFIRMED,70.50,HEALTHY,Critical tool wear (212min),true
+7511,FAILURE_CONFIRMED,77.75,HEALTHY,Critical tool wear (214min),true
+7516,WARNING,91.46,HEALTHY,Multi-factor degradation detected,false
+7517,WARNING,89.90,HEALTHY,Multi-factor degradation detected,false
+7532,WARNING,91.80,HEALTHY,Multi-factor degradation detected,false
+7538,WARNING,87.20,HEALTHY,Multi-factor degradation detected,false
+7556,WARNING,79.57,HEALTHY,Multi-factor degradation detected,false
+7560,WARNING,79.05,HEALTHY,Multi-factor degradation detected,false
+7563,WARNING,77.81,HEALTHY,Multi-factor degradation detected,false
+7565,FAILURE_CONFIRMED,74.82,HEALTHY,Multi-factor degradation detected,true
+7570,FAILURE_CONFIRMED,70.22,HEALTHY,Multi-factor degradation detected,true
+7580,WARNING,78.95,HEALTHY,Multi-factor degradation detected,false
+7582,WARNING,78.25,HEALTHY,Multi-factor degradation detected,false
+7584,WARNING,81.74,HEALTHY,Multi-factor degradation detected,false
+7585,WARNING,82.75,HEALTHY,Multi-factor degradation detected,false
+7586,WARNING,80.46,HEALTHY,Multi-factor degradation detected,false
+7587,WARNING,82.09,HEALTHY,Multi-factor degradation detected,false
+7588,WARNING,79.35,HEALTHY,Multi-factor degradation detected,false
+7589,WARNING,70.62,HEALTHY,Rotational speed anomaly (2013rpm),false
+7590,WARNING,76.89,HEALTHY,Multi-factor degradation detected,false
+7591,WARNING,79.34,HEALTHY,Multi-factor degradation detected,false
+7592,FAILURE_CONFIRMED,70.94,HEALTHY,Critical tool wear (202min),true
+7593,WARNING,79.55,HEALTHY,Critical tool wear (205min),false
+7594,FAILURE_CONFIRMED,69.00,WARNING,Critical tool wear (208min),true
+7602,WARNING,90.23,HEALTHY,Multi-factor degradation detected,false
+7607,WARNING,91.69,HEALTHY,Multi-factor degradation detected,false
+7630,WARNING,81.67,HEALTHY,Multi-factor degradation detected,false
+7642,WARNING,80.10,HEALTHY,Multi-factor degradation detected,false
+7651,WARNING,75.60,HEALTHY,Multi-factor degradation detected,false
+7659,WARNING,81.08,HEALTHY,Multi-factor degradation detected,false
+7667,WARNING,81.36,HEALTHY,Multi-factor degradation detected,false
+7668,WARNING,82.81,HEALTHY,Multi-factor degradation detected,false
+7669,WARNING,82.42,HEALTHY,Multi-factor degradation detected,false
+7670,FAILURE_CONFIRMED,75.78,HEALTHY,Multi-factor degradation detected,true
+7671,WARNING,81.85,HEALTHY,Multi-factor degradation detected,false
+7672,WARNING,79.49,HEALTHY,Multi-factor degradation detected,false
+7673,WARNING,69.98,WARNING,Rotational speed anomaly (2141rpm),false
+7674,WARNING,80.45,HEALTHY,Multi-factor degradation detected,false
+7675,WARNING,78.40,HEALTHY,Critical tool wear (202min),false
+7676,WARNING,78.27,HEALTHY,Critical tool wear (204min),false
+7677,WARNING,77.37,HEALTHY,Critical tool wear (206min),false
+7678,WARNING,76.59,HEALTHY,Critical tool wear (208min),false
+7679,WARNING,76.30,HEALTHY,Critical tool wear (210min),false
+7680,WARNING,76.29,HEALTHY,Critical tool wear (213min),false
+7681,WARNING,77.51,HEALTHY,Critical tool wear (215min),false
+7682,WARNING,77.12,HEALTHY,Critical tool wear (217min),false
+7683,WARNING,75.05,HEALTHY,Critical tool wear (219min),false
+7684,WARNING,76.29,HEALTHY,Critical tool wear (222min),false
+7685,WARNING,75.90,HEALTHY,Critical tool wear (224min),false
+7686,WARNING,75.36,HEALTHY,Critical tool wear (227min),false
+7687,WARNING,75.06,HEALTHY,Critical tool wear (229min),false
+7688,FAILURE_CONFIRMED,63.64,WARNING,Critical tool wear (232min),true
+7692,WARNING,91.56,HEALTHY,Multi-factor degradation detected,false
+7697,WARNING,88.68,HEALTHY,Multi-factor degradation detected,false
+7701,WARNING,89.86,HEALTHY,Multi-factor degradation detected,false
+7712,WARNING,87.98,HEALTHY,Multi-factor degradation detected,false
+7730,WARNING,78.89,HEALTHY,Multi-factor degradation detected,false
+7736,WARNING,76.27,HEALTHY,Multi-factor degradation detected,false
+7737,WARNING,80.65,HEALTHY,Multi-factor degradation detected,false
+7739,WARNING,71.61,HEALTHY,Multi-factor degradation detected,false
+7743,WARNING,81.79,HEALTHY,Multi-factor degradation detected,false
+7745,WARNING,81.04,HEALTHY,Multi-factor degradation detected,false
+7748,WARNING,79.72,HEALTHY,Multi-factor degradation detected,false
+7754,WARNING,83.35,HEALTHY,Multi-factor degradation detected,false
+7755,WARNING,82.91,HEALTHY,Multi-factor degradation detected,false
+7756,WARNING,80.78,HEALTHY,Multi-factor degradation detected,false
+7757,FAILURE_CONFIRMED,75.52,HEALTHY,Multi-factor degradation detected,true
+7758,WARNING,77.91,HEALTHY,Multi-factor degradation detected,false
+7759,WARNING,79.18,HEALTHY,Multi-factor degradation detected,false
+7760,FAILURE_CONFIRMED,72.77,HEALTHY,Multi-factor degradation detected,true
+7761,WARNING,78.79,HEALTHY,Multi-factor degradation detected,false
+7762,WARNING,76.48,HEALTHY,Critical tool wear (203min),false
+7764,FAILURE_CONFIRMED,86.45,HEALTHY,Multi-factor degradation detected,true
+7766,WARNING,91.62,HEALTHY,Multi-factor degradation detected,false
+7785,WARNING,89.00,HEALTHY,Multi-factor degradation detected,false
+7795,WARNING,86.07,HEALTHY,Multi-factor degradation detected,false
+7803,WARNING,82.66,HEALTHY,Multi-factor degradation detected,false
+7827,WARNING,77.41,HEALTHY,Multi-factor degradation detected,false
+7833,WARNING,83.58,HEALTHY,Multi-factor degradation detected,false
+7834,WARNING,83.23,HEALTHY,Multi-factor degradation detected,false
+7835,WARNING,81.55,HEALTHY,Multi-factor degradation detected,false
+7836,WARNING,81.15,HEALTHY,Multi-factor degradation detected,false
+7837,WARNING,80.88,HEALTHY,Multi-factor degradation detected,false
+7838,WARNING,79.94,HEALTHY,Multi-factor degradation detected,false
+7839,WARNING,79.53,HEALTHY,Multi-factor degradation detected,false
+7840,WARNING,79.35,HEALTHY,Multi-factor degradation detected,false
+7841,WARNING,78.85,HEALTHY,Multi-factor degradation detected,false
+7842,WARNING,78.81,HEALTHY,Critical tool wear (201min),false
+7843,WARNING,78.25,HEALTHY,Critical tool wear (203min),false
+7844,WARNING,77.88,HEALTHY,Critical tool wear (205min),false
+7845,WARNING,79.04,HEALTHY,Critical tool wear (208min),false
+7846,WARNING,70.56,HEALTHY,Critical tool wear (210min),false
+7847,WARNING,77.07,HEALTHY,Critical tool wear (212min),false
+7848,WARNING,75.81,HEALTHY,Critical tool wear (215min),false
+7849,WARNING,77.45,HEALTHY,Critical tool wear (217min),false
+7850,FAILURE_CONFIRMED,74.88,HEALTHY,Critical tool wear (222min),true
+7854,WARNING,91.59,HEALTHY,Multi-factor degradation detected,false
+7865,WARNING,91.41,HEALTHY,Multi-factor degradation detected,false
+7871,WARNING,93.85,HEALTHY,Multi-factor degradation detected,false
+7872,WARNING,94.69,HEALTHY,Multi-factor degradation detected,false
+7873,WARNING,96.76,HEALTHY,Multi-factor degradation detected,false
+7874,WARNING,96.33,HEALTHY,Multi-factor degradation detected,false
+7875,WARNING,96.01,HEALTHY,Multi-factor degradation detected,false
+7876,WARNING,87.32,HEALTHY,Multi-factor degradation detected,false
+7877,WARNING,93.60,HEALTHY,Multi-factor degradation detected,false
+7878,WARNING,92.09,HEALTHY,Multi-factor degradation detected,false
+7879,WARNING,92.34,HEALTHY,Multi-factor degradation detected,false
+7880,WARNING,93.69,HEALTHY,Multi-factor degradation detected,false
+7881,WARNING,91.65,HEALTHY,Multi-factor degradation detected,false
+7882,WARNING,92.25,HEALTHY,Multi-factor degradation detected,false
+7883,WARNING,89.78,HEALTHY,Multi-factor degradation detected,false
+7884,WARNING,89.81,HEALTHY,Multi-factor degradation detected,false
+7885,FAILURE_CONFIRMED,83.90,HEALTHY,Multi-factor degradation detected,true
+7886,WARNING,89.89,HEALTHY,Multi-factor degradation detected,false
+7887,WARNING,78.61,HEALTHY,Rotational speed anomaly (2174rpm),false
+7888,WARNING,88.98,HEALTHY,Multi-factor degradation detected,false
+7889,WARNING,87.19,HEALTHY,Multi-factor degradation detected,false
+7890,WARNING,80.56,HEALTHY,Multi-factor degradation detected,false
+7891,WARNING,83.57,HEALTHY,Multi-factor degradation detected,false
+7892,WARNING,87.31,HEALTHY,Multi-factor degradation detected,false
+7893,WARNING,86.88,HEALTHY,Multi-factor degradation detected,false
+7894,WARNING,86.31,HEALTHY,Multi-factor degradation detected,false
+7895,WARNING,86.05,HEALTHY,Multi-factor degradation detected,false
+7896,WARNING,83.65,HEALTHY,Multi-factor degradation detected,false
+7897,WARNING,82.85,HEALTHY,Multi-factor degradation detected,false
+7898,WARNING,82.90,HEALTHY,Multi-factor degradation detected,false
+7899,WARNING,82.97,HEALTHY,Multi-factor degradation detected,false
+7900,WARNING,81.96,HEALTHY,Multi-factor degradation detected,false
+7901,WARNING,75.72,HEALTHY,Multi-factor degradation detected,false
+7902,WARNING,83.50,HEALTHY,Multi-factor degradation detected,false
+7903,WARNING,81.71,HEALTHY,Multi-factor degradation detected,false
+7904,WARNING,82.66,HEALTHY,Multi-factor degradation detected,false
+7905,WARNING,77.95,HEALTHY,Multi-factor degradation detected,false
+7906,WARNING,81.75,HEALTHY,Multi-factor degradation detected,false
+7907,WARNING,79.18,HEALTHY,Multi-factor degradation detected,false
+7908,WARNING,76.60,HEALTHY,Multi-factor degradation detected,false
+7909,WARNING,76.79,HEALTHY,Multi-factor degradation detected,false
+7910,WARNING,80.30,HEALTHY,Multi-factor degradation detected,false
+7911,WARNING,86.24,HEALTHY,Multi-factor degradation detected,false
+7912,WARNING,88.21,HEALTHY,Multi-factor degradation detected,false
+7913,WARNING,87.86,HEALTHY,Multi-factor degradation detected,false
+7914,WARNING,87.51,HEALTHY,Multi-factor degradation detected,false
+7915,WARNING,87.16,HEALTHY,Multi-factor degradation detected,false
+7916,WARNING,86.24,HEALTHY,Multi-factor degradation detected,false
+7917,WARNING,85.36,HEALTHY,Multi-factor degradation detected,false
+7918,WARNING,84.96,HEALTHY,Multi-factor degradation detected,false
+7919,WARNING,84.66,HEALTHY,Multi-factor degradation detected,false
+7923,WARNING,83.39,HEALTHY,Multi-factor degradation detected,false
+7924,WARNING,81.70,HEALTHY,Multi-factor degradation detected,false
+7925,WARNING,81.08,HEALTHY,Multi-factor degradation detected,false
+7926,WARNING,79.54,HEALTHY,Multi-factor degradation detected,false
+7927,FAILURE_CONFIRMED,74.86,HEALTHY,Multi-factor degradation detected,true
+7928,WARNING,80.76,HEALTHY,Multi-factor degradation detected,false
+7929,WARNING,80.54,HEALTHY,Multi-factor degradation detected,false
+7930,WARNING,78.25,HEALTHY,Multi-factor degradation detected,false
+7931,WARNING,78.07,HEALTHY,Critical tool wear (203min),false
+7932,WARNING,79.26,HEALTHY,Critical tool wear (205min),false
+7933,WARNING,78.88,HEALTHY,Critical tool wear (207min),false
+7934,WARNING,70.04,HEALTHY,Critical tool wear (209min),false
+7935,WARNING,76.00,HEALTHY,Critical tool wear (211min),false
+7936,WARNING,77.56,HEALTHY,Critical tool wear (214min),false
+7937,WARNING,75.69,HEALTHY,Critical tool wear (217min),false
+7938,WARNING,75.06,HEALTHY,Critical tool wear (219min),false
+7939,WARNING,74.70,HEALTHY,Critical tool wear (221min),false
+7940,WARNING,76.02,HEALTHY,Critical tool wear (223min),false
+7956,WARNING,91.21,HEALTHY,Multi-factor degradation detected,false
+7959,WARNING,95.47,HEALTHY,Multi-factor degradation detected,false
+7960,WARNING,95.75,HEALTHY,Multi-factor degradation detected,false
+7961,WARNING,96.90,HEALTHY,Multi-factor degradation detected,false
+7962,WARNING,88.22,HEALTHY,Multi-factor degradation detected,false
+7963,WARNING,94.22,HEALTHY,Multi-factor degradation detected,false
+7964,WARNING,95.38,HEALTHY,Multi-factor degradation detected,false
+7965,WARNING,95.11,HEALTHY,Multi-factor degradation detected,false
+7966,WARNING,94.59,HEALTHY,Multi-factor degradation detected,false
+7967,WARNING,94.33,HEALTHY,Multi-factor degradation detected,false
+7968,WARNING,92.42,HEALTHY,Multi-factor degradation detected,false
+7969,WARNING,85.42,HEALTHY,Multi-factor degradation detected,false
+7970,WARNING,89.63,HEALTHY,Multi-factor degradation detected,false
+7971,WARNING,89.63,HEALTHY,Multi-factor degradation detected,false
+7972,WARNING,90.87,HEALTHY,Multi-factor degradation detected,false
+7973,WARNING,89.34,HEALTHY,Multi-factor degradation detected,false
+7974,WARNING,89.52,HEALTHY,Multi-factor degradation detected,false
+7975,WARNING,91.04,HEALTHY,Multi-factor degradation detected,false
+7976,WARNING,90.69,HEALTHY,Multi-factor degradation detected,false
+7977,WARNING,88.53,HEALTHY,Multi-factor degradation detected,false
+7978,WARNING,83.00,HEALTHY,Multi-factor degradation detected,false
+7979,WARNING,86.59,HEALTHY,Multi-factor degradation detected,false
+7980,WARNING,88.55,HEALTHY,Multi-factor degradation detected,false
+7981,WARNING,88.03,HEALTHY,Multi-factor degradation detected,false
+7982,WARNING,87.64,HEALTHY,Multi-factor degradation detected,false
+7983,WARNING,87.29,HEALTHY,Multi-factor degradation detected,false
+7984,WARNING,85.47,HEALTHY,Multi-factor degradation detected,false
+7985,WARNING,85.32,HEALTHY,Multi-factor degradation detected,false
+7986,WARNING,84.91,HEALTHY,Multi-factor degradation detected,false
+7987,WARNING,84.52,HEALTHY,Multi-factor degradation detected,false
+7988,WARNING,85.58,HEALTHY,Multi-factor degradation detected,false
+7989,WARNING,83.35,HEALTHY,Multi-factor degradation detected,false
+7990,WARNING,84.22,HEALTHY,Multi-factor degradation detected,false
+7991,WARNING,79.56,HEALTHY,Multi-factor degradation detected,false
+7992,WARNING,83.39,HEALTHY,Multi-factor degradation detected,false
+7993,WARNING,78.69,HEALTHY,Multi-factor degradation detected,false
+7994,WARNING,80.87,HEALTHY,Multi-factor degradation detected,false
+7995,WARNING,82.21,HEALTHY,Multi-factor degradation detected,false
+7996,WARNING,78.15,HEALTHY,Multi-factor degradation detected,false
+7997,WARNING,81.55,HEALTHY,Multi-factor degradation detected,false
+7998,FAILURE_CONFIRMED,69.21,WARNING,Rotational speed anomaly (2710rpm),true
+7999,WARNING,78.50,HEALTHY,Multi-factor degradation detected,false
+8000,WARNING,78.49,HEALTHY,Multi-factor degradation detected,false
+8003,WARNING,79.38,HEALTHY,Multi-factor degradation detected,false
+8004,WARNING,77.16,HEALTHY,Multi-factor degradation detected,false
+8007,WARNING,84.46,HEALTHY,Multi-factor degradation detected,false
+8008,WARNING,83.36,HEALTHY,Multi-factor degradation detected,false
+8011,WARNING,76.26,HEALTHY,Multi-factor degradation detected,false
+8013,WARNING,76.83,HEALTHY,Multi-factor degradation detected,false
+8014,WARNING,80.59,HEALTHY,Multi-factor degradation detected,false
+8015,WARNING,82.03,HEALTHY,Multi-factor degradation detected,false
+8016,WARNING,81.62,HEALTHY,Multi-factor degradation detected,false
+8017,WARNING,81.15,HEALTHY,Multi-factor degradation detected,false
+8018,WARNING,80.58,HEALTHY,Multi-factor degradation detected,false
+8019,WARNING,71.95,HEALTHY,Multi-factor degradation detected,false
+8020,WARNING,78.05,HEALTHY,Multi-factor degradation detected,false
+8021,WARNING,75.88,HEALTHY,Critical tool wear (202min),false
+8022,WARNING,77.35,HEALTHY,Critical tool wear (207min),false
+8023,WARNING,78.18,HEALTHY,Critical tool wear (210min),false
+8024,WARNING,77.83,HEALTHY,Critical tool wear (212min),false
+8025,WARNING,76.95,HEALTHY,Critical tool wear (217min),false
+8026,WARNING,74.69,HEALTHY,Critical tool wear (219min),false
+8027,FAILURE_CONFIRMED,74.31,HEALTHY,Critical tool wear (222min),true
+8028,WARNING,75.91,HEALTHY,Critical tool wear (224min),false
+8029,WARNING,75.60,HEALTHY,Critical tool wear (226min),false
+8046,WARNING,91.31,HEALTHY,Multi-factor degradation detected,false
+8092,WARNING,82.05,HEALTHY,Multi-factor degradation detected,false
+8103,WARNING,82.07,HEALTHY,Multi-factor degradation detected,false
+8104,WARNING,83.06,HEALTHY,Multi-factor degradation detected,false
+8105,WARNING,80.85,HEALTHY,Multi-factor degradation detected,false
+8106,WARNING,80.43,HEALTHY,Multi-factor degradation detected,false
+8107,WARNING,79.93,HEALTHY,Multi-factor degradation detected,false
+8108,WARNING,79.56,HEALTHY,Multi-factor degradation detected,false
+8109,WARNING,79.06,HEALTHY,Multi-factor degradation detected,false
+8110,WARNING,75.79,HEALTHY,Critical tool wear (202min),false
+8111,WARNING,68.64,WARNING,Critical tool wear (204min),false
+8112,FAILURE_CONFIRMED,77.19,HEALTHY,Critical tool wear (209min),true
+8116,WARNING,91.50,HEALTHY,Multi-factor degradation detected,false
+8120,WARNING,91.59,HEALTHY,Multi-factor degradation detected,false
+8182,WARNING,75.65,HEALTHY,Multi-factor degradation detected,false
+8183,WARNING,81.95,HEALTHY,Multi-factor degradation detected,false
+8184,WARNING,81.37,HEALTHY,Multi-factor degradation detected,false
+8185,WARNING,71.60,HEALTHY,Rotational speed anomaly (2144rpm),false
+8186,WARNING,82.26,HEALTHY,Multi-factor degradation detected,false
+8187,WARNING,77.62,HEALTHY,Multi-factor degradation detected,false
+8188,WARNING,80.28,HEALTHY,Multi-factor degradation detected,false
+8189,WARNING,81.34,HEALTHY,Multi-factor degradation detected,false
+8190,WARNING,72.13,HEALTHY,Critical tool wear (201min),false
+8191,WARNING,80.41,HEALTHY,Critical tool wear (203min),false
+8192,WARNING,78.04,HEALTHY,Critical tool wear (206min),false
+8193,FAILURE_CONFIRMED,69.55,WARNING,Critical tool wear (209min),true
+8194,WARNING,70.88,HEALTHY,Critical tool wear (211min),false
+8195,WARNING,77.55,HEALTHY,Critical tool wear (213min),false
+8196,FAILURE_CONFIRMED,76.14,HEALTHY,Critical tool wear (215min),true
+8197,WARNING,76.73,HEALTHY,Critical tool wear (217min),false
+8198,WARNING,76.50,HEALTHY,Critical tool wear (219min),false
+8199,WARNING,75.62,HEALTHY,Critical tool wear (222min),false
+8200,FAILURE_CONFIRMED,73.03,HEALTHY,Critical tool wear (225min),true
+8217,WARNING,91.06,HEALTHY,Multi-factor degradation detected,false
+8227,WARNING,88.76,HEALTHY,Multi-factor degradation detected,false
+8246,FAILURE_CONFIRMED,79.76,HEALTHY,Multi-factor degradation detected,true
+8257,WARNING,77.64,HEALTHY,Multi-factor degradation detected,false
+8271,WARNING,83.90,HEALTHY,Multi-factor degradation detected,false
+8272,WARNING,81.40,HEALTHY,Multi-factor degradation detected,false
+8273,WARNING,81.00,HEALTHY,Multi-factor degradation detected,false
+8274,WARNING,74.79,HEALTHY,Multi-factor degradation detected,false
+8275,WARNING,80.39,HEALTHY,Multi-factor degradation detected,false
+8276,WARNING,77.95,HEALTHY,Multi-factor degradation detected,false
+8277,WARNING,79.31,HEALTHY,Multi-factor degradation detected,false
+8278,WARNING,73.42,HEALTHY,Critical tool wear (202min),false
+8279,WARNING,78.89,HEALTHY,Critical tool wear (207min),false
+8280,WARNING,75.67,HEALTHY,Critical tool wear (209min),false
+8281,WARNING,79.57,HEALTHY,Critical tool wear (211min),false
+8282,WARNING,79.18,HEALTHY,Critical tool wear (213min),false
+8283,WARNING,76.84,HEALTHY,Critical tool wear (218min),false
+8284,WARNING,76.28,HEALTHY,Critical tool wear (221min),false
+8308,FAILURE_CONFIRMED,88.07,HEALTHY,Multi-factor degradation detected,true
+8328,WARNING,78.59,HEALTHY,Multi-factor degradation detected,false
+8350,WARNING,83.51,HEALTHY,Multi-factor degradation detected,false
+8351,WARNING,82.74,HEALTHY,Multi-factor degradation detected,false
+8352,WARNING,81.50,HEALTHY,Multi-factor degradation detected,false
+8353,WARNING,83.37,HEALTHY,Multi-factor degradation detected,false
+8354,WARNING,76.72,HEALTHY,Multi-factor degradation detected,false
+8355,WARNING,80.76,HEALTHY,Multi-factor degradation detected,false
+8356,WARNING,80.81,HEALTHY,Multi-factor degradation detected,false
+8357,WARNING,75.72,HEALTHY,Multi-factor degradation detected,false
+8358,FAILURE_CONFIRMED,80.12,HEALTHY,Critical tool wear (203min),true
+8363,WARNING,91.66,HEALTHY,Multi-factor degradation detected,false
+8375,WARNING,89.69,HEALTHY,Multi-factor degradation detected,false
+8379,WARNING,91.56,HEALTHY,Multi-factor degradation detected,false
+8391,WARNING,84.95,HEALTHY,Multi-factor degradation detected,false
+8400,WARNING,82.22,HEALTHY,Multi-factor degradation detected,false
+8423,WARNING,78.49,HEALTHY,Multi-factor degradation detected,false
+8430,WARNING,84.84,HEALTHY,Multi-factor degradation detected,false
+8431,WARNING,78.33,HEALTHY,Multi-factor degradation detected,false
+8432,WARNING,81.81,HEALTHY,Multi-factor degradation detected,false
+8433,WARNING,83.47,HEALTHY,Multi-factor degradation detected,false
+8434,WARNING,81.37,HEALTHY,Multi-factor degradation detected,false
+8435,WARNING,80.70,HEALTHY,Multi-factor degradation detected,false
+8436,WARNING,82.12,HEALTHY,Multi-factor degradation detected,false
+8437,WARNING,79.60,HEALTHY,Critical tool wear (201min),false
+8438,FAILURE_CONFIRMED,71.23,HEALTHY,Critical tool wear (203min),true
+8439,WARNING,81.02,HEALTHY,Critical tool wear (205min),false
+8440,WARNING,79.37,HEALTHY,Critical tool wear (207min),false
+8441,WARNING,93.15,HEALTHY,Multi-factor degradation detected,false
+8456,WARNING,93.11,HEALTHY,Multi-factor degradation detected,false
+8470,WARNING,86.19,HEALTHY,Multi-factor degradation detected,false
+8479,WARNING,83.84,HEALTHY,Multi-factor degradation detected,false
+8491,WARNING,80.50,HEALTHY,Multi-factor degradation detected,false
+8503,WARNING,82.49,HEALTHY,Multi-factor degradation detected,false
+8514,WARNING,85.36,HEALTHY,Multi-factor degradation detected,false
+8515,WARNING,83.36,HEALTHY,Multi-factor degradation detected,false
+8516,WARNING,83.23,HEALTHY,Multi-factor degradation detected,false
+8517,WARNING,82.29,HEALTHY,Multi-factor degradation detected,false
+8518,WARNING,81.22,HEALTHY,Multi-factor degradation detected,false
+8519,WARNING,80.94,HEALTHY,Multi-factor degradation detected,false
+8520,WARNING,82.65,HEALTHY,Multi-factor degradation detected,false
+8521,WARNING,80.47,HEALTHY,Multi-factor degradation detected,false
+8522,WARNING,79.84,HEALTHY,Critical tool wear (202min),false
+8533,WARNING,93.30,HEALTHY,Multi-factor degradation detected,false
+8583,FAILURE_CONFIRMED,81.49,HEALTHY,Multi-factor degradation detected,true
+8594,WARNING,83.85,HEALTHY,Multi-factor degradation detected,false
+8595,WARNING,82.51,HEALTHY,Multi-factor degradation detected,false
+8596,WARNING,82.64,HEALTHY,Multi-factor degradation detected,false
+8597,WARNING,77.62,HEALTHY,Multi-factor degradation detected,false
+8598,WARNING,82.11,HEALTHY,Multi-factor degradation detected,false
+8599,WARNING,83.26,HEALTHY,Multi-factor degradation detected,false
+8600,WARNING,82.95,HEALTHY,Multi-factor degradation detected,false
+8601,WARNING,82.51,HEALTHY,Multi-factor degradation detected,false
+8602,WARNING,80.59,HEALTHY,Multi-factor degradation detected,false
+8603,WARNING,77.91,HEALTHY,Critical tool wear (204min),false
+8604,WARNING,78.96,HEALTHY,Critical tool wear (206min),false
+8605,WARNING,76.33,HEALTHY,Critical tool wear (211min),false
+8606,WARNING,78.29,HEALTHY,Critical tool wear (213min),false
+8607,WARNING,79.40,HEALTHY,Critical tool wear (215min),false
+8608,WARNING,77.00,HEALTHY,Critical tool wear (218min),false
+8609,FAILURE_CONFIRMED,76.52,HEALTHY,Critical tool wear (220min),true
+8610,FAILURE_CONFIRMED,78.09,HEALTHY,Critical tool wear (222min),true
+8631,WARNING,92.87,HEALTHY,Multi-factor degradation detected,false
+8640,WARNING,89.25,HEALTHY,Multi-factor degradation detected,false
+8650,WARNING,83.35,HEALTHY,Multi-factor degradation detected,false
+8654,WARNING,82.16,HEALTHY,Multi-factor degradation detected,false
+8656,WARNING,78.14,HEALTHY,Multi-factor degradation detected,false
+8660,WARNING,79.66,HEALTHY,Multi-factor degradation detected,false
+8665,WARNING,77.95,HEALTHY,Multi-factor degradation detected,false
+8681,WARNING,85.24,HEALTHY,Multi-factor degradation detected,false
+8682,WARNING,82.97,HEALTHY,Multi-factor degradation detected,false
+8683,WARNING,83.10,HEALTHY,Multi-factor degradation detected,false
+8684,WARNING,82.40,HEALTHY,Multi-factor degradation detected,false
+8685,WARNING,83.66,HEALTHY,Multi-factor degradation detected,false
+8686,WARNING,83.31,HEALTHY,Multi-factor degradation detected,false
+8687,WARNING,80.76,HEALTHY,Multi-factor degradation detected,false
+8688,WARNING,80.65,HEALTHY,Multi-factor degradation detected,false
+8689,WARNING,79.85,HEALTHY,Critical tool wear (203min),false
+8690,WARNING,80.95,HEALTHY,Critical tool wear (205min),false
+8691,FAILURE_CONFIRMED,80.64,HEALTHY,Critical tool wear (207min),true
+8753,WARNING,83.99,HEALTHY,Multi-factor degradation detected,false
+8764,WARNING,84.97,HEALTHY,Multi-factor degradation detected,false
+8765,WARNING,83.12,HEALTHY,Multi-factor degradation detected,false
+8766,WARNING,82.42,HEALTHY,Multi-factor degradation detected,false
+8767,WARNING,81.96,HEALTHY,Multi-factor degradation detected,false
+8768,WARNING,81.19,HEALTHY,Multi-factor degradation detected,false
+8769,WARNING,80.86,HEALTHY,Multi-factor degradation detected,false
+8770,WARNING,82.57,HEALTHY,Multi-factor degradation detected,false
+8771,WARNING,80.53,HEALTHY,Multi-factor degradation detected,false
+8772,WARNING,81.75,HEALTHY,Critical tool wear (202min),false
+8805,WARNING,85.65,HEALTHY,Multi-factor degradation detected,false
+8824,WARNING,78.62,HEALTHY,Multi-factor degradation detected,false
+8840,WARNING,85.49,HEALTHY,Multi-factor degradation detected,false
+8841,WARNING,84.84,HEALTHY,Multi-factor degradation detected,false
+8842,WARNING,84.31,HEALTHY,Multi-factor degradation detected,false
+8843,WARNING,83.96,HEALTHY,Multi-factor degradation detected,false
+8844,WARNING,83.65,HEALTHY,Multi-factor degradation detected,false
+8845,WARNING,81.09,HEALTHY,Multi-factor degradation detected,false
+8846,WARNING,75.74,HEALTHY,Critical tool wear (201min),false
+8847,FAILURE_CONFIRMED,73.62,HEALTHY,Critical tool wear (204min),true
+8857,WARNING,91.85,HEALTHY,Multi-factor degradation detected,false
+8906,WARNING,83.45,HEALTHY,Multi-factor degradation detected,false
+8917,WARNING,73.92,HEALTHY,Rotational speed anomaly (2267rpm),false
+8918,WARNING,84.73,HEALTHY,Multi-factor degradation detected,false
+8919,WARNING,82.18,HEALTHY,Multi-factor degradation detected,false
+8920,WARNING,81.81,HEALTHY,Multi-factor degradation detected,false
+8921,WARNING,82.19,HEALTHY,Multi-factor degradation detected,false
+8922,WARNING,81.65,HEALTHY,Multi-factor degradation detected,false
+8923,WARNING,82.80,HEALTHY,Multi-factor degradation detected,false
+8924,WARNING,81.08,HEALTHY,Multi-factor degradation detected,false
+8925,WARNING,81.93,HEALTHY,Multi-factor degradation detected,false
+8926,WARNING,81.10,HEALTHY,Critical tool wear (204min),false
+8927,FAILURE_CONFIRMED,74.41,HEALTHY,Critical tool wear (207min),true
+8928,WARNING,72.21,HEALTHY,Critical tool wear (210min),false
+8929,WARNING,79.70,HEALTHY,Critical tool wear (213min),false
+8930,WARNING,79.35,HEALTHY,Critical tool wear (215min),false
+8950,WARNING,90.35,HEALTHY,Multi-factor degradation detected,false
+8956,WARNING,90.80,HEALTHY,Multi-factor degradation detected,false
+8957,WARNING,90.31,HEALTHY,Multi-factor degradation detected,false
+8983,WARNING,77.85,HEALTHY,Multi-factor degradation detected,false
+8985,WARNING,77.03,HEALTHY,Multi-factor degradation detected,false
+9005,WARNING,83.59,HEALTHY,Multi-factor degradation detected,false
+9006,WARNING,78.24,HEALTHY,Multi-factor degradation detected,false
+9007,WARNING,84.19,HEALTHY,Multi-factor degradation detected,false
+9008,WARNING,82.52,HEALTHY,Multi-factor degradation detected,false
+9009,WARNING,83.57,HEALTHY,Multi-factor degradation detected,false
+9010,WARNING,81.64,HEALTHY,Multi-factor degradation detected,false
+9011,WARNING,82.56,HEALTHY,Multi-factor degradation detected,false
+9012,WARNING,82.21,HEALTHY,Multi-factor degradation detected,false
+9013,WARNING,77.83,HEALTHY,Multi-factor degradation detected,false
+9014,WARNING,81.38,HEALTHY,Critical tool wear (202min),false
+9015,FAILURE_CONFIRMED,72.88,HEALTHY,Critical tool wear (207min),true
+9016,FAILURE_CONFIRMED,78.18,HEALTHY,Critical tool wear (210min),true
+9017,FAILURE_CONFIRMED,77.54,HEALTHY,Critical tool wear (212min),true
+9018,WARNING,77.24,HEALTHY,Critical tool wear (214min),false
+9019,FAILURE_CONFIRMED,78.84,HEALTHY,Critical tool wear (217min),true
+9042,WARNING,90.65,HEALTHY,Multi-factor degradation detected,false
+9059,WARNING,84.34,HEALTHY,Multi-factor degradation detected,false
+9068,WARNING,79.70,HEALTHY,Multi-factor degradation detected,false
+9085,FAILURE_CONFIRMED,77.16,HEALTHY,Multi-factor degradation detected,true
+9088,WARNING,82.75,HEALTHY,Multi-factor degradation detected,false
+9089,WARNING,82.35,HEALTHY,Multi-factor degradation detected,false
+9090,WARNING,75.52,HEALTHY,Multi-factor degradation detected,false
+9091,WARNING,80.15,HEALTHY,Multi-factor degradation detected,false
+9092,WARNING,79.87,HEALTHY,Multi-factor degradation detected,false
+9093,WARNING,81.54,HEALTHY,Multi-factor degradation detected,false
+9094,WARNING,79.19,HEALTHY,Multi-factor degradation detected,false
+9095,WARNING,75.74,HEALTHY,Multi-factor degradation detected,false
+9096,WARNING,80.13,HEALTHY,Critical tool wear (202min),false
+9097,WARNING,77.76,HEALTHY,Critical tool wear (204min),false
+9098,WARNING,80.76,HEALTHY,Critical tool wear (206min),false
+9151,WARNING,79.00,HEALTHY,Multi-factor degradation detected,false
+9156,WARNING,77.04,HEALTHY,Multi-factor degradation detected,false
+9166,WARNING,79.08,HEALTHY,Multi-factor degradation detected,false
+9169,WARNING,85.55,HEALTHY,Multi-factor degradation detected,false
+9170,WARNING,76.39,HEALTHY,Multi-factor degradation detected,false
+9171,WARNING,82.86,HEALTHY,Multi-factor degradation detected,false
+9172,WARNING,82.70,HEALTHY,Multi-factor degradation detected,false
+9173,WARNING,79.77,HEALTHY,Multi-factor degradation detected,false
+9174,WARNING,81.64,HEALTHY,Multi-factor degradation detected,false
+9175,FAILURE_CONFIRMED,77.92,HEALTHY,Multi-factor degradation detected,true
+9176,FAILURE_CONFIRMED,91.88,HEALTHY,Multi-factor degradation detected,true
+9179,WARNING,93.65,HEALTHY,Multi-factor degradation detected,false
+9210,WARNING,88.67,HEALTHY,Multi-factor degradation detected,false
+9220,WARNING,83.90,HEALTHY,Multi-factor degradation detected,false
+9221,WARNING,81.91,HEALTHY,Multi-factor degradation detected,false
+9243,WARNING,79.56,HEALTHY,Multi-factor degradation detected,false
+9251,WARNING,81.42,HEALTHY,Multi-factor degradation detected,false
+9252,WARNING,82.79,HEALTHY,Multi-factor degradation detected,false
+9253,WARNING,84.37,HEALTHY,Multi-factor degradation detected,false
+9254,WARNING,83.80,HEALTHY,Multi-factor degradation detected,false
+9255,WARNING,81.45,HEALTHY,Multi-factor degradation detected,false
+9256,WARNING,81.24,HEALTHY,Multi-factor degradation detected,false
+9257,WARNING,82.54,HEALTHY,Multi-factor degradation detected,false
+9258,WARNING,74.38,HEALTHY,Critical tool wear (201min),false
+9261,WARNING,93.65,HEALTHY,Multi-factor degradation detected,false
+9268,WARNING,93.58,HEALTHY,Multi-factor degradation detected,false
+9270,WARNING,92.21,HEALTHY,Multi-factor degradation detected,false
+9271,WARNING,92.28,HEALTHY,Multi-factor degradation detected,false
+9292,WARNING,86.83,HEALTHY,Multi-factor degradation detected,false
+9328,WARNING,83.91,HEALTHY,Multi-factor degradation detected,false
+9329,WARNING,74.19,HEALTHY,Rotational speed anomaly (2051rpm),false
+9330,WARNING,84.14,HEALTHY,Multi-factor degradation detected,false
+9331,WARNING,83.88,HEALTHY,Multi-factor degradation detected,false
+9332,WARNING,83.31,HEALTHY,Multi-factor degradation detected,false
+9333,WARNING,74.54,HEALTHY,Multi-factor degradation detected,false
+9334,WARNING,82.42,HEALTHY,Multi-factor degradation detected,false
+9335,WARNING,82.09,HEALTHY,Critical tool wear (201min),false
+9336,WARNING,79.86,HEALTHY,Critical tool wear (203min),false
+9337,WARNING,78.12,HEALTHY,Critical tool wear (205min),false
+9338,WARNING,80.99,HEALTHY,Critical tool wear (207min),false
+9339,WARNING,78.38,HEALTHY,Critical tool wear (212min),false
+9340,WARNING,79.28,HEALTHY,Critical tool wear (217min),false
+9366,WARNING,89.34,HEALTHY,Multi-factor degradation detected,false
+9385,WARNING,80.61,HEALTHY,Multi-factor degradation detected,false
+9390,WARNING,75.97,HEALTHY,Multi-factor degradation detected,false
+9405,WARNING,74.61,HEALTHY,Rotational speed anomaly (2007rpm),false
+9406,WARNING,83.26,HEALTHY,Multi-factor degradation detected,false
+9407,WARNING,73.43,HEALTHY,Rotational speed anomaly (2189rpm),false
+9408,WARNING,82.18,HEALTHY,Multi-factor degradation detected,false
+9409,WARNING,82.49,HEALTHY,Multi-factor degradation detected,false
+9410,WARNING,80.93,HEALTHY,Multi-factor degradation detected,false
+9411,WARNING,80.91,HEALTHY,Multi-factor degradation detected,false
+9412,WARNING,80.69,HEALTHY,Critical tool wear (201min),false
+9413,WARNING,77.99,HEALTHY,Critical tool wear (203min),false
+9414,WARNING,81.42,HEALTHY,Critical tool wear (205min),false
+9415,FAILURE_CONFIRMED,78.71,HEALTHY,Critical tool wear (207min),true
+9427,WARNING,93.59,HEALTHY,Multi-factor degradation detected,false
+9432,WARNING,93.60,HEALTHY,Multi-factor degradation detected,false
+9439,WARNING,92.01,HEALTHY,Multi-factor degradation detected,false
+9454,WARNING,83.68,HEALTHY,Multi-factor degradation detected,false
+9469,WARNING,76.67,HEALTHY,Multi-factor degradation detected,false
+9482,WARNING,82.81,HEALTHY,Multi-factor degradation detected,false
+9483,WARNING,78.25,HEALTHY,Multi-factor degradation detected,false
+9484,WARNING,83.58,HEALTHY,Multi-factor degradation detected,false
+9485,WARNING,81.29,HEALTHY,Multi-factor degradation detected,false
+9486,WARNING,81.00,HEALTHY,Multi-factor degradation detected,false
+9487,WARNING,80.62,HEALTHY,Multi-factor degradation detected,false
+9488,WARNING,81.47,HEALTHY,Critical tool wear (202min),false
+9489,WARNING,79.81,HEALTHY,Critical tool wear (204min),false
+9490,WARNING,80.56,HEALTHY,Critical tool wear (207min),false
+9491,WARNING,80.16,HEALTHY,Critical tool wear (209min),false
+9492,WARNING,79.64,HEALTHY,Critical tool wear (212min),false
+9493,WARNING,78.99,HEALTHY,Critical tool wear (215min),false
+9494,FAILURE_CONFIRMED,72.42,HEALTHY,Critical tool wear (217min),true
+9495,WARNING,78.24,HEALTHY,Critical tool wear (219min),false
+9496,WARNING,77.80,HEALTHY,Critical tool wear (221min),false
+9497,WARNING,75.05,HEALTHY,Critical tool wear (226min),false
+9527,WARNING,88.08,HEALTHY,Multi-factor degradation detected,false
+9529,WARNING,85.59,HEALTHY,Multi-factor degradation detected,false
+9568,WARNING,84.14,HEALTHY,Multi-factor degradation detected,false
+9569,WARNING,83.79,HEALTHY,Multi-factor degradation detected,false
+9570,WARNING,74.98,HEALTHY,Multi-factor degradation detected,false
+9571,WARNING,81.39,HEALTHY,Multi-factor degradation detected,false
+9572,WARNING,82.72,HEALTHY,Multi-factor degradation detected,false
+9573,WARNING,80.80,HEALTHY,Multi-factor degradation detected,false
+9574,WARNING,81.81,HEALTHY,Multi-factor degradation detected,false
+9575,WARNING,80.05,HEALTHY,Multi-factor degradation detected,false
+9576,WARNING,80.67,HEALTHY,Critical tool wear (202min),false
+9577,FAILURE_CONFIRMED,71.77,HEALTHY,Critical tool wear (205min),true
+9581,WARNING,92.36,HEALTHY,Multi-factor degradation detected,false
+9584,WARNING,90.98,HEALTHY,Multi-factor degradation detected,false
+9614,FAILURE_CONFIRMED,83.89,HEALTHY,Multi-factor degradation detected,true
+9627,WARNING,79.58,HEALTHY,Multi-factor degradation detected,false
+9633,WARNING,76.08,HEALTHY,Multi-factor degradation detected,false
+9647,WARNING,82.94,HEALTHY,Multi-factor degradation detected,false
+9648,WARNING,82.93,HEALTHY,Multi-factor degradation detected,false
+9649,WARNING,84.16,HEALTHY,Multi-factor degradation detected,false
+9650,WARNING,82.36,HEALTHY,Multi-factor degradation detected,false
+9651,WARNING,82.97,HEALTHY,Multi-factor degradation detected,false
+9652,WARNING,82.45,HEALTHY,Multi-factor degradation detected,false
+9653,WARNING,80.56,HEALTHY,Multi-factor degradation detected,false
+9654,FAILURE_CONFIRMED,75.24,HEALTHY,Critical tool wear (201min),true
+9655,FAILURE_CONFIRMED,74.80,HEALTHY,Critical tool wear (203min),true
+9656,WARNING,78.89,HEALTHY,Critical tool wear (205min),false
+9657,WARNING,78.34,HEALTHY,Critical tool wear (210min),false
+9658,WARNING,79.53,HEALTHY,Critical tool wear (212min),false
+9659,WARNING,77.90,HEALTHY,Critical tool wear (214min),false
+9660,FAILURE_CONFIRMED,69.67,WARNING,Critical tool wear (216min),true
+9661,WARNING,78.60,HEALTHY,Critical tool wear (218min),false
+9662,WARNING,77.95,HEALTHY,Critical tool wear (221min),false
+9663,WARNING,75.22,HEALTHY,Critical tool wear (226min),false
+9664,FAILURE_CONFIRMED,74.74,HEALTHY,Critical tool wear (229min),true
+9665,FAILURE_CONFIRMED,73.60,HEALTHY,Critical tool wear (231min),true
+9666,WARNING,74.18,HEALTHY,Critical tool wear (233min),false
+9667,WARNING,67.17,WARNING,Critical tool wear (235min),false
+9668,FAILURE_CONFIRMED,73.03,HEALTHY,Critical tool wear (238min),true
+9669,WARNING,74.46,HEALTHY,Critical tool wear (240min),false
+9670,CRITICAL,72.37,HEALTHY,Critical tool wear (242min),false
+9671,CRITICAL,72.06,HEALTHY,Critical tool wear (244min),false
+9672,CRITICAL,73.50,HEALTHY,Critical tool wear (246min),false
+9676,WARNING,91.29,HEALTHY,Multi-factor degradation detected,false
+9684,WARNING,92.88,HEALTHY,Multi-factor degradation detected,false
+9690,WARNING,92.84,HEALTHY,Multi-factor degradation detected,false
+9711,WARNING,83.67,HEALTHY,Multi-factor degradation detected,false
+9716,WARNING,82.64,HEALTHY,Multi-factor degradation detected,false
+9720,WARNING,80.89,HEALTHY,Multi-factor degradation detected,false
+9737,WARNING,81.90,HEALTHY,Multi-factor degradation detected,false
+9745,WARNING,85.01,HEALTHY,Multi-factor degradation detected,false
+9746,WARNING,83.12,HEALTHY,Multi-factor degradation detected,false
+9747,WARNING,83.02,HEALTHY,Multi-factor degradation detected,false
+9748,WARNING,82.41,HEALTHY,Multi-factor degradation detected,false
+9749,WARNING,83.56,HEALTHY,Multi-factor degradation detected,false
+9750,WARNING,81.79,HEALTHY,Multi-factor degradation detected,false
+9751,WARNING,80.75,HEALTHY,Multi-factor degradation detected,false
+9752,WARNING,80.01,HEALTHY,Multi-factor degradation detected,false
+9753,WARNING,80.17,HEALTHY,Critical tool wear (201min),false
+9754,WARNING,81.42,HEALTHY,Critical tool wear (203min),false
+9755,WARNING,79.74,HEALTHY,Critical tool wear (205min),false
+9756,WARNING,80.59,HEALTHY,Critical tool wear (208min),false
+9757,WARNING,79.62,HEALTHY,Critical tool wear (213min),false
+9758,WARNING,77.86,HEALTHY,Critical tool wear (215min),false
+9759,FAILURE_CONFIRMED,67.59,WARNING,Critical tool wear (218min),true
+9765,FAILURE_CONFIRMED,89.71,HEALTHY,Multi-factor degradation detected,true
+9778,WARNING,93.22,HEALTHY,Multi-factor degradation detected,false
+9807,WARNING,75.97,HEALTHY,Multi-factor degradation detected,false
+9821,WARNING,85.16,HEALTHY,Multi-factor degradation detected,false
+9822,WARNING,84.67,HEALTHY,Multi-factor degradation detected,false
+9823,FAILURE_CONFIRMED,76.76,HEALTHY,Multi-factor degradation detected,true
+9824,WARNING,84.06,HEALTHY,Multi-factor degradation detected,false
+9825,WARNING,83.59,HEALTHY,Multi-factor degradation detected,false
+9826,WARNING,81.70,HEALTHY,Multi-factor degradation detected,false
+9827,WARNING,80.71,HEALTHY,Multi-factor degradation detected,false
+9828,WARNING,76.34,HEALTHY,Multi-factor degradation detected,false
+9829,WARNING,80.10,HEALTHY,Critical tool wear (201min),false
+9830,WARNING,81.63,HEALTHY,Critical tool wear (203min),false
+9831,FAILURE_CONFIRMED,74.94,HEALTHY,Critical tool wear (206min),true
+9832,WARNING,80.79,HEALTHY,Critical tool wear (208min),false
+9833,WARNING,69.55,WARNING,Critical tool wear (210min),false
+9834,WARNING,78.92,HEALTHY,Critical tool wear (212min),false
+9847,WARNING,93.60,HEALTHY,Multi-factor degradation detected,false
+9864,WARNING,87.05,HEALTHY,Multi-factor degradation detected,false
+9877,WARNING,81.19,HEALTHY,Multi-factor degradation detected,false
+9878,WARNING,80.31,HEALTHY,Multi-factor degradation detected,false
+9879,WARNING,78.49,HEALTHY,Multi-factor degradation detected,false
+9894,WARNING,79.98,HEALTHY,Multi-factor degradation detected,false
+9901,WARNING,85.23,HEALTHY,Multi-factor degradation detected,false
+9902,WARNING,82.61,HEALTHY,Multi-factor degradation detected,false
+9903,WARNING,82.50,HEALTHY,Multi-factor degradation detected,false
+9904,WARNING,81.61,HEALTHY,Multi-factor degradation detected,false
+9905,WARNING,82.51,HEALTHY,Multi-factor degradation detected,false
+9906,WARNING,80.30,HEALTHY,Multi-factor degradation detected,false
+9907,WARNING,81.64,HEALTHY,Critical tool wear (203min),false
+9908,WARNING,81.11,HEALTHY,Critical tool wear (206min),false
+9913,WARNING,93.41,HEALTHY,Multi-factor degradation detected,false
+9919,WARNING,93.48,HEALTHY,Multi-factor degradation detected,false
+9920,WARNING,93.43,HEALTHY,Multi-factor degradation detected,false
+9952,WARNING,81.83,HEALTHY,Multi-factor degradation detected,false
+9975,FAILURE_CONFIRMED,78.27,HEALTHY,Multi-factor degradation detected,true
+9979,WARNING,83.12,HEALTHY,Multi-factor degradation detected,false
+9980,WARNING,82.59,HEALTHY,Multi-factor degradation detected,false
+9981,WARNING,84.07,HEALTHY,Multi-factor degradation detected,false
+9982,WARNING,82.21,HEALTHY,Multi-factor degradation detected,false
+9983,WARNING,81.99,HEALTHY,Multi-factor degradation detected,false
+9984,WARNING,80.76,HEALTHY,Multi-factor degradation detected,false
+9985,WARNING,82.45,HEALTHY,Multi-factor degradation detected,false
+9986,WARNING,81.61,HEALTHY,Critical tool wear (202min),false
+9987,WARNING,80.72,HEALTHY,Critical tool wear (207min),false
+9988,WARNING,80.20,HEALTHY,Critical tool wear (210min),false
+9989,WARNING,71.66,HEALTHY,Critical tool wear (213min),false

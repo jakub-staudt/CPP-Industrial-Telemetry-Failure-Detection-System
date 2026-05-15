@@ -19,6 +19,19 @@ public:
      */
     static void generateReport(const ReplayEngine& engine, const std::string& outputPath = "");
 
+    /**
+     * Generate CSV output with detection results
+     * @param engine The replay engine that executed the session
+     * @param outputPath File path to write CSV output
+     */
+    static void generateCSV(const ReplayEngine& engine, const std::string& outputPath);
+
+    /**
+     * Generate summary-only console output
+     * @param engine The replay engine that executed the session
+     */
+    static void printSummary(const ReplayEngine& engine);
+
 private:
     /**
      * Generate executive summary section

@@ -14,56 +14,51 @@ void printUsage(const char* programName) {
     std::cout << "╚═══════════════════════════════════════════════════════════╝\n";
     std::cout << "\n";
     std::cout << "USAGE:\n";
-    std::cout << "  " << programName << " <csv_file> [OPTIONS]\n";
-    std::cout << "\n";
-    std::cout << "ARGUMENTS:\n";
-    std::cout << "  <csv_file>             Path to the AI4I 2020 CSV dataset\n";
+    std::cout << "  " << programName << " [OPTIONS]\n";
     std::cout << "\n";
     std::cout << "OPTIONS:\n";
-    std::cout << "  --delay <ms>           Delay between records in milliseconds (default: 100)\n";
+    std::cout << "  --input <file>         Input CSV file (default: data/equipment_telemetry.csv)\n";
+    std::cout << "  --output <file>        Output CSV file (default: output/results.csv)\n";
     std::cout << "  --limit <n>            Maximum number of rows to process (default: all)\n";
-    std::cout << "  --report <file>        Write session report to file (default: stdout)\n";
-    std::cout << "  --quiet                Suppress verbose output during replay\n";
-    std::cout << "  --no-headers           Hide column headers in output\n";
+    std::cout << "  --report <file>        Write detailed report to file (optional)\n";
     std::cout << "  --help                 Show this help message\n";
     std::cout << "\n";
     std::cout << "EXAMPLES:\n";
-    std::cout << "  # Replay first 300 records with 50ms delay\n";
-    std::cout << "  " << programName << " data/ai4i2020.csv --limit 300 --delay 50\n";
+    std::cout << "  # Fast computation with default paths\n";
+    std::cout << "  " << programName << "\n";
     std::cout << "\n";
-    std::cout << "  # Full replay with session report to file\n";
-    std::cout << "  " << programName << " data/ai4i2020.csv --report session_report.txt\n";
+    std::cout << "  # Process first 1000 rows\n";
+    std::cout << "  " << programName << " --limit 1000\n";
     std::cout << "\n";
-    std::cout << "  # Quick replay with minimal output\n";
-    std::cout << "  " << programName << " data/ai4i2020.csv --delay 10 --quiet\n";
+    std::cout << "  # Custom input and output paths\n";
+    std::cout << "  " << programName << " --input custom.csv --output custom_results.csv\n";
     std::cout << "\n";
 }
 
 /**
  * Parse command-line arguments
  */
-bool parseArguments(int argc, char* argv[], ReplayConfig& config, std::string& reportPath) {
-    if (argc < 2) {
-        printUsage(argv[0]);
-        return false;
-    }
-
-    config.dataFilePath = argv[1];
+bool parseArguments(int argc, char* argv[], ReplayConfig& config, std::string& reportPath, std::string& csvPath, std::string& inputPath) {
+    // Set defaults
+    inputPath = "data/equipment_telemetry.csv";
+    csvPath = "output/results.csv";
 
     // Check for help flag first
-    for (int i = 2; i < argc; ++i) {
+    for (int i = 1; i < argc; ++i) {
         if (strcmp(argv[i], "--help") == 0 || strcmp(argv[i], "-h") == 0) {
             printUsage(argv[0]);
             return false;
         }
     }
-
-    // Parse remaining arguments
-    for (int i = 2; i < argc; ++i) {
+ 
+    // Parse arguments
+    for (int i = 1; i < argc; ++i) {
         std::string arg = argv[i];
-
-        if (arg == "--delay" && i + 1 < argc) {
-            config.delayMs = std::stoi(argv[++i]);
+ 
+        if (arg == "--input" && i + 1 < argc) {
+            inputPath = argv[++i];
+        } else if (arg == "--output" && i + 1 < argc) {
+            csvPath = argv[++i];
         } else if (arg == "--limit" && i + 1 < argc) {
             config.limitRows = std::stoi(argv[++i]);
         } else if (arg == "--report" && i + 1 < argc) {
@@ -78,7 +73,7 @@ bool parseArguments(int argc, char* argv[], ReplayConfig& config, std::string& r
             return false;
         }
     }
-
+ 
     return true;
 }
 
@@ -89,21 +84,35 @@ int main(int argc, char* argv[]) {
     try {
         ReplayConfig config;
         std::string reportPath;
-
+        std::string csvPath;
+        std::string inputPath;
+ 
         // Parse arguments
-        if (!parseArguments(argc, argv, config, reportPath)) {
+        if (!parseArguments(argc, argv, config, reportPath, csvPath, inputPath)) {
             return 1;
         }
 
+        // Set input file path
+        config.dataFilePath = inputPath;
+ 
         // Create and run replay engine
         ReplayEngine engine(config);
         engine.start();
-
-        // Generate and output report
-        ReportGenerator::generateReport(engine, reportPath);
-
+ 
+        // Output results to CSV
+        ReportGenerator::generateCSV(engine, csvPath);
+        std::cout << "✓ CSV written to: " << csvPath << "\n";
+         
+        // Print summary to console
+        ReportGenerator::printSummary(engine);
+ 
+        // Generate detailed report if requested
+        if (!reportPath.empty()) {
+            ReportGenerator::generateReport(engine, reportPath);
+        }
+ 
         return 0;
-
+ 
     } catch (const std::exception& e) {
         std::cerr << "\n❌ Error: " << e.what() << "\n\n";
         return 1;
