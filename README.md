@@ -1,6 +1,6 @@
 <img src="images/cover.jpg" alt="Project" width="100%">
 
-A C++17 command-line application that analyzes industrial machine telemetry data from CSV, calculates machinery health scores, detects failure conditions, and outputs results to CSV. Could be used to detect equipment that requires repair on a factory floor.
+A C++ command-line application that analyzes industrial machine telemetry data from CSV, calculates machinery health scores, detects failure conditions, and outputs results to CSV. Could be used to detect equipment that requires repair on a factory floor.
 
 ## Project Overview
 
